@@ -284,7 +284,8 @@ z-index:9999;
   <br>
   <button onclick="fecharPopup()">Fechar</button>
 </div>
-function verResumo(texto) {
+<script>
+  function verResumo(texto) {
   document.getElementById("textoPopup").innerText = texto;
   document.getElementById("popup").style.display = "block";
 }
@@ -292,7 +293,8 @@ function verResumo(texto) {
 function fecharPopup() {
   document.getElementById("popup").style.display = "none";
 }
-<!-- BOTÃO FINALIZAR -->
+<script>
+  <!-- BOTÃO FINALIZAR -->
 <button onclick="finalizarCompra()"
 style="position:fixed; bottom:20px; left:20px; background:red; color:white; padding:12px 20px; border:none; border-radius:25px;z-index:9999">
 Finalizar Compra
