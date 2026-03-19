@@ -258,8 +258,7 @@ function finalizarCompra() {
 
   mensagem += "%0ATotal: R$ " + total;
 
-  window.open("https://wa.me/5592994730210?text=" + mensagem, "_blank");
-  let url = "https://wa.me/5592994730210?text=" + mensagem;
+   let url = "https://wa.me/5592994730210?text=" + mensagem;
 window.open(url, "_blank");
 }
 function verResumo(texto) {
@@ -305,6 +304,9 @@ z-index:9999;
     <!-- BOTÃO FINALIZAR -->
 let url = "https://wa.me/5592994730210?text=" + mensagem;
 window.open(url, "_blank");
-
+<button onclick="finalizarCompra()" 
+style="position:fixed; bottom:20px; left:20px; background:red; color:white; padding:12px 20px; border:none; border-radius:10px;">
+🚀 Comprar agora
+</button>
 </body>
 </html>
