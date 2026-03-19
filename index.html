@@ -263,6 +263,22 @@ function finalizarCompra() {
 function verResumo(texto) {
   alert(texto);
 }
+  function enviarWhatsApp() {
+    if (!carrinho || carrinho.length === 0) {
+        alert("Seu carrinho está vazio!");
+        return;
+    }
+
+    let mensagem = "Olá, quero comprar:%0A";
+
+    carrinho.forEach(item => {
+        mensagem += "- " + item.nome + " - R$ " + item.preco + "%0A";
+    });
+
+    let url = "https://wa.me/5592994730210?text=" + mensagem;
+
+    window.open(url, "_blank");
+}
 </script>
 <div id="popup" style="
 display:none;
