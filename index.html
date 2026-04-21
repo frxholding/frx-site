@@ -612,52 +612,6 @@ Autor: Alberto Xavier
 </footer>
 <!-- SCRIPT -->
 <script>
-let carrinho = [];
-
-function adicionarCarrinho(nome, preco) {
-  carrinho.push({nome, preco});
-  document.getElementById("contador").innerText = carrinho.length;
-  alert(nome + " adicionado ao carrinho!");
-}
-
-function finalizarCompra() {
-  if (carrinho.length === 0) {
-    alert("Seu carrinho está vazio!");
-    return;
-  }
-
-  let mensagem = "Olá, quero comprar:%0A";
-  let total = 0;
-
-  carrinho.forEach(item => {
-    mensagem += "- " + item.nome + " - R$ " + item.preco + "%0A";
-    total += item.preco;
-  });
-
-  mensagem += "%0ATotal: R$ " + total;
-
-   let url = "https://wa.me/5592994730210?text=" + mensagem;
-window.open(url, "_blank");
-}
-function verResumo(texto) {
-  alert(texto);
-}
-  function enviarWhatsApp() {
-    if (!carrinho || carrinho.length === 0) {
-        alert("Seu carrinho está vazio!");
-        return;
-    }
-
-    let mensagem = "Olá, quero comprar:%0A";
-
-    carrinho.forEach(item => {
-        mensagem += "- " + item.nome + " - R$ " + item.preco + "%0A";
-    });
-
-    let url = "https://wa.me/5592994730210?text=" + mensagem;
-
-    window.open(url, "_blank");
-}
 </script>
 <div id="popup" style="
 display:none;
