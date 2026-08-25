@@ -81,6 +81,71 @@ header a:hover {
   color:#0b2e4a;
   text-align:left;
 }
+    .banner-conteudo {
+  max-width: 900px;
+  text-align: center;
+  padding: 20px;
+}
+
+.banner-marca {
+  display: inline-block;
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 3px;
+  color: #c9972b;
+  margin-bottom: 20px;
+}
+
+.banner-conteudo h1 {
+  font-size: 44px;
+  line-height: 1.2;
+  color: #0b2e4a;
+  margin: 0 auto 20px;
+  max-width: 850px;
+}
+
+.banner-conteudo h1 span {
+  color: #c9972b;
+}
+
+.banner-conteudo p {
+  font-size: 20px;
+  line-height: 1.6;
+  color: #555;
+  max-width: 750px;
+  margin: 0 auto 30px;
+}
+
+.banner-botoes {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.banner-btn {
+  display: inline-block;
+  padding: 14px 28px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.banner-btn.principal {
+  background: #0b2e4a;
+  color: white;
+}
+
+.banner-btn.secundario {
+  background: #c9972b;
+  color: white;
+}
+
+.banner-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 18px rgba(0,0,0,0.12);
+}
 @media (max-width: 768px) {
   .banner {
     background-position: center 5%;
