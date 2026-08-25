@@ -62,19 +62,24 @@ header a:hover {
 /* BANNER */
 .banner {
   margin-top: 90px;
-  background: url('banner.png') no-repeat;
-  background-size: cover;
-  background-position: center 30%;
 
-  padding: 120px 20px;
-min-height: 500px;
+  background:
+    linear-gradient(
+      90deg,
+      #ffffff 0%,
+      #f8fbff 55%,
+      #eef4fa 100%
+    );
 
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  padding: 90px 20px;
+  min-height: 430px;
 
-  color: white;
-  text-align: center;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+
+  color:#0b2e4a;
+  text-align:left;
 }
 @media (max-width: 768px) {
   .banner {
