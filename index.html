@@ -536,6 +536,154 @@ button {
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
   font-style: italic;
 }
+    /* ========================================
+   FRX - QUATRO ÁREAS DE ATUAÇÃO
+   ======================================== */
+
+.frx-areas {
+  padding: 70px 30px;
+  background: #ffffff;
+  text-align: center;
+}
+
+.frx-areas-titulo {
+  max-width: 850px;
+  margin: 0 auto 45px;
+}
+
+.frx-areas-titulo .label {
+  display: block;
+  color: #c9972b;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
+
+.frx-areas-titulo h2 {
+  color: #0b2e4a;
+  font-size: 34px;
+  margin: 0 0 12px;
+}
+
+.frx-areas-titulo p {
+  color: #666;
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.frx-areas-grid {
+  max-width: 1250px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.frx-area-card {
+  position: relative;
+  min-height: 300px;
+  padding: 30px 25px;
+  border-radius: 16px;
+  text-align: left;
+  background: #f7faff;
+  border: 1px solid #e6edf5;
+  box-shadow: 0 8px 25px rgba(11,46,74,0.07);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.frx-area-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 14px 30px rgba(11,46,74,0.12);
+}
+
+.frx-area-icone {
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28px;
+  margin-bottom: 20px;
+  background: #ffffff;
+  border: 2px solid #0b2e4a;
+}
+
+.frx-area-card h3 {
+  font-size: 25px;
+  margin: 0 0 12px;
+  color: #0b2e4a;
+}
+
+.frx-area-card p {
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 18px;
+}
+
+.frx-area-card ul {
+  padding-left: 18px;
+  margin: 0;
+  color: #444;
+  line-height: 1.8;
+  font-size: 14px;
+}
+
+.frx-area-card .frx-saiba-mais {
+  position: absolute;
+  bottom: 22px;
+  left: 25px;
+  color: #0b2e4a;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.frx-area-card .frx-saiba-mais:hover {
+  color: #c9972b;
+}
+
+/* Cores sutis de cada área */
+
+.frx-area-livros {
+  background: linear-gradient(145deg, #f4f8fd, #ffffff);
+}
+
+.frx-area-cursos {
+  background: linear-gradient(145deg, #f3faf5, #ffffff);
+}
+
+.frx-area-consultorias {
+  background: linear-gradient(145deg, #fffaf1, #ffffff);
+}
+
+.frx-area-publicidade {
+  background: linear-gradient(145deg, #f8f5fc, #ffffff);
+}
+
+/* RESPONSIVO */
+
+@media (max-width: 1000px) {
+  .frx-areas-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .frx-areas {
+    padding: 50px 20px;
+  }
+
+  .frx-areas-titulo h2 {
+    font-size: 28px;
+  }
+
+  .frx-areas-grid {
+    grid-template-columns: 1fr;
+  }
+}
 </style>
   <meta name="description" content="Compre livros de Alberto Xavier sobre vendas e licitações. Mais de 30 anos de experiência em B2B e B2G. Conteúdo prático, direto e profissional." />
 <!-- Google Analytics -->
