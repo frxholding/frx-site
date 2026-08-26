@@ -404,10 +404,13 @@ button {
 
 .livros-container {
   display: grid !important;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 25px;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 20px;
+  width: 100%;
   max-width: 1200px;
   margin: 40px auto;
+  box-sizing: border-box;
+  padding: 0 20px;
 }
 
 .livro-card {
