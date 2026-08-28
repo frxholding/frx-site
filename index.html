@@ -851,6 +851,225 @@ button {
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
   font-style: italic;
 }
+    /* =========================================================
+   NOVO BANNER PRINCIPAL - PADRÃO FRX
+   ========================================================= */
+
+.banner-principal {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  padding: 55px 4%;
+  background: #f4f8fc;
+  box-sizing: border-box;
+}
+
+/* ---------- LADO ESQUERDO ---------- */
+
+.banner-esquerda {
+  flex: 0 0 32%;
+  max-width: 500px;
+}
+
+.banner-marca {
+  display: block;
+  margin-bottom: 18px;
+  color: #c9972b;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+.banner-esquerda h1 {
+  margin: 0;
+  color: #0b2e4a;
+  font-size: 40px;
+  line-height: 1.12;
+}
+
+.banner-esquerda h1 span {
+  color: #c9972b;
+}
+
+.linha-dourada {
+  width: 42px;
+  height: 3px;
+  background: #c9972b;
+  margin: 20px 0;
+}
+
+.banner-esquerda p {
+  color: #333;
+  font-size: 15px;
+  line-height: 1.55;
+  margin-bottom: 25px;
+}
+
+/* ---------- BOTÕES ---------- */
+
+.banner-botoes {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.banner-btn-livros,
+.banner-btn-cursos {
+  min-height: 48px;
+  padding: 0 22px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: bold;
+  box-sizing: border-box;
+}
+
+.banner-btn-livros {
+  background: #0b2e4a;
+  color: #fff;
+  border: 1px solid #0b2e4a;
+}
+
+.banner-btn-cursos {
+  background: #fff;
+  color: #0b2e4a;
+  border: 1px solid #0b2e4a;
+}
+
+.banner-btn-livros:hover,
+.banner-btn-cursos:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(11,46,74,0.15);
+}
+
+/* ---------- LADO DIREITO ---------- */
+
+.banner-direita {
+  flex: 1;
+  min-width: 0;
+  text-align: center;
+}
+
+.banner-chamada {
+  margin-bottom: 18px;
+}
+
+.banner-chamada strong {
+  display: block;
+  color: #0b2e4a;
+  font-size: 19px;
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.banner-chamada span {
+  display: block;
+  color: #555;
+  font-size: 12px;
+}
+
+/* ---------- LIVROS ---------- */
+
+.banner-livros {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 18px;
+  width: 100%;
+}
+
+.banner-livro {
+  width: 145px;
+  height: 225px;
+  flex: 0 0 145px;
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+}
+
+.banner-livro img {
+  width: 145px;
+  height: 225px;
+  object-fit: fill;
+  display: block;
+}
+
+/* ---------- NOVAS OBRAS ---------- */
+
+.banner-novos {
+  width: 145px;
+  height: 225px;
+  flex: 0 0 145px;
+  border: 1px dashed #9fb0c0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  color: #0b2e4a;
+  background: rgba(255,255,255,0.25);
+}
+
+.banner-novos span {
+  font-size: 30px;
+  font-weight: 300;
+  margin-bottom: 12px;
+}
+
+.banner-novos strong {
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+/* ---------- DIFERENCIAIS ---------- */
+
+.banner-diferenciais {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin-top: 16px;
+  background: #fff;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 8px 22px rgba(11,46,74,0.10);
+}
+
+.banner-diferenciais > div {
+  min-height: 82px;
+  padding: 14px 18px;
+  display: grid;
+  grid-template-columns: 32px 1fr;
+  column-gap: 10px;
+  align-items: center;
+  text-align: left;
+  box-sizing: border-box;
+}
+
+.banner-diferenciais > div + div {
+  border-left: 1px solid #e1e5e9;
+}
+
+.banner-diferenciais span {
+  grid-row: span 2;
+  font-size: 21px;
+}
+
+.banner-diferenciais strong {
+  display: block;
+  color: #0b2e4a;
+  font-size: 12px;
+  line-height: 1.2;
+}
+
+.banner-diferenciais small {
+  display: block;
+  color: #333;
+  font-size: 10px;
+  line-height: 1.35;
+}
     /* ========================================
    FRX - QUATRO ÁREAS DE ATUAÇÃO
    ======================================== */
