@@ -74,7 +74,368 @@ header a {
 header a:hover {
   color:#c9972b;
 }
+/* ========================================
+   BANNER PRINCIPAL FRX — VERSÃO FINAL
+   ======================================== */
 
+.banner-principal {
+  margin-top: 90px;
+  min-height: 560px;
+  padding: 45px 4%;
+  box-sizing: border-box;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+
+  background: linear-gradient(
+    90deg,
+    #ffffff 0%,
+    #f8fbff 55%,
+    #eef4fa 100%
+  );
+
+  color: #0b2e4a;
+}
+
+/* ---------- LADO ESQUERDO ---------- */
+
+.banner-esquerda {
+  flex: 0 0 32%;
+  max-width: 520px;
+}
+
+.banner-marca {
+  display: block;
+  margin-bottom: 18px;
+
+  color: #c9972b;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0.8px;
+}
+
+.banner-esquerda h1 {
+  margin: 0;
+  color: #0b2e4a;
+  font-size: 40px;
+  line-height: 1.15;
+}
+
+.banner-esquerda h1 span {
+  color: #c9972b;
+}
+
+.linha-dourada {
+  width: 42px;
+  height: 3px;
+  background: #c9972b;
+  margin: 20px 0;
+}
+
+.banner-esquerda p {
+  color: #333;
+  font-size: 16px;
+  line-height: 1.55;
+  margin: 0 0 25px;
+  max-width: 500px;
+}
+
+/* ---------- BOTÕES ---------- */
+
+.banner-botoes {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.banner-btn-livros,
+.banner-btn-cursos {
+  min-height: 48px;
+  padding: 0 22px;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 6px;
+  text-decoration: none;
+
+  font-size: 13px;
+  font-weight: bold;
+
+  box-sizing: border-box;
+  transition: 0.3s ease;
+}
+
+.banner-btn-livros {
+  background: #0b2e4a;
+  color: #ffffff;
+  border: 1px solid #0b2e4a;
+}
+
+.banner-btn-cursos {
+  background: #ffffff;
+  color: #0b2e4a;
+  border: 1px solid #0b2e4a;
+}
+
+.banner-btn-livros:hover,
+.banner-btn-cursos:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(11,46,74,0.15);
+}
+
+/* ---------- LADO DIREITO ---------- */
+
+.banner-direita {
+  flex: 1;
+  min-width: 0;
+  text-align: center;
+}
+
+.banner-chamada {
+  margin-bottom: 18px;
+}
+
+.banner-chamada strong {
+  display: block;
+  color: #0b2e4a;
+  font-size: 19px;
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.banner-chamada span {
+  display: block;
+  color: #555;
+  font-size: 12px;
+}
+
+/* ---------- LIVROS ---------- */
+
+.banner-livros {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 14px;
+  width: 100%;
+}
+
+.banner-livro {
+  width: 140px;
+  height: 225px;
+  flex: 0 0 140px;
+
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+}
+
+.banner-livro img {
+  width: 140px;
+  height: 225px;
+  object-fit: fill;
+  display: block;
+}
+
+/* ---------- NOVAS OBRAS ---------- */
+
+.banner-novos {
+  width: 140px;
+  height: 225px;
+  flex: 0 0 140px;
+
+  border: 1px dashed #9fb0c0;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  box-sizing: border-box;
+
+  color: #0b2e4a;
+  background: rgba(255,255,255,0.35);
+
+  text-align: center;
+}
+
+.banner-novos span {
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 1;
+  margin-bottom: 12px;
+}
+
+.banner-novos strong {
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+/* ---------- DIFERENCIAIS ---------- */
+
+.banner-diferenciais {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+
+  margin-top: 16px;
+
+  background: #ffffff;
+  border-radius: 14px;
+  overflow: hidden;
+
+  box-shadow: 0 8px 22px rgba(11,46,74,0.10);
+}
+
+.banner-diferenciais > div {
+  min-height: 82px;
+  padding: 14px 15px;
+
+  display: grid;
+  grid-template-columns: 32px 1fr;
+  column-gap: 10px;
+  align-items: center;
+
+  text-align: left;
+  box-sizing: border-box;
+}
+
+.banner-diferenciais > div + div {
+  border-left: 1px solid #e1e5e9;
+}
+
+.banner-diferenciais span {
+  grid-row: span 2;
+  font-size: 21px;
+  text-align: center;
+}
+
+.banner-diferenciais strong {
+  display: block;
+  color: #0b2e4a;
+  font-size: 12px;
+  line-height: 1.2;
+}
+
+.banner-diferenciais small {
+  display: block;
+  color: #333;
+  font-size: 10px;
+  line-height: 1.35;
+}
+
+/* ========================================
+   RESPONSIVIDADE
+   ======================================== */
+
+@media (max-width: 1200px) {
+
+  .banner-principal {
+    gap: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .banner-esquerda {
+    flex-basis: 34%;
+  }
+
+  .banner-livros {
+    gap: 8px;
+  }
+
+  .banner-livro,
+  .banner-novos {
+    width: 120px;
+    flex-basis: 120px;
+  }
+
+  .banner-livro img {
+    width: 120px;
+  }
+}
+
+@media (max-width: 900px) {
+
+  .banner-principal {
+    flex-direction: column;
+    padding: 45px 25px;
+  }
+
+  .banner-esquerda {
+    max-width: 700px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .banner-esquerda h1 {
+    font-size: 36px;
+  }
+
+  .linha-dourada {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .banner-esquerda p {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .banner-botoes {
+    justify-content: center;
+  }
+
+  .banner-direita {
+    width: 100%;
+  }
+
+  .banner-livros {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 600px) {
+
+  .banner-principal {
+    margin-top: 90px;
+    padding: 35px 15px;
+  }
+
+  .banner-esquerda h1 {
+    font-size: 30px;
+  }
+
+  .banner-livros {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    justify-items: center;
+  }
+
+  .banner-livro,
+  .banner-novos {
+    width: 140px;
+    height: 210px;
+    flex: none;
+  }
+
+  .banner-livro img {
+    width: 140px;
+    height: 210px;
+  }
+
+  .banner-diferenciais {
+    grid-template-columns: 1fr;
+  }
+
+  .banner-diferenciais > div + div {
+    border-left: none;
+    border-top: 1px solid #e1e5e9;
+  }
+}
 
 /* SECTIONS */
 section {
