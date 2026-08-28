@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Livros | FRX Holding</title>
+
+  <meta
+    name="description"
+    content="Conheça os livros de Alberto Xavier sobre vendas, licitações, gestão, história e desenvolvimento pessoal."
+  >
+
+  <style>
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f7faff;
+      color: #333;
+    }
+
+    /* ---------- HEADER ---------- */
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 20px;
+      background: #ffffff;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      box-sizing: border-box;
+      z-index: 999;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    }
+
+    header img {
+      height: 160px;
+      width: auto;
+    }
+
+    .header-marca {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+    }
+
+    .header-marca span {
+      font-size: 16px;
+      line-height: 1.35;
+      color: #0b2e4a;
+    }
+
+    .header-menu {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    header a {
+      color: #0b2e4a;
+      margin-left: 24px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 18px;
+      white-space: nowrap;
+      flex-shrink: 0;
+      transition: color 0.3s ease;
+    }
+
+    header a:hover {
+      color: #c9972b;
+    }
+
+    /* ---------- TÍTULO ---------- */
+
+    .pagina-livros {
+      padding-top: 190px;
+      padding-bottom: 70px;
+    }
+
+    .livros-titulo {
+      text-align: center;
+      max-width: 900px;
+      margin: 0 auto 45px;
+      padding: 0 20px;
+    }
+
+    .livros-titulo h1 {
+      margin: 0 0 15px;
+      font-size: 42px;
+      color: #0b2e4a;
+    }
+
+    .livros-titulo h1 span {
+      color: #c9972b;
+    }
+
+    .livros-titulo p {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.6;
+      color: #555;
+    }
+
+    /* ---------- VITRINE DE LIVROS ---------- */
+
+    .livros-container {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 20px;
+      width: 100%;
+      max-width: 1200px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    .livro-card {
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.10);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      height: 100%;
+      position: relative;
+    }
+
+    .livro-card:hover {
+      transform: translateY(-8px);
+      box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+    }
+
+    .livro-card img {
+      width: 100%;
+      height: 320px;
+      object-fit: cover;
+      border-radius: 8px;
+      margin-bottom: 15px;
+    }
+
+    .livro-card h3 {
+      font-size: 18px;
+      line-height: 1.35;
+      margin: 0 0 10px;
+      color: #0b2e4a;
+    }
+
+    .livro-card .preco {
+      font-weight: bold;
+      font-size: 18px;
+      color: #28a745;
+      margin: 0 0 20px;
+    }
+
+    .livro-card .botao-comprar {
+      display: inline-block;
+      padding: 12px 18px;
+      background: #0b2e4a;
+      color: #ffffff;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 14px;
+      transition: 0.3s ease;
+    }
+
+    .livro-card .botao-comprar:hover {
+      background: #c9972b;
+      transform: translateY(-2px);
+    }
+
+    .livro-card.destaque {
+      border: 2px solid #c9972b;
+    }
+
+    .livro-card.destaque::before {
+      content: "MAIS VENDIDO";
+      display: inline-block;
+      background: #c9972b;
+      color: #ffffff;
+      font-size: 11px;
+      font-weight: bold;
+      padding: 6px 12px;
+      border-radius: 20px;
+      margin-bottom: 12px;
+    }
+
+    .livro-card.manaus-card img {
+      height: 320px;
+      object-fit: contain;
+    }
+
+    /* ---------- RODAPÉ ---------- */
+
+    footer {
+      background: #0b2e4a;
+      color: #ffffff;
+      text-align: center;
+      padding: 30px 20px;
+      margin-top: 50px;
+    }
+
+    footer p {
+      margin: 5px 0;
+      font-size: 14px;
+    }
+
+    /* ---------- RESPONSIVO ---------- */
+
+    @media (max-width: 1100px) {
+
+      .livros-container {
+        grid-template-columns: repeat(3, 1fr);
+      }
+
+    }
+
+    @media (max-width: 768px) {
+
+      header {
+        position: relative;
+        flex-direction: column;
+        padding: 10px 15px 20px;
+      }
+
+      header img {
+        height: 120px;
+      }
+
+      .header-marca {
+        flex-direction: column;
+        gap: 5px;
+        text-align: center;
+      }
+
+      .header-marca span {
+        font-size: 14px;
+      }
+
+      .header-menu {
+        justify-content: center;
+      }
+
+      header a {
+        margin: 8px 10px;
+        font-size: 15px;
+      }
+
+      .pagina-livros {
+        padding-top: 40px;
+      }
+
+      .livros-titulo h1 {
+        font-size: 34px;
+      }
+
+      .livros-titulo p {
+        font-size: 16px;
+      }
+
+      .livros-container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+      }
+
+      .livro-card img {
+        height: 280px;
+      }
+
+    }
+
+    @media (max-width: 500px) {
+
+      .livros-container {
+        grid-template-columns: 1fr;
+      }
+
+      .livro-card img,
+      .livro-card.manaus-card img {
+        height: auto;
+        max-height: 420px;
+        object-fit: contain;
+      }
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <!-- HEADER -->
+
+  <header>
+
+    <div class="header-marca">
+
+      <img src="logo.png" alt="FRX Holding">
+
+      <span>
+        Conhecimento<br>
+        que gera valor<br>
+        e transforma.
+      </span>
+
+    </div>
+
+    <div class="header-menu">
+
+      <a href="index.html">Início</a>
+      <a href="livros.html">Livros</a>
+      <a href="index.html#cursos">Cursos</a>
+      <a href="index.html#consultorias">Consultorias</a>
+      <a href="index.html#publicidade">Publicidade</a>
+      <a href="blog/index.html">Blog</a>
+      <a href="index.html#contato">Contato</a>
+
+    </div>
+
+  </header>
+
+
+  <!-- ÁREA DE LIVROS -->
+
+  <main class="pagina-livros">
+
+    <div class="livros-titulo">
+
+      <h1>
+        Obras e <span>Conhecimento</span>
+      </h1>
+
+      <p>
+        Gestão, negócios, história, desenvolvimento pessoal e muito mais.
+      </p>
+
+    </div>
+
+
+    <div class="livros-container">
+
+
+      <!-- LIVRO 1 -->
+
+      <div class="livro-card destaque">
+
+        <img
+          src="livro1.png"
+          alt="A Jornada de Um Vendedor Inquebrável"
+        >
+
+        <h3>
+          A Jornada de Um Vendedor Inquebrável
+        </h3>
+
+        <p class="preco">
+          R$ 71,85
+        </p>
+
+        <a
+          href="https://clubedeautores.com.br/livro/a-jornada-de-um-vendedor-inquebravel-2"
+          target="_blank"
+          class="botao-comprar"
+        >
+          Quero comprar agora
+        </a>
+
+      </div>
+
+
+      <!-- LIVRO 2 -->
+
+      <div class="livro-card">
+
+        <img
+          src="livro2.png"
+          alt="Licitações do Zero"
+        >
+
+        <h3>
+          Licitações do Zero
+        </h3>
+
+        <p class="preco">
+          R$ 101,16
+        </p>
+
+        <a
+          href="https://clubedeautores.com.br/livro/licitacoes-do-zero"
+          target="_blank"
+          class="botao-comprar"
+        >
+          Quero comprar agora
+        </a>
+
+      </div>
+
+
+      <!-- LIVRO 3 -->
+
+      <div class="livro-card">
+
+        <img
+          src="livro3.png"
+          alt="Licitações na Prática"
+        >
+
+        <h3>
+          Licitações na Prática
+        </h3>
+
+        <p class="preco">
+          R$ 100,88
+        </p>
+
+        <a
+          href="https://clubedeautores.com.br/livro/licitacoes-na-pratica"
+          target="_blank"
+          class="botao-comprar"
+        >
+          Quero comprar agora
+        </a>
+
+      </div>
+
+
+      <!-- LIVRO 4 -->
+
+      <div class="livro-card">
+
+        <img
+          src="livro5.png"
+          alt="Gestão Comercial na Prática"
+        >
+
+        <h3>
+          Gestão Comercial na Prática
+        </h3>
+
+        <p class="preco">
+          R$ 127,34
+        </p>
+
+        <a
+          href="https://clubedeautores.com.br/livro/gestao-comercial-na-pratica"
+          target="_blank"
+          class="botao-comprar"
+        >
+          Quero comprar agora
+        </a>
+
+      </div>
+
+
+      <!-- LIVRO 5 -->
+
+      <div class="livro-card manaus-card">
+
+        <img
+          src="livro8.png"
+          alt="Manaus – A História da Capital da Amazônia"
+        >
+
+        <h3>
+          Manaus – A História da Capital da Amazônia
+        </h3>
+
+        <p class="preco">
+          R$ 199,90
+        </p>
+
+        <a
+          href="https://clubedeautores.com.br/livro/manaus-a-historia-da-capital-da-amazonia"
+          target="_blank"
+          class="botao-comprar"
+        >
+          Quero comprar agora
+        </a>
+
+      </div>
+
+    </div>
+
+  </main>
+
+
+  <!-- RODAPÉ -->
+
+  <footer>
+
+    <p>
+      © FRX Holding — Todos os direitos reservados.
+    </p>
+
+    <p>
+      Conhecimento, capacitação e soluções.
+    </p>
+
+  </footer>
+
+</body>
+
+</html>
