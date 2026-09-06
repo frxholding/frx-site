@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Publicidade | FRX Holding</title>
+
+  <meta
+    name="description"
+    content="Publicidade, direção criativa, social media, produção de conteúdo, identidade visual e audiovisual."
+  >
+
+  <style>
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f7faff;
+      color: #333;
+    }
+
+    /* ---------- HEADER ---------- */
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 20px;
+      background: #ffffff;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      box-sizing: border-box;
+      z-index: 999;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    }
+
+    header img {
+      height: 160px;
+      width: auto;
+    }
+
+    .header-marca {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+    }
+
+    .header-marca span {
+      font-size: 16px;
+      line-height: 1.35;
+      color: #0b2e4a;
+    }
+
+    .header-menu {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    header a {
+      color: #0b2e4a;
+      margin-left: 24px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 18px;
+      white-space: nowrap;
+      flex-shrink: 0;
+      transition: color 0.3s ease;
+    }
+
+    header a:hover {
+      color: #c9972b;
+    }
+
+    /* ---------- CONTEÚDO ---------- */
+
+    .pagina-publicidade {
+      padding-top: 190px;
+      padding-bottom: 70px;
+    }
+
+    .publicidade-titulo {
+      text-align: center;
+      max-width: 900px;
+      margin: 0 auto 50px;
+      padding: 0 20px;
+    }
+
+    .publicidade-titulo .label {
+      display: block;
+      color: #c9972b;
+      font-size: 14px;
+      font-weight: bold;
+      letter-spacing: 2px;
+      margin-bottom: 12px;
+    }
+
+    .publicidade-titulo h1 {
+      margin: 0 0 18px;
+      font-size: 42px;
+      color: #0b2e4a;
+    }
+
+    .publicidade-titulo h1 span {
+      color: #c9972b;
+    }
+
+    .publicidade-titulo p {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.6;
+      color: #555;
+    }
+
+    /* ---------- APRESENTAÇÃO ---------- */
+
+    .apresentacao {
+      max-width: 1100px;
+      margin: 0 auto 60px;
+      padding: 0 20px;
+    }
+
+    .apresentacao-box {
+      background: #ffffff;
+      border-radius: 16px;
+      padding: 35px;
+      box-shadow: 0 8px 25px rgba(11,46,74,0.08);
+      border: 1px solid #e6edf5;
+    }
+
+    .apresentacao-box h2 {
+      margin: 0 0 15px;
+      color: #0b2e4a;
+      font-size: 30px;
+    }
+
+    .apresentacao-box h2 span {
+      color: #c9972b;
+    }
+
+    .apresentacao-box p {
+      margin: 0 0 15px;
+      color: #555;
+      font-size: 17px;
+      line-height: 1.7;
+    }
+
+    .apresentacao-box p:last-child {
+      margin-bottom: 0;
+    }
+
+    /* ---------- SERVIÇOS ---------- */
+
+    .servicos-publicidade {
+      max-width: 1200px;
+      margin: 0 auto 70px;
+      padding: 0 20px;
+    }
+
+    .servicos-publicidade-titulo {
+      text-align: center;
+      margin-bottom: 35px;
+    }
+
+    .servicos-publicidade-titulo h2 {
+      margin: 0 0 10px;
+      color: #0b2e4a;
+      font-size: 32px;
+    }
+
+    .servicos-publicidade-titulo p {
+      margin: 0;
+      color: #666;
+      font-size: 17px;
+    }
+
+    .servicos-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 18px;
+    }
+
+    .servico-card {
+      background: #ffffff;
+      border-radius: 14px;
+      padding: 28px 20px;
+      text-align: center;
+      border: 1px solid #e6edf5;
+      box-shadow: 0 8px 22px rgba(11,46,74,0.07);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .servico-card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 14px 30px rgba(11,46,74,0.12);
+    }
+
+    .servico-icone {
+      width: 58px;
+      height: 58px;
+      margin: 0 auto 18px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #f7faff;
+      border: 2px solid #0b2e4a;
+      font-size: 27px;
+    }
+
+    .servico-card h3 {
+      margin: 0 0 10px;
+      color: #0b2e4a;
+      font-size: 18px;
+    }
+
+    .servico-card p {
+      margin: 0;
+      color: #666;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    /* ---------- PROFISSIONAL ---------- */
+
+    .profissional {
+      max-width: 1100px;
+      margin: 0 auto 70px;
+      padding: 0 20px;
+    }
+
+    .profissional-box {
+      background: linear-gradient(145deg, #0b2e4a, #123f61);
+      color: #ffffff;
+      border-radius: 18px;
+      padding: 40px;
+      text-align: center;
+      box-shadow: 0 12px 30px rgba(11,46,74,0.15);
+    }
+
+    .profissional-box .label {
+      color: #c9972b;
+      font-size: 13px;
+      font-weight: bold;
+      letter-spacing: 2px;
+    }
+
+    .profissional-box h2 {
+      margin: 12px 0 18px;
+      font-size: 32px;
+    }
+
+    .profissional-box p {
+      max-width: 850px;
+      margin: 0 auto;
+      font-size: 17px;
+      line-height: 1.7;
+      color: #f2f5f8;
+    }
+
+    /* ---------- PORTFÓLIO ---------- */
+
+    .portfolio {
+      max-width: 1200px;
+      margin: 0 auto 70px;
+      padding: 0 20px;
+    }
+
+    .portfolio-titulo {
+      text-align: center;
+      margin-bottom: 35px;
+    }
+
+    .portfolio-titulo h2 {
+      margin: 0 0 10px;
+      color: #0b2e4a;
+      font-size: 32px;
+    }
+
+    .portfolio-titulo p {
+      margin: 0;
+      color: #666;
+      font-size: 17px;
+    }
+
+    .portfolio-aviso {
+      background: #ffffff;
+      border: 1px dashed #c9972b;
+      border-radius: 14px;
+      padding: 35px 25px;
+      text-align: center;
+      color: #555;
+    }
+
+    .portfolio-aviso strong {
+      display: block;
+      color: #0b2e4a;
+      font-size: 20px;
+      margin-bottom: 10px;
+    }
+
+    .portfolio-aviso p {
+      margin: 0;
+      line-height: 1.6;
+    }
+
+    /* ---------- CTA ---------- */
+
+    .cta {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 0 20px;
+      text-align: center;
+    }
+
+    .cta-box {
+      background: #ffffff;
+      border-radius: 18px;
+      padding: 40px 25px;
+      box-shadow: 0 8px 25px rgba(11,46,74,0.08);
+    }
+
+    .cta h2 {
+      margin: 0 0 12px;
+      color: #0b2e4a;
+      font-size: 30px;
+    }
+
+    .cta p {
+      margin: 0 auto 25px;
+      max-width: 700px;
+      color: #666;
+      font-size: 17px;
+      line-height: 1.6;
+    }
+
+    .cta a {
+      display: inline-block;
+      padding: 14px 25px;
+      background: #0b2e4a;
+      color: #ffffff;
+      border-radius: 7px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s ease;
+    }
+
+    .cta a:hover {
+      background: #c9972b;
+      transform: translateY(-2px);
+    }
+
+    /* ---------- RODAPÉ ---------- */
+
+    footer {
+      background: #0b2e4a;
+      color: #ffffff;
+      text-align: center;
+      padding: 30px 20px;
+      margin-top: 70px;
+    }
+
+    footer p {
+      margin: 5px 0;
+      font-size: 14px;
+    }
+
+    /* ---------- RESPONSIVO ---------- */
+
+    @media (max-width: 1100px) {
+
+      .servicos-grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+
+    }
+
+    @media (max-width: 768px) {
+
+      header {
+        position: relative;
+        flex-direction: column;
+        padding: 10px 15px 20px;
+      }
+
+      header img {
+        height: 120px;
+      }
+
+      .header-marca {
+        flex-direction: column;
+        gap: 5px;
+        text-align: center;
+      }
+
+      .header-marca span {
+        font-size: 14px;
+      }
+
+      .header-menu {
+        justify-content: center;
+      }
+
+      header a {
+        margin: 8px 10px;
+        font-size: 15px;
+      }
+
+      .pagina-publicidade {
+        padding-top: 40px;
+      }
+
+      .publicidade-titulo h1 {
+        font-size: 34px;
+      }
+
+      .publicidade-titulo p {
+        font-size: 16px;
+      }
+
+      .apresentacao-box {
+        padding: 28px 22px;
+      }
+
+      .apresentacao-box h2 {
+        font-size: 26px;
+      }
+
+      .servicos-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .profissional-box {
+        padding: 35px 25px;
+      }
+
+    }
+
+    @media (max-width: 500px) {
+
+      .servicos-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .publicidade-titulo h1 {
+        font-size: 30px;
+      }
+
+      .profissional-box h2 {
+        font-size: 27px;
+      }
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <!-- HEADER -->
+
+  <header>
+
+    <div class="header-marca">
+
+      <img src="logo.png" alt="FRX Holding">
+
+      <span>
+        Conhecimento<br>
+        que gera valor<br>
+        e transforma.
+      </span>
+
+    </div>
+
+    <div class="header-menu">
+
+      <a href="index.html">Início</a>
+      <a href="livros.html">Livros</a>
+      <a href="cursos.html">Cursos</a>
+      <a href="index.html#consultorias">Consultorias</a>
+      <a href="publicidade.html">Publicidade</a>
+      <a href="blog/index.html">Blog</a>
+      <a href="index.html#contato">Contato</a>
+
+    </div>
+
+  </header>
+
+
+  <!-- CONTEÚDO -->
+
+  <main class="pagina-publicidade">
+
+    <section class="publicidade-titulo">
+
+      <span class="label">FRX HOLDING</span>
+
+      <h1>
+        Publicidade que transforma
+        <span>ideias em presença.</span>
+      </h1>
+
+      <p>
+        Estratégia, criatividade e conteúdo para construir marcas,
+        fortalecer sua presença digital e gerar conexão com seu público.
+      </p>
+
+    </section>
+
+
+    <!-- APRESENTAÇÃO -->
+
+    <section class="apresentacao">
+
+      <div class="apresentacao-box">
+
+        <h2>
+          Comunicação com <span>estratégia e criatividade.</span>
+        </h2>
+
+        <p>
+          A área de Publicidade da FRX Holding reúne criação,
+          estratégia e produção de conteúdo para ajudar marcas,
+          empresas e profissionais a se posicionarem de forma
+          mais relevante no ambiente digital.
+        </p>
+
+        <p>
+          O trabalho é conduzido por
+          <strong>Vinícius Xavier</strong>, profissional formado
+          em Publicidade e Propaganda e pós-graduando em Direção
+          de Arte em Comunicação na Universidade Belas Artes – SP.
+        </p>
+
+        <p>
+          Com experiência em criação e gerenciamento de conteúdo
+          criativo para redes sociais, sua atuação reúne direção
+          criativa, social media, produção de conteúdo, identidade
+          visual e audiovisual.
+        </p>
+
+      </div>
+
+    </section>
+
+
+    <!-- SERVIÇOS -->
+
+    <section class="servicos-publicidade">
+
+      <div class="servicos-publicidade-titulo">
+
+        <h2>O que podemos fazer pela sua marca</h2>
+
+        <p>
+          Soluções criativas pensadas de acordo com os objetivos
+          e necessidades de cada projeto.
+        </p>
+
+      </div>
+
+
+      <div class="servicos-grid">
+
+
+        <div class="servico-card">
+
+          <div class="servico-icone">📱</div>
+
+          <h3>Social Media</h3>
+
+          <p>
+            Criação e gerenciamento de conteúdo para redes sociais,
+            com estratégia e consistência.
+          </p>
+
+        </div>
+
+
+        <div class="servico-card">
+
+          <div class="servico-icone">🎨</div>
+
+          <h3>Direção Criativa</h3>
+
+          <p>
+            Desenvolvimento de conceitos e direcionamento criativo
+            para campanhas e projetos.
+          </p>
+
+        </div>
+
+
+        <div class="servico-card">
+
+          <div class="servico-icone">✍️</div>
+
+          <h3>Produção de Conteúdo</h3>
+
+          <p>
+            Conteúdo visual e estratégico pensado para comunicar
+            ideias e aproximar marcas de seus públicos.
+          </p>
+
+        </div>
+
+
+        <div class="servico-card">
+
+          <div class="servico-icone">✨</div>
+
+          <h3>Identidade Visual</h3>
+
+          <p>
+            Construção e desenvolvimento de identidades capazes
+            de traduzir a personalidade de cada marca.
+          </p>
+
+        </div>
+
+
+        <div class="servico-card">
+
+          <div class="servico-icone">🎬</div>
+
+          <h3>Audiovisual</h3>
+
+          <p>
+            Produção de vídeos, filmes e conteúdos audiovisuais
+            para diferentes objetivos de comunicação.
+          </p>
+
+        </div>
+
+
+      </div>
+
+    </section>
+
+
+    <!-- PROFISSIONAL -->
+
+    <section class="profissional">
+
+      <div class="profissional-box">
+
+        <span class="label">DIREÇÃO CRIATIVA</span>
+
+        <h2>Vinícius Xavier</h2>
+
+        <p>
+          Publicitário com atuação em criação, comunicação digital
+          e direção criativa, desenvolvendo projetos para diferentes
+          marcas e segmentos. Seu portfólio reúne trabalhos em
+          social media, produção de conteúdo, audiovisual,
+          desenvolvimento de marca e direção criativa.
+        </p>
+
+      </div>
+
+    </section>
+
+
+    <!-- PORTFÓLIO -->
+
+    <section class="portfolio">
+
+      <div class="portfolio-titulo">
+
+        <h2>Portfólio</h2>
+
+        <p>
+          Alguns trabalhos realizados ao longo da trajetória profissional.
+        </p>
+
+      </div>
+
+      <div class="portfolio-aviso">
+
+        <strong>Projetos e trabalhos selecionados</strong>
+
+        <p>
+          Esta área será ampliada com a atualização do portfólio
+          profissional de Vinícius Xavier.
+        </p>
+
+      </div>
+
+    </section>
+
+
+    <!-- CTA -->
+
+    <section class="cta">
+
+      <div class="cta-box">
+
+        <h2>Vamos conversar sobre o seu projeto?</h2>
+
+        <p>
+          Conte-nos o que sua empresa precisa e vamos avaliar
+          como podemos transformar sua ideia em comunicação,
+          conteúdo e presença digital.
+        </p>
+
+        <a
+          href="https://wa.me/5511923521992?text=Olá,%20gostaria%20de%20conhecer%20os%20serviços%20de%20publicidade%20da%20FRX."
+          target="_blank"
+        >
+          FALAR COM A FRX
+        </a>
+
+      </div>
+
+    </section>
+
+  </main>
+
+
+  <!-- RODAPÉ -->
+
+  <footer>
+
+    <p>
+      © FRX Holding — Todos os direitos reservados.
+    </p>
+
+    <p>
+      Publicidade, criatividade e comunicação que geram valor.
+    </p>
+
+  </footer>
+
+</body>
+
+</html>
