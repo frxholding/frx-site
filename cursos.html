@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Cursos | FRX Holding</title>
+
+  <meta
+    name="description"
+    content="Conheça os cursos de Alberto Xavier sobre licitações, gestão comercial e vendas."
+  >
+
+  <style>
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f7faff;
+      color: #333;
+    }
+
+    /* ---------- HEADER ---------- */
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 20px;
+      background: #ffffff;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      box-sizing: border-box;
+      z-index: 999;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    }
+
+    header img {
+      height: 160px;
+      width: auto;
+    }
+
+    .header-marca {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+    }
+
+    .header-marca span {
+      font-size: 16px;
+      line-height: 1.35;
+      color: #0b2e4a;
+    }
+
+    .header-menu {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    header a {
+      color: #0b2e4a;
+      margin-left: 24px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 18px;
+      white-space: nowrap;
+      flex-shrink: 0;
+      transition: color 0.3s ease;
+    }
+
+    header a:hover {
+      color: #c9972b;
+    }
+
+    /* ---------- TÍTULO ---------- */
+
+    .pagina-cursos {
+      padding-top: 190px;
+      padding-bottom: 70px;
+    }
+
+    .cursos-titulo {
+      text-align: center;
+      max-width: 900px;
+      margin: 0 auto 45px;
+      padding: 0 20px;
+    }
+
+    .cursos-titulo h1 {
+      margin: 0 0 15px;
+      font-size: 42px;
+      color: #0b2e4a;
+    }
+
+    .cursos-titulo h1 span {
+      color: #c9972b;
+    }
+
+    .cursos-titulo p {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.6;
+      color: #555;
+    }
+
+    /* ---------- VITRINE DE CURSOS ---------- */
+
+    .cursos-container {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 20px;
+      width: 100%;
+      max-width: 1200px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    .curso-card {
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.10);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      height: 100%;
+      position: relative;
+    }
+
+    .curso-card:hover {
+      transform: translateY(-8px);
+      box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+    }
+
+    .curso-card img {
+      width: 100%;
+      height: 420px;
+      object-fit: cover;
+      border-radius: 8px;
+      margin-bottom: 15px;
+    }
+
+    .curso-card h3 {
+      font-size: 18px;
+      line-height: 1.35;
+      margin: 0 0 10px;
+      color: #0b2e4a;
+    }
+
+    .curso-card .preco {
+      font-weight: bold;
+      font-size: 18px;
+      color: #28a745;
+      margin: 0 0 20px;
+    }
+
+    .curso-card .botao-comprar {
+      display: inline-block;
+      padding: 12px 18px;
+      background: #0b2e4a;
+      color: #ffffff;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 14px;
+      transition: 0.3s ease;
+    }
+
+    .curso-card .botao-comprar:hover {
+      background: #c9972b;
+      transform: translateY(-2px);
+    }
+
+    /* ---------- RODAPÉ ---------- */
+
+    footer {
+      background: #0b2e4a;
+      color: #ffffff;
+      text-align: center;
+      padding: 30px 20px;
+      margin-top: 50px;
+    }
+
+    footer p {
+      margin: 5px 0;
+      font-size: 14px;
+    }
+
+    /* ---------- RESPONSIVO ---------- */
+
+    @media (max-width: 1100px) {
+
+      .cursos-container {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+    }
+
+    @media (max-width: 768px) {
+
+      header {
+        position: relative;
+        flex-direction: column;
+        padding: 10px 15px 20px;
+      }
+
+      header img {
+        height: 120px;
+      }
+
+      .header-marca {
+        flex-direction: column;
+        gap: 5px;
+        text-align: center;
+      }
+
+      .header-marca span {
+        font-size: 14px;
+      }
+
+      .header-menu {
+        justify-content: center;
+      }
+
+      header a {
+        margin: 8px 10px;
+        font-size: 15px;
+      }
+
+      .pagina-cursos {
+        padding-top: 40px;
+      }
+
+      .cursos-titulo h1 {
+        font-size: 34px;
+      }
+
+      .cursos-titulo p {
+        font-size: 16px;
+      }
+
+      .cursos-container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+      }
+
+      .curso-card img {
+        height: 320px;
+      }
+
+    }
+
+    @media (max-width: 500px) {
+
+      .cursos-container {
+        grid-template-columns: 1fr;
+      }
+
+      .curso-card img {
+        height: auto;
+        max-height: 500px;
+        object-fit: contain;
+      }
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <!-- HEADER -->
+
+  <header>
+
+    <div class="header-marca">
+
+      <img src="logo.png" alt="FRX Holding">
+
+      <span>
+        Conhecimento<br>
+        que gera valor<br>
+        e transforma.
+      </span>
+
+    </div>
+
+    <div class="header-menu">
+
+      <a href="index.html">Início</a>
+      <a href="livros.html">Livros</a>
+      <a href="cursos.html">Cursos</a>
+      <a href="index.html#consultorias">Consultorias</a>
+      <a href="index.html#publicidade">Publicidade</a>
+      <a href="blog/index.html">Blog</a>
+      <a href="index.html#contato">Contato</a>
+
+    </div>
+
+  </header>
+
+
+  <!-- ÁREA DE CURSOS -->
+
+  <main class="pagina-cursos">
+
+    <div class="cursos-titulo">
+
+      <h1>
+        Cursos e <span>Capacitação</span>
+      </h1>
+
+      <p>
+        Formação prática para desenvolver competências,
+        ampliar conhecimentos e transformar aprendizado em resultados.
+      </p>
+
+    </div>
+
+
+    <div class="cursos-container">
+
+
+      <!-- CURSO 1 -->
+
+      <div class="curso-card">
+
+        <img
+          src="curso-licitacoes.png"
+          alt="Formação Prática em Licitações do Zero – Nível 1"
+        >
+
+        <h3>
+          Formação Prática em Licitações do Zero – Nível 1
+        </h3>
+
+        <p class="preco">
+          R$ 97,00
+        </p>
+
+        <a
+          href="https://go.hotmart.com/M105410314F"
+          target="_blank"
+          class="botao-comprar"
+        >
+          Quero fazer o curso
+        </a>
+
+      </div>
+
+
+      <!-- CURSO 2 -->
+
+      <div class="curso-card">
+
+        <img
+          src="curso-gestao-comercial.png"
+          alt="Gestão Comercial na Prática"
+        >
+
+        <h3>
+          Gestão Comercial na Prática
+        </h3>
+
+        <p class="preco">
+          R$ 97,00
+        </p>
+
+        <a
+          href="https://go.hotmart.com/R105426127C"
+          target="_blank"
+          class="botao-comprar"
+        >
+          Quero fazer o curso
+        </a>
+
+      </div>
+
+
+      <!-- CURSO 3 -->
+
+      <div class="curso-card">
+
+        <img
+          src="curso-metodo-inquebravel.png"
+          alt="Método Inquebrável – Nível 1: Mentalidade e Fundamentos de Vendas"
+        >
+
+        <h3>
+          Método Inquebrável – Nível 1:
+          Mentalidade e Fundamentos de Vendas
+        </h3>
+
+        <p class="preco">
+          R$ 97,00
+        </p>
+
+        <a
+          href="https://hotm.io/metodo-inquebravél"
+          target="_blank"
+          class="botao-comprar"
+        >
+          Quero fazer o curso
+        </a>
+
+      </div>
+
+
+    </div>
+
+  </main>
+
+
+  <!-- RODAPÉ -->
+
+  <footer>
+
+    <p>
+      © FRX Holding — Todos os direitos reservados.
+    </p>
+
+    <p>
+      Conhecimento, capacitação e soluções.
+    </p>
+
+  </footer>
+
+</body>
+
+</html>
