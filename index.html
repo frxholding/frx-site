@@ -398,7 +398,38 @@ flex: 0 0 135px;
     flex-wrap: wrap;
   }
 }
+@media (max-width: 768px) {
 
+  header {
+    position: relative;
+    flex-direction: column;
+    padding: 10px 15px 20px;
+  }
+
+  header img {
+    height: 120px;
+  }
+
+  .header-marca {
+    flex-direction: column;
+    gap: 5px;
+    text-align: center;
+  }
+
+  .header-marca span {
+    font-size: 14px;
+  }
+
+  .header-menu {
+    justify-content: center;
+  }
+
+  header a {
+    margin: 8px 10px;
+    font-size: 15px;
+  }
+
+}
 @media (max-width: 600px) {
 
   .banner-principal {
