@@ -94,6 +94,18 @@ Os arquivos são contêineres MP4 contendo áudio MP3 e não possuem trilha de v
 
 **Importante:** a duração de uma apostila não deve ser dividida automaticamente pelo número de capítulos. O tempo de cada aula somente será registrado depois do mapeamento real do áudio.
 
+
+
+## Validação técnica adicional dos arquivos audiovisuais
+
+Em conferência técnica posterior, foi identificado que **AULA APOSTILA 1.mp4** e **AULA APOSTILA 2.mp4** possuem o mesmo SHA-256:
+
+`a2c7ced9188c0936139d515e3572d2a714e33d09c3417b5a34a0dc3239655f0c`
+
+Assim, existem **cinco arquivos nominais, mas apenas quatro conteúdos audiovisuais distintos**. Os arquivos 3, 4 e 5 possuem hashes distintos entre si. O arquivo 2 não deve ser tratado como uma gravação independente até que seu conteúdo pretendido seja confirmado.
+
+Essa constatação **não altera a estrutura pedagógica de 37 aulas**. Ela apenas reforça que o gate audiovisual permanece aberto e que a associação dos áudios às aulas não pode ser inferida pelo nome dos arquivos ou pela duração.
+
 ## Próximo gate de produção
 
 1. Obter transcrição confiável ou outro mecanismo de conferência do áudio.
