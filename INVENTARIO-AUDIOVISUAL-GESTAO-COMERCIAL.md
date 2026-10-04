@@ -1,66 +1,80 @@
 # FRX Formação Profissional
 # INVENTÁRIO AUDIOVISUAL — GESTÃO COMERCIAL
 
-**Data:** 03/10/2026
-**Status:** arquivos audiovisuais recebidos para aproveitamento
+**Data:** 03/10/2026  
+**Status:** arquivos audiovisuais recebidos e tecnicamente verificados
 
-## 1. Arquivos recebidos
+## 1. Arquivos confirmados
 
 | Apostila | Arquivo | Duração |
 |---|---|---:|
-| Apostila 1 | AULA APOSTILA 1.mp4 | 13min 36s |
-| Apostila 2 | AULA APOSTILA 2.mp4 | 13min 36s |
-| Apostila 3 | AULA APOSTILA 3.mp4 | 17min 18s |
-| Apostila 4 | AULA APOSTILA 4.mp4 | 34min 31s |
-| Apostila 5 | AULA APOSTILA 5.mp4 | 33min 13s |
-| **Total** | **5 arquivos** | **1h 52min 14s** |
+| Apostila 1 | AULA APOSTILA 1.mp4 | 13min 35,9s |
+| Apostila 2 | AULA APOSTILA 2.mp4 | 13min 35,9s |
+| Apostila 3 | AULA APOSTILA 3.mp4 | 17min 18,1s |
+| Apostila 4 | AULA APOSTILA 4.mp4 | 34min 31,3s |
+| Apostila 5 | AULA APOSTILA 5.mp4 | 33min 13,3s |
+| **Total** | **5 arquivos** | **1h 52min 14,5s** |
 
-## 2. Correspondência inicial
+**Formato técnico verificado:** os cinco arquivos são contêineres MP4 com faixa de áudio MP3; não foi identificada faixa de vídeo.
 
-Os cinco arquivos seguem a nomenclatura das cinco apostilas da estrutura de Gestão Comercial já existente.
+## 2. Correspondência estrutural conhecida
 
-A estrutura pedagógica conhecida do curso é:
+Os arquivos seguem a nomenclatura das cinco apostilas utilizadas na formação:
 
-1. Fundamentos
+1. Fundamentos da Área Comercial
 2. Pré-venda: Prospecção e Qualificação
 3. Venda: Conversão, Negociação e Fechamento
 4. Pós-venda: Fidelização e Relacionamento
 5. Expedição e Logística Comercial
 
-## 3. Regra de aproveitamento
+A formação possui 37 aulas, distribuídas em 5, 8, 8, 8 e 8 aulas respectivamente.
 
-As gravações devem ser tratadas inicialmente como gravações integrais associadas às cinco apostilas.
+## 3. O que foi confirmado
 
-Não presumir que cada arquivo corresponda a uma única aula da estrutura final sem conferir o conteúdo efetivamente gravado.
+- cinco arquivos existem no ambiente de trabalho;
+- os cinco são arquivos de áudio em contêiner MP4;
+- as durações foram medidas tecnicamente;
+- cada arquivo possui correspondência nominal com uma das cinco apostilas.
 
-## 4. Próxima análise
+## 4. O que ainda NÃO foi confirmado
 
-Para cada arquivo:
+A existência e duração do arquivo **não permitem concluir** quais capítulos/aulas foram efetivamente narrados dentro de cada gravação.
 
-**gravação → conteúdo efetivamente falado → capítulos/blocos da apostila → estrutura pedagógica → segmentação → slides → edição.**
+Também não foi possível, com as ferramentas disponíveis nesta etapa, produzir uma transcrição confiável do áudio. Portanto, não será inventado um mapa gravação → aula com base apenas em duração.
 
-A duração não será usada para dividir automaticamente os vídeos.
+## 5. Mapeamento pendente
 
-## 5. Critério
+Para cada arquivo, a validação final deverá seguir:
 
-Se uma gravação já cobrir adequadamente o conteúdo correspondente, será aproveitada.
+**gravação → conteúdo falado → capítulos efetivamente cobertos → aulas correspondentes → slides → atividade → edição**
 
-Se houver mais de uma unidade pedagógica dentro da gravação, ela poderá ser segmentada.
+A distribuição das aulas não deve ser feita automaticamente por divisão de tempo.
 
-Se houver diferença relevante entre gravação e material-base, a diferença será registrada antes de qualquer alteração.
+## 6. Regra de aproveitamento
 
-## 6. Estado
+O audiovisual existente será priorizado.
+
+Se uma gravação cobrir adequadamente uma ou mais unidades pedagógicas, ela deverá ser aproveitada e, se tecnicamente viável, segmentada.
+
+Se houver diferença relevante entre o que foi gravado e o conteúdo da apostila, a diferença deverá ser registrada antes de qualquer alteração.
+
+## 7. Estado de produção
 
 - [x] cinco arquivos recebidos
-- [x] formatos identificados
+- [x] arquivos tecnicamente identificados
 - [x] duração medida
-- [x] correspondência inicial por apostila
-- [ ] análise de conteúdo gravado
-- [ ] mapeamento para unidades/aulas
-- [ ] sincronização com materiais visuais
+- [x] correspondência nominal por apostila
+- [x] 37 aulas estruturadas
+- [x] 37 conjuntos de slides estruturados
+- [ ] transcrição/análise do conteúdo falado
+- [ ] mapeamento gravação → aula
+- [ ] sincronização audiovisual × slides
+- [ ] segmentação
 - [ ] edição
 - [ ] revisão final
 
-## 7. Regra de produção
+## 8. Regra de controle
+
+**Não declarar uma aula como audiovisualmente validada enquanto o conteúdo efetivamente falado não tiver sido conferido.**
 
 **Aproveitar o audiovisual existente antes de considerar qualquer regravação.**
