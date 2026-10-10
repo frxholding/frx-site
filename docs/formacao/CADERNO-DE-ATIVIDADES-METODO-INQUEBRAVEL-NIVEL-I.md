@@ -8,7 +8,7 @@ As atividades abaixo são materiais pedagógicos de produção. Critérios ofici
 
 ## Organização
 
-### Etapa 1 — Mentalidade Inquebrável
+### Bloco 1 — Mentalidade Inquebrável
 Aulas 01 a 06:
 1. O nascimento do vendedor
 2. Responsabilidade total
@@ -17,7 +17,7 @@ Aulas 01 a 06:
 5. Identidade do vendedor
 6. Controle emocional
 
-### Etapa 2 — Fundamentos de Vendas
+### Bloco 2 — Fundamentos de Vendas
 Aulas 07 a 13:
 7. O que é vender de verdade
 8. Como o cliente pensa
@@ -27,7 +27,7 @@ Aulas 07 a 13:
 12. A estrutura da venda
 13. Postura do vendedor
 
-### Etapa 3 — Primeiras Técnicas de Vendas
+### Bloco 3 — Primeiras Técnicas de Vendas
 Aulas 14 a 20:
 14. Abordagem: o primeiro contato
 15. Início da conversa
