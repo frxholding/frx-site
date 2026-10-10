@@ -146,7 +146,7 @@ A fonte encerra a Apostila 1 com a missão de assumir responsabilidade, parar de
 
 ---
 
-# 4. NÍVEL II — FUNDAMENTOS DE VENDAS
+# 4. BLOCO 2 — FUNDAMENTOS DE VENDAS
 
 ## Aula 07 — O que é vender de verdade
 
@@ -280,7 +280,7 @@ A fonte encerra afirmando que vender não é falar; é entender, e estabelece co
 
 ---
 
-# 5. NÍVEL III — PRIMEIRAS TÉCNICAS DE VENDAS
+# 5. BLOCO 3 — PRIMEIRAS TÉCNICAS DE VENDAS
 
 ## Aula 14 — Abordagem: o primeiro contato
 
