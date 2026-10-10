@@ -41,11 +41,19 @@
 | 19 | Conduzir o próximo passo com perguntas simples, sem pressão indevida. | Alinhada |
 | 20 | Ciclo: tentar → errar → ajustar → melhorar. | Alinhada |
 
-## 2. Ajuste realizado
+## 2. Segunda rodada: contextualização e distratores
+
+Foram reescritas as questões 01, 03, 04, 07, 08, 09, 12, 14, 16 e 18 com situações curtas de vendas e alternativas incorretas mais relacionadas ao erro que a apostila procura corrigir. A intenção é avaliar a escolha de conduta, e não apenas o reconhecimento de uma frase.
+
+As novas formulações foram mantidas alinhadas aos princípios explícitos das fontes: assumir responsabilidade; aprender com rejeição; agir com disciplina; diagnosticar antes de apresentar; priorizar o problema do cliente; praticar escuta ativa; respeitar o fluxo da venda; abrir a conversa com contexto; investigar situação, problema e impacto; e ouvir, validar e responder a objeções.
+
+A distribuição de respostas corretas foi preservada: A = 5, B = 5, C = 5, D = 5. Após a atualização, foi conferido que o banco contém 20 questões e 20 marcações de gabarito. A versão do participante foi revisada separadamente para remover todas as marcações de resposta.
+
+## 3. Ajuste realizado
 
 A questão 06 foi reformulada. O enunciado anterior usava uma construção negativa (“o vendedor não precisa”), que poderia levar o participante a errar por interpretação do enunciado em vez de demonstrar compreensão do conteúdo. A nova formulação pergunta qual orientação resume o capítulo e preserva a alternativa D como resposta correta.
 
-## 3. Observações de qualidade
+## 4. Observações de qualidade
 
 A conferência confirma que os conceitos cobrados aparecem nas apostilas. Isso não significa que o banco esteja pedagogicamente finalizado.
 
@@ -57,19 +65,19 @@ Pontos que merecem melhoria na próxima revisão:
 4. **Vocabulário:** manter termos próximos aos usados nas fontes e evitar introduzir modelos ou conceitos externos sem identificá-los como complementação.
 5. **Aplicação:** preservar o estudo de caso e o projeto integrador como instrumentos complementares; a prova objetiva, sozinha, não mede toda a competência prática proposta pelo curso.
 
-## 4. Distribuição do gabarito
+## 5. Distribuição do gabarito
 
 O banco continua com 20 questões e a distribuição original permanece equilibrada: A = 5, B = 5, C = 5, D = 5.
 
-## 5. Limites desta revisão
+## 6. Limites desta revisão
 
 Esta etapa verifica a correspondência entre os enunciados e os conceitos encontrados nas três apostilas. Não constitui validação estatística da prova, teste com alunos, aprovação institucional da política de avaliação nem definição de nota mínima, recuperação, carga horária ou certificação.
 
-## 6. Próximas ações recomendadas
+## 7. Próximas ações recomendadas
 
 - Revisar os distratores das questões com alternativas muito óbvias.
 - Criar uma versão contextualizada de parte das questões, sem alterar o conteúdo-fonte.
 - Fazer revisão final do gabarito após qualquer mudança.
 - Só então configurar e testar a avaliação na plataforma.
 
-**Status:** revisão de alinhamento com as fontes concluída; refinamento pedagógico e configuração de plataforma ainda pendentes.
+**Status:** revisão de alinhamento com as fontes concluída; dez questões contextualizadas; refinamento pedagógico remanescente e configuração de plataforma ainda pendentes.
