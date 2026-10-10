@@ -19,6 +19,7 @@
 - página comercial revisada para distinguir os 20 temas pedagógicos de arquivos audiovisuais individuais validados;
 - matriz pedagógica revisada para identificar Fundamentos de Vendas e Primeiras Técnicas de Vendas como Blocos 2 e 3, evitando confusão com níveis de formação separados;
 - nomenclatura padronizada como Blocos 1, 2 e 3 também no caderno de atividades e na ficha de configuração da plataforma;
+- página comercial alinhada à nomenclatura de Blocos 1, 2 e 3, mantendo a ressalva sobre validação audiovisual e critérios ainda pendentes;
 - contagem de páginas não verificada removida da comunicação comercial, e rótulos ajustados de “aulas” para “temas” nos grupos da página
 
 ## Pronto nesta etapa
