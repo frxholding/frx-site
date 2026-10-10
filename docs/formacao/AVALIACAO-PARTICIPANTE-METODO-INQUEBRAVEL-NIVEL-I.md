@@ -55,7 +55,6 @@ B) O mercado estava ruim?
 C) O cliente tinha dinheiro?  
 D) O que eu poderia ter feito diferente?  
 
-**Gabarito: D.**
 
 ---
 
@@ -88,7 +87,6 @@ B) vendedor para gerente.
 C) vendedor para comprador.  
 D) motivado para desmotivado.  
 
-**Gabarito: A.**
 
 ---
 
@@ -101,7 +99,6 @@ B) Evitar contatos que possam gerar frustração.
 C) Executar somente quando estiver se sentindo bem.  
 D) Agir mesmo sentindo ansiedade, insegurança ou pressão.  
 
-**Gabarito: D.**
 
 ---
 
@@ -146,7 +143,6 @@ B) preço → produto → desconto → venda.
 C) produto → proposta → preço → venda.  
 D) fechamento → diagnóstico → conexão → venda.  
 
-**Gabarito: A.**
 
 ---
 
@@ -159,7 +155,6 @@ B) diagnosticar.
 C) falar demais.  
 D) compreender o problema.  
 
-**Gabarito: C.**
 
 ---
 
@@ -182,7 +177,6 @@ B) já conhece o preço.
 C) já decidiu comprar.  
 D) já conhece o produto.  
 
-**Gabarito: A.**
 
 ---
 
@@ -207,7 +201,6 @@ B) apresentar todo o produto.
 C) começar pelo cliente e fazer perguntas.  
 D) enviar imediatamente a proposta.  
 
-**Gabarito: C.**
 
 ---
 
@@ -230,7 +223,6 @@ B) preço → desconto → fechamento.
 C) produto → características → preço.  
 D) falar de todos os produtos disponíveis.  
 
-**Gabarito: A.**
 
 ---
 
@@ -253,7 +245,6 @@ B) evitar qualquer pergunta.
 C) insistir até obter uma resposta positiva.  
 D) conduzir o próximo passo com perguntas simples.  
 
-**Gabarito: D.**
 
 ---
 
@@ -266,7 +257,6 @@ B) tentar → errar → ajustar → melhorar.
 C) estudar → esperar → vender → parar.  
 D) convencer → pressionar → fechar → repetir.  
 
-**Gabarito: B.**
 
 ---
 
