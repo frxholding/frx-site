@@ -23,6 +23,8 @@
 - formatação das alternativas A–D padronizada no banco de avaliação para melhorar a leitura e a consistência visual;
 - versão da avaliação do participante criada sem gabarito visível;
 - gabarito separado em arquivo interno, com distribuição conferida: 5 respostas A, 5 B, 5 C e 5 D;
+- revisão de alinhamento das 20 questões contra as três apostilas-fonte registrada; questão 06 reescrita para evitar enunciado negativo;
+- observações pedagógicas registradas: distratores e contextualização ainda precisam de refinamento antes da avaliação definitiva;
 - contagem de páginas não verificada removida da comunicação comercial, e rótulos ajustados de “aulas” para “temas” nos grupos da página
 
 ## Pronto nesta etapa
