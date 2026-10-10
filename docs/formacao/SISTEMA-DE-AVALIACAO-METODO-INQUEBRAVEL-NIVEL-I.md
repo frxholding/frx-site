@@ -43,7 +43,7 @@ Segundo a Apostila 1, o vendedor nasce quando:
 A) realiza sua primeira venda.  
 B) entende que precisa fazer acontecer e assumir sua ação.  
 C) recebe treinamento técnico.  
-D) passa a trabalhar com metas.
+D) passa a trabalhar com metas.  
 
 **Gabarito: B.**
 
@@ -56,7 +56,7 @@ Diante de uma venda perdida, a pergunta proposta pela fonte é:
 A) Quem foi o culpado?  
 B) O mercado estava ruim?  
 C) O cliente tinha dinheiro?  
-D) O que eu poderia ter feito diferente?
+D) O que eu poderia ter feito diferente?  
 
 **Gabarito: D.**
 
@@ -69,7 +69,7 @@ Segundo a fonte, diante de uma rejeição o vendedor deve:
 A) perguntar o que pesou na decisão e utilizar a situação como aprendizado.  
 B) evitar novos contatos.  
 C) reagir emocionalmente.  
-D) insistir até o cliente aceitar.
+D) insistir até o cliente aceitar.  
 
 **Gabarito: A.**
 
@@ -82,7 +82,7 @@ A Apostila 1 diferencia motivação e disciplina porque:
 A) motivação é permanente e disciplina é emocional.  
 B) disciplina depende do humor.  
 C) motivação oscila, enquanto disciplina sustenta a constância da ação.  
-D) as duas são apresentadas como equivalentes.
+D) as duas são apresentadas como equivalentes.  
 
 **Gabarito: C.**
 
@@ -95,7 +95,7 @@ A mudança de identidade proposta pela fonte é passar de:
 A) “estou tentando vender” para “sou um profissional de vendas”.  
 B) vendedor para gerente.  
 C) vendedor para comprador.  
-D) motivado para desmotivado.
+D) motivado para desmotivado.  
 
 **Gabarito: A.**
 
@@ -107,7 +107,7 @@ Segundo a fonte, o vendedor não precisa:
 
 A) executar.  
 B) agir.  
-C) reconhecer suas emoções.
+C) reconhecer suas emoções.  
 D) estar emocionalmente perfeito para executar.  
 
 **Gabarito: D.**
@@ -123,7 +123,7 @@ Segundo a Apostila 2, vender é principalmente:
 A) convencer e pressionar.  
 B) entender, diagnosticar e ajudar alguém a decidir.  
 C) falar muito sobre o produto.  
-D) apresentar o maior número possível de características.
+D) apresentar o maior número possível de características.  
 
 **Gabarito: B.**
 
@@ -136,7 +136,7 @@ A fonte diferencia vendedor e cliente ao afirmar que:
 A) ambos pensam primeiro no produto.  
 B) o cliente pensa apenas no preço.  
 C) o vendedor pensa no produto, enquanto o cliente pensa no problema.  
-D) o vendedor não precisa compreender o problema.
+D) o vendedor não precisa compreender o problema.  
 
 **Gabarito: C.**
 
@@ -148,7 +148,7 @@ Entre os comportamentos apresentados como parte da escuta ativa está:
 
 A) interromper para acelerar.  
 B) esperar apenas a própria vez de falar.  
-C) apresentar a solução imediatamente.
+C) apresentar a solução imediatamente.  
 D) prestar atenção, não interromper, interpretar e aprofundar.  
 
 **Gabarito: D.**
@@ -162,7 +162,7 @@ A sequência apresentada na Apostila 2 é:
 A) conexão → entendimento → confiança → venda.  
 B) preço → produto → desconto → venda.  
 C) produto → proposta → preço → venda.  
-D) fechamento → diagnóstico → conexão → venda.
+D) fechamento → diagnóstico → conexão → venda.  
 
 **Gabarito: A.**
 
@@ -175,7 +175,7 @@ Qual comportamento aparece como erro na fonte?
 A) ouvir o cliente.  
 B) diagnosticar.  
 C) falar demais.  
-D) compreender o problema.
+D) compreender o problema.  
 
 **Gabarito: C.**
 
@@ -188,7 +188,7 @@ A estrutura apresentada pela fonte é:
 A) preço → desconto → apresentação → fechamento → abordagem.  
 B) abordagem → conexão → diagnóstico → apresentação → decisão.  
 C) produto → preço → contrato → pós-venda → diagnóstico.  
-D) conexão → fechamento → abordagem → proposta → diagnóstico.
+D) conexão → fechamento → abordagem → proposta → diagnóstico.  
 
 **Gabarito: B.**
 
@@ -201,7 +201,7 @@ Segundo a fonte, antes das palavras o cliente:
 A) já percebe a postura do vendedor.  
 B) já conhece o preço.  
 C) já decidiu comprar.  
-D) já conhece o produto.
+D) já conhece o produto.  
 
 **Gabarito: A.**
 
@@ -215,7 +215,7 @@ A estrutura básica de abordagem apresentada pela Apostila 3 é:
 
 A) preço → desconto → fechamento.  
 B) produto → preço → proposta.  
-C) diagnóstico → objeção → fechamento.
+C) diagnóstico → objeção → fechamento.  
 D) cumprimento → contexto → abertura.  
 
 **Gabarito: D.**
@@ -229,7 +229,7 @@ No início da conversa, a fonte recomenda:
 A) começar pelo preço.  
 B) apresentar todo o produto.  
 C) começar pelo cliente e fazer perguntas.  
-D) enviar imediatamente a proposta.
+D) enviar imediatamente a proposta.  
 
 **Gabarito: C.**
 
@@ -242,7 +242,7 @@ O diagnóstico procura descobrir:
 A) somente o orçamento.  
 B) situação atual, problema real e impacto.  
 C) apenas o nome do produto desejado.  
-D) somente o prazo de pagamento.
+D) somente o prazo de pagamento.  
 
 **Gabarito: B.**
 
@@ -255,7 +255,7 @@ A estrutura simples apresentada para a apresentação é:
 A) retomar o problema → apresentar solução → mostrar resultado.  
 B) preço → desconto → fechamento.  
 C) produto → características → preço.  
-D) falar de todos os produtos disponíveis.
+D) falar de todos os produtos disponíveis.  
 
 **Gabarito: A.**
 
@@ -268,7 +268,7 @@ A estrutura apresentada para lidar com uma objeção é:
 A) discutir → pressionar → fechar.  
 B) ignorar → insistir → conceder desconto.  
 C) ouvir → validar → responder.  
-D) responder imediatamente → mudar de assunto.
+D) responder imediatamente → mudar de assunto.  
 
 **Gabarito: C.**
 
@@ -280,7 +280,7 @@ No fechamento, a fonte orienta o vendedor a:
 
 A) esperar o cliente decidir sozinho.  
 B) evitar qualquer pergunta.  
-C) insistir até obter uma resposta positiva.
+C) insistir até obter uma resposta positiva.  
 D) conduzir o próximo passo com perguntas simples.  
 
 **Gabarito: D.**
@@ -294,7 +294,7 @@ O ciclo apresentado na Apostila 3 é:
 A) esperar → pensar → planejar → vender.  
 B) tentar → errar → ajustar → melhorar.  
 C) estudar → esperar → vender → parar.  
-D) convencer → pressionar → fechar → repetir.
+D) convencer → pressionar → fechar → repetir.  
 
 **Gabarito: B.**
 
