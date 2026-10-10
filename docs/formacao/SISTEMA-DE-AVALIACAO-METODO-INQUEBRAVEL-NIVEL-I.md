@@ -38,15 +38,14 @@ Questões objetivas e/ou estudo de caso, conforme configuração definitiva da f
 
 ### Questão 01 — O nascimento do vendedor
 
-Segundo a Apostila 1, o vendedor nasce quando:
+Uma pessoa ainda não realizou sua primeira venda e afirma que só começará a agir quando o mercado melhorar. De acordo com a Apostila 1, qual atitude representa o nascimento do vendedor?
 
-A) realiza sua primeira venda.  
-B) entende que precisa fazer acontecer e assumir sua ação.  
-C) recebe treinamento técnico.  
-D) passa a trabalhar com metas.  
+A) Aguardar o cenário ideal para evitar tentativas improdutivas.  
+B) Reconhecer que o resultado depende de sua ação e começar a fazer acontecer.  
+C) Concentrar-se apenas em estudar o produto antes de falar com qualquer cliente.  
+D) Esperar que a empresa estabeleça uma meta mais realista.
 
 **Gabarito: B.**
-
 ---
 
 ### Questão 02 — Responsabilidade total
@@ -64,28 +63,26 @@ D) O que eu poderia ter feito diferente?
 
 ### Questão 03 — Rejeição
 
-Segundo a fonte, diante de uma rejeição o vendedor deve:
+Após ouvir um “não”, um vendedor fica frustrado e pensa em abandonar os contatos daquela semana. Conforme a Apostila 1, qual é a resposta mais coerente com o método?
 
-A) perguntar o que pesou na decisão e utilizar a situação como aprendizado.  
-B) evitar novos contatos.  
-C) reagir emocionalmente.  
-D) insistir até o cliente aceitar.  
+A) Evitar reagir impulsivamente, perguntar o que pesou na decisão e usar a resposta como aprendizado.  
+B) Repetir a mesma proposta imediatamente até o cliente mudar de ideia.  
+C) Concluir que a recusa foi pessoal e evitar aquele perfil de cliente.  
+D) Oferecer desconto antes de entender o motivo da recusa.
 
 **Gabarito: A.**
-
 ---
 
 ### Questão 04 — Disciplina
 
-A Apostila 1 diferencia motivação e disciplina porque:
+Uma vendedora trabalha com energia quando está motivada, mas interrompe as abordagens nos dias em que se sente desanimada. Qual ajuste está mais de acordo com a Apostila 1?
 
-A) motivação é permanente e disciplina é emocional.  
-B) disciplina depende do humor.  
-C) motivação oscila, enquanto disciplina sustenta a constância da ação.  
-D) as duas são apresentadas como equivalentes.  
+A) Aguardar recuperar a motivação antes de retomar a rotina.  
+B) Substituir as metas diárias por uma meta mensal sem ações intermediárias.  
+C) Definir uma rotina de ações e cumpri-la com constância, mesmo quando o humor oscilar.  
+D) Fazer contatos somente quando houver certeza de que o cliente está pronto para comprar.
 
 **Gabarito: C.**
-
 ---
 
 ### Questão 05 — Identidade
@@ -118,41 +115,38 @@ D) Agir mesmo sentindo ansiedade, insegurança ou pressão.
 
 ### Questão 07 — O que é vender
 
-Segundo a Apostila 2, vender é principalmente:
+Um cliente explica que está tendo dificuldades com um processo. O vendedor interrompe para listar todas as características de seu produto. De acordo com a Apostila 2, qual conduta seria mais adequada?
 
-A) convencer e pressionar.  
-B) entender, diagnosticar e ajudar alguém a decidir.  
-C) falar muito sobre o produto.  
-D) apresentar o maior número possível de características.  
+A) Apresentar mais características para aumentar as chances de convencimento.  
+B) Fazer perguntas para entender a necessidade, diagnosticar o problema e ajudar o cliente a decidir.  
+C) Oferecer um desconto antes de investigar a situação.  
+D) Encerrar a conversa e enviar uma proposta padronizada para o cliente analisar sozinho.
 
 **Gabarito: B.**
-
 ---
 
 ### Questão 08 — Como o cliente pensa
 
-A fonte diferencia vendedor e cliente ao afirmar que:
+Uma empresa procura uma solução para reduzir falhas em seu atendimento. O vendedor inicia a conversa descrevendo as especificações técnicas do produto, sem investigar o cenário da empresa. Qual princípio da Apostila 2 deveria orientar a mudança?
 
-A) ambos pensam primeiro no produto.  
-B) o cliente pensa apenas no preço.  
-C) o vendedor pensa no produto, enquanto o cliente pensa no problema.  
-D) o vendedor não precisa compreender o problema.  
+A) O cliente precisa conhecer todos os detalhes técnicos antes de falar de sua situação.  
+B) O preço deve ser apresentado antes de qualquer pergunta para evitar perda de tempo.  
+C) O vendedor deve investigar o problema do cliente antes de concentrar a conversa no produto.  
+D) A apresentação deve ser igual para todos os clientes, para manter a padronização.
 
 **Gabarito: C.**
-
 ---
 
 ### Questão 09 — Escuta ativa
 
-Entre os comportamentos apresentados como parte da escuta ativa está:
+Durante uma reunião, o cliente menciona que uma dificuldade está prejudicando sua rotina. Qual comportamento demonstra escuta ativa, conforme a Apostila 2?
 
-A) interromper para acelerar.  
-B) esperar apenas a própria vez de falar.  
-C) apresentar a solução imediatamente.  
-D) prestar atenção, não interromper, interpretar e aprofundar.  
+A) Interromper para apresentar uma solução que funcionou com outro cliente.  
+B) Esperar o cliente terminar apenas para voltar ao roteiro de apresentação.  
+C) Supor a causa do problema e seguir para a proposta sem confirmar o entendimento.  
+D) Prestar atenção, não interromper, interpretar o que foi dito e fazer perguntas para aprofundar.
 
 **Gabarito: D.**
-
 ---
 
 ### Questão 10 — Conexão e confiança
@@ -183,15 +177,14 @@ D) compreender o problema.
 
 ### Questão 12 — Estrutura da venda
 
-A estrutura apresentada pela fonte é:
+Um vendedor apresenta a solução e o preço logo no início da conversa. Só depois tenta descobrir o que o cliente realmente precisa. Considerando o fluxo da Apostila 2, qual sequência deveria orientar o processo?
 
-A) preço → desconto → apresentação → fechamento → abordagem.  
-B) abordagem → conexão → diagnóstico → apresentação → decisão.  
-C) produto → preço → contrato → pós-venda → diagnóstico.  
-D) conexão → fechamento → abordagem → proposta → diagnóstico.  
+A) Preço → desconto → apresentação → fechamento → abordagem.  
+B) Abordagem → conexão → diagnóstico → apresentação → decisão.  
+C) Produto → preço → contrato → pós-venda → diagnóstico.  
+D) Fechamento → abordagem → apresentação → conexão → diagnóstico.
 
 **Gabarito: B.**
-
 ---
 
 ### Questão 13 — Postura
@@ -211,15 +204,14 @@ D) já conhece o produto.
 
 ### Questão 14 — Abordagem
 
-A estrutura básica de abordagem apresentada pela Apostila 3 é:
+Uma profissional deseja iniciar contato com um possível cliente sem parecer robótica nem despejar uma oferta logo na primeira frase. Qual estrutura segue a orientação da Apostila 3?
 
-A) preço → desconto → fechamento.  
-B) produto → preço → proposta.  
-C) diagnóstico → objeção → fechamento.  
-D) cumprimento → contexto → abertura.  
+A) Apresentar o preço, listar vantagens e pedir o fechamento.  
+B) Fazer o diagnóstico completo antes de cumprimentar o cliente.  
+C) Enviar a proposta pronta e depois explicar o contexto.  
+D) Cumprimentar, apresentar o contexto do contato e abrir espaço para a conversa.
 
 **Gabarito: D.**
-
 ---
 
 ### Questão 15 — Início da conversa
@@ -237,15 +229,14 @@ D) enviar imediatamente a proposta.
 
 ### Questão 16 — Diagnóstico
 
-O diagnóstico procura descobrir:
+Um cliente diz que está insatisfeito com o processo atual. Antes de apresentar sua solução, o vendedor quer realizar o diagnóstico indicado na Apostila 3. O que deve investigar?
 
-A) somente o orçamento.  
-B) situação atual, problema real e impacto.  
-C) apenas o nome do produto desejado.  
-D) somente o prazo de pagamento.  
+A) Apenas quanto o cliente pode pagar.  
+B) A situação atual, o problema real e o impacto que ele provoca.  
+C) Somente qual produto o cliente já decidiu comprar.  
+D) Primeiro o prazo de assinatura e depois, se necessário, a dificuldade.
 
 **Gabarito: B.**
-
 ---
 
 ### Questão 17 — Apresentação
@@ -263,15 +254,14 @@ D) falar de todos os produtos disponíveis.
 
 ### Questão 18 — Objeções
 
-A estrutura apresentada para lidar com uma objeção é:
+Ao receber a objeção “está caro”, o vendedor pensa em conceder desconto imediatamente. Qual sequência corresponde à orientação da Apostila 3?
 
-A) discutir → pressionar → fechar.  
-B) ignorar → insistir → conceder desconto.  
-C) ouvir → validar → responder.  
-D) responder imediatamente → mudar de assunto.  
+A) Argumentar, pressionar e pedir uma decisão imediata.  
+B) Ignorar a objeção, apresentar outros produtos e voltar ao preço no final.  
+C) Ouvir a objeção, validar a preocupação e responder depois de compreender melhor.  
+D) Oferecer o maior desconto possível antes de perguntar o que o cliente está comparando.
 
 **Gabarito: C.**
-
 ---
 
 ### Questão 19 — Fechamento
