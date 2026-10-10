@@ -12,7 +12,7 @@
 - 1 atividade integradora final
 - 20 roteiros-mestre de aula
 - 20 roteiros de apoio visual/slides
-- 20 questões objetivas no sistema de avaliação
+- 20 questões objetivas no sistema de avaliação, com posições do gabarito balanceadas (5 respostas corretas em cada alternativa A–D)
 - 1 caso final
 - proposta de projeto integrador
 - arquitetura comercial do produto já definida
