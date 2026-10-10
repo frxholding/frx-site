@@ -16,7 +16,8 @@
 - 1 caso final
 - proposta de projeto integrador
 - arquitetura comercial do produto já definida
-- página comercial revisada para distinguir os 20 temas pedagógicos de arquivos audiovisuais individuais validados
+- página comercial revisada para distinguir os 20 temas pedagógicos de arquivos audiovisuais individuais validados;
+- contagem de páginas não verificada removida da comunicação comercial, e rótulos ajustados de “aulas” para “temas” nos grupos da página
 
 ## Pronto nesta etapa
 
