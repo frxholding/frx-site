@@ -20,6 +20,7 @@
 - matriz pedagógica revisada para identificar Fundamentos de Vendas e Primeiras Técnicas de Vendas como Blocos 2 e 3, evitando confusão com níveis de formação separados;
 - nomenclatura padronizada como Blocos 1, 2 e 3 também no caderno de atividades e na ficha de configuração da plataforma;
 - página comercial alinhada à nomenclatura de Blocos 1, 2 e 3, mantendo a ressalva sobre validação audiovisual e critérios ainda pendentes;
+- formatação das alternativas A–D padronizada no banco de avaliação para melhorar a leitura e a consistência visual;
 - contagem de páginas não verificada removida da comunicação comercial, e rótulos ajustados de “aulas” para “temas” nos grupos da página
 
 ## Pronto nesta etapa
