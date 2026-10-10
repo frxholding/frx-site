@@ -9,9 +9,9 @@ Preparar a configuração do produto na plataforma de ensino sem inventar duraç
 - **Nome comercial:** Método Inquebrável — Nível I
 - **Linha:** FRX Formação Profissional
 - **Escopo didático atual:** 3 apostilas e 20 aulas de referência
-- **Etapa 1:** Mentalidade Inquebrável — aulas 01 a 06
-- **Etapa 2:** Fundamentos de Vendas — aulas 07 a 13
-- **Etapa 3:** Primeiras Técnicas de Vendas — aulas 14 a 20
+- **Bloco 1:** Mentalidade Inquebrável — aulas 01 a 06
+- **Bloco 2:** Fundamentos de Vendas — aulas 07 a 13
+- **Bloco 3:** Primeiras Técnicas de Vendas — aulas 14 a 20
 - **Página FRX:** `curso-metodo-inquebravavel.html`
 - **Link Hotmart registrado no site:** `https://go.hotmart.com/F105461125G`
 
@@ -21,7 +21,7 @@ A lista das 20 aulas representa a estrutura pedagógica derivada dos capítulos 
 
 ## Estrutura a configurar
 
-### Módulo/Seção 1 — Mentalidade Inquebrável
+### Bloco/Módulo 1 — Mentalidade Inquebrável
 1. O nascimento do vendedor
 2. Responsabilidade total
 3. Rejeição: o teste real
@@ -31,7 +31,7 @@ A lista das 20 aulas representa a estrutura pedagógica derivada dos capítulos 
 
 **Materiais associados:** Apostila 1 e fichas de aplicação das aulas 01–06, após revisão editorial final.
 
-### Módulo/Seção 2 — Fundamentos de Vendas
+### Bloco/Módulo 2 — Fundamentos de Vendas
 7. O que é vender de verdade
 8. Como o cliente pensa
 9. Escuta ativa
@@ -42,7 +42,7 @@ A lista das 20 aulas representa a estrutura pedagógica derivada dos capítulos 
 
 **Materiais associados:** Apostila 2 e fichas de aplicação das aulas 07–13, após revisão editorial final.
 
-### Módulo/Seção 3 — Primeiras Técnicas de Vendas
+### Bloco/Módulo 3 — Primeiras Técnicas de Vendas
 14. Abordagem: o primeiro contato
 15. Início da conversa
 16. Diagnóstico: entender antes de vender
