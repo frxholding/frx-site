@@ -7,7 +7,7 @@
 - 6 aulas de Mentalidade Inquebrável
 - 7 aulas de Fundamentos de Vendas
 - 7 aulas de Primeiras Técnicas de Vendas
-- 20 fichas de aplicação
+- 20 fichas de aplicação conferidas e completas (01–20)
 - 1 caderno de atividades
 - 1 atividade integradora final
 - 20 roteiros-mestre de aula
@@ -31,6 +31,9 @@
 - roteiro-mestre das 20 aulas
 - roteiro visual das 20 aulas
 - orientação para reutilização do audiovisual existente
+- inventário técnico de arquivos candidatos, com duplicações identificadas
+- roteiro operacional para configuração da plataforma
+- rubrica proposta para correção do projeto integrador
 - regra de não atribuir conteúdo a áudio sem conferência
 
 ### Avaliação
@@ -58,7 +61,11 @@ Ainda precisam ser formalmente validados:
 Só deve ser configurada depois da validação dos critérios institucionais e da carga horária publicada.
 
 ### 5. Plataforma
-Após a validação pedagógica, será necessário configurar as 20 aulas, materiais, atividades, avaliações, progressão e regras de conclusão na plataforma.
+- [x] roteiro de configuração preparado;
+- [ ] executar configuração na área administrativa;
+- [ ] anexar e conferir materiais;
+- [ ] configurar avaliações e progressão;
+- [ ] configurar regras de conclusão após aprovação institucional.
 
 ### 6. Teste final
 Antes da publicação comercial definitiva, executar a jornada completa:
@@ -72,4 +79,4 @@ O produto não deve ser considerado definitivamente pronto apenas porque a pági
 
 **Pedagogicamente estruturado e em produção avançada.**
 
-O principal bloqueio técnico-pedagógico restante é a conferência dos audiovisuais existentes. As demais pendências são de validação institucional, configuração de plataforma e teste final.
+As 20 fichas de aplicação estão agora presentes no repositório e foram conferidas quanto à existência. O principal bloqueio técnico-pedagógico continua sendo a conferência semântica dos audiovisuais. A configuração da plataforma tem roteiro operacional, mas ainda não foi executada; também faltam validação institucional, definição da carga horária e teste final.
