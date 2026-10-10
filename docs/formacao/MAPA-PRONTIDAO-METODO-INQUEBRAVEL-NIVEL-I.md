@@ -16,6 +16,7 @@
 - 1 caso final
 - proposta de projeto integrador
 - arquitetura comercial do produto já definida
+- página comercial revisada para distinguir os 20 temas pedagógicos de arquivos audiovisuais individuais validados
 
 ## Pronto nesta etapa
 
@@ -63,6 +64,7 @@ Só deve ser configurada depois da validação dos critérios institucionais e d
 ### 5. Plataforma
 - [x] roteiro de configuração preparado;
 - [ ] executar configuração na área administrativa;
+- [ ] confirmar que a oferta e os materiais publicados correspondem ao conteúdo efetivamente disponível;
 - [ ] anexar e conferir materiais;
 - [ ] configurar avaliações e progressão;
 - [ ] configurar regras de conclusão após aprovação institucional.
@@ -79,4 +81,4 @@ O produto não deve ser considerado definitivamente pronto apenas porque a pági
 
 **Pedagogicamente estruturado e em produção avançada.**
 
-As 20 fichas de aplicação estão agora presentes no repositório e foram conferidas quanto à existência. O principal bloqueio técnico-pedagógico continua sendo a conferência semântica dos audiovisuais. A configuração da plataforma tem roteiro operacional, mas ainda não foi executada; também faltam validação institucional, definição da carga horária e teste final.
+As 20 fichas de aplicação estão agora presentes no repositório e foram conferidas quanto à existência. O principal bloqueio técnico-pedagógico continua sendo a conferência semântica dos audiovisuais. A página comercial foi ajustada para não sugerir que já existam 20 arquivos audiovisuais individuais validados. A configuração da plataforma tem roteiro operacional, mas ainda não foi executada; também faltam validação institucional, definição da carga horária e teste final.
