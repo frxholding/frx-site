@@ -21,6 +21,8 @@
 - nomenclatura padronizada como Blocos 1, 2 e 3 também no caderno de atividades e na ficha de configuração da plataforma;
 - página comercial alinhada à nomenclatura de Blocos 1, 2 e 3, mantendo a ressalva sobre validação audiovisual e critérios ainda pendentes;
 - formatação das alternativas A–D padronizada no banco de avaliação para melhorar a leitura e a consistência visual;
+- versão da avaliação do participante criada sem gabarito visível;
+- gabarito separado em arquivo interno, com distribuição conferida: 5 respostas A, 5 B, 5 C e 5 D;
 - contagem de páginas não verificada removida da comunicação comercial, e rótulos ajustados de “aulas” para “temas” nos grupos da página
 
 ## Pronto nesta etapa
