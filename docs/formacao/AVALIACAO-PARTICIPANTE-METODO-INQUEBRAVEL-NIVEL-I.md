@@ -103,12 +103,12 @@ D) motivado para desmotivado.
 
 ### Questão 06 — Controle emocional
 
-Segundo a fonte, o vendedor não precisa:
+Qual orientação resume o capítulo sobre controle emocional da Apostila 1?
 
-A) executar.  
-B) agir.  
-C) reconhecer suas emoções.  
-D) estar emocionalmente perfeito para executar.  
+A) Esperar a ansiedade desaparecer antes de agir.  
+B) Evitar contatos que possam gerar frustração.  
+C) Executar somente quando estiver se sentindo bem.  
+D) Agir mesmo sentindo ansiedade, insegurança ou pressão.  
 
 **Gabarito: D.**
 
