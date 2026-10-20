@@ -43,11 +43,11 @@
 
 ## 2. Segunda rodada: contextualização e distratores
 
-Foram reescritas as questões 01, 03, 04, 07, 08, 09, 12, 14, 16 e 18 com situações curtas de vendas e alternativas incorretas mais relacionadas ao erro que a apostila procura corrigir. A intenção é avaliar a escolha de conduta, e não apenas o reconhecimento de uma frase.
+Foram reescritas as 20 questões com situações curtas de vendas e alternativas incorretas mais relacionadas aos erros que as apostilas procuram corrigir. A segunda rodada contextualizou as questões 02, 05, 06, 10, 11, 13, 15, 17, 19 e 20, mantendo os conceitos e a terminologia das fontes. A intenção é avaliar a escolha de conduta, e não apenas o reconhecimento de uma frase.
 
 As novas formulações foram mantidas alinhadas aos princípios explícitos das fontes: assumir responsabilidade; aprender com rejeição; agir com disciplina; diagnosticar antes de apresentar; priorizar o problema do cliente; praticar escuta ativa; respeitar o fluxo da venda; abrir a conversa com contexto; investigar situação, problema e impacto; e ouvir, validar e responder a objeções.
 
-A distribuição de respostas corretas foi preservada: A = 5, B = 5, C = 5, D = 5. Após a atualização, foi conferido que o banco contém 20 questões e 20 marcações de gabarito. A versão do participante foi revisada separadamente para remover todas as marcações de resposta.
+A distribuição de respostas corretas foi preservada: A = 5, B = 5, C = 5, D = 5. Após a atualização, foi conferido que o banco contém 20 questões e 20 marcações de gabarito. A versão do participante foi atualizada em paralelo e permanece sem marcações de resposta.
 
 ## 3. Ajuste realizado
 
@@ -75,9 +75,9 @@ Esta etapa verifica a correspondência entre os enunciados e os conceitos encont
 
 ## 7. Próximas ações recomendadas
 
-- Revisar os distratores das questões com alternativas muito óbvias.
-- Criar uma versão contextualizada de parte das questões, sem alterar o conteúdo-fonte.
-- Fazer revisão final do gabarito após qualquer mudança.
+- Fazer uma leitura final de consistência e legibilidade das 20 questões.
+- Conferir a correspondência entre banco, versão do participante e gabarito interno após as alterações.
+- Submeter a avaliação a uma leitura-piloto, se possível, antes de tratá-la como instrumento definitivo.
 - Só então configurar e testar a avaliação na plataforma.
 
-**Status:** revisão de alinhamento com as fontes concluída; dez questões contextualizadas; refinamento pedagógico remanescente e configuração de plataforma ainda pendentes.
+**Status:** 20 questões contextualizadas; gabarito preservado e conferido estruturalmente; falta leitura-piloto/validação pedagógica externa e configuração na plataforma.
