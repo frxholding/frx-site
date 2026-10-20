@@ -18,15 +18,15 @@ Cada etapa prepara a seguinte; apresentar a solução antes do diagnóstico pode
 ## Slide 4 — Desenvolvimento
 **Abordagem**
 
-Cada etapa prepara a seguinte; apresentar a solução antes do diagnóstico pode desconectar a proposta da necessidade.
+Inicie de forma simples e natural. A abertura deve iniciar a conversa, não antecipar toda a apresentação do produto.
 
 ## Slide 5 — Desenvolvimento
-**conexão → diagnóstico**
+**Conexão → diagnóstico**
 
-Abordagem → conexão → diagnóstico → apresentação → decisão.
+Crie entendimento, investigue a situação e o problema; só depois apresente a solução relacionada ao diagnóstico e verifique o próximo passo.
 
 ## Slide 6 — Aplicação
-Um vendedor começa pelo preço sem entender a necessidade. Indique a etapa que foi pulada.
+Um vendedor começa pelo preço sem investigar a necessidade. Identifique as etapas que ficaram comprometidas e explique como retomaria a conversa.
 
 ## Slide 7 — Síntese
 **Abordagem → conexão → diagnóstico → apresentação → decisão**
