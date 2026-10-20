@@ -109,7 +109,7 @@ A verificação direta do repositório confirma que existem 20 arquivos de rotei
 
 **Próximas tarefas de produção, em ordem:**
 1. Revisão cruzada das 20 narrações com as três apostilas originais, verificando fidelidade, repetição, lacunas e clareza.
-2. Conferência dos 20 roteiros de slides contra as narrações e as apostilas.
+2. Conferência cruzada dos 20 roteiros de slides contra as narrações e as apostilas. A existência dos 20 arquivos foi confirmada e uma busca automatizada não encontrou quatro marcadores genéricos de placeholder; isso ainda não substitui a leitura pedagógica slide a slide.
 3. Conferência semântica dos arquivos audiovisuais existentes antes de atribuir qualquer vídeo a uma aula.
 4. Leitura-piloto da avaliação e validação dos critérios pedagógicos.
 5. Definição da carga horária real e formalização dos critérios institucionais de conclusão/certificação.
