@@ -1,47 +1,41 @@
-# Aula 17 — Apresentação: como falar certo
+# Aula 17 — Apresentação: ligar solução e necessidade
 
 > Roteiro visual de apoio — Método Inquebrável — Nível I
 
 ## Slide 1 — Abertura
-**Apresentação: como falar certo**
+**Apresentação: ligar solução e necessidade**
 
 Etapa: Técnicas
 
 ## Slide 2 — Objetivo
-Ao final desta aula, o aluno deverá compreender e aplicar o princípio central de **apresentação: como falar certo** apresentado no conteúdo-base.
+Explicar a solução relacionando-a ao problema identificado e ao resultado esperado.
 
 ## Slide 3 — Ideia central
-**Venda a solução, não uma lista técnica.**
-
-Apresentar a ideia central da aula de forma objetiva, preservando a abordagem da apostila.
+**Retome o problema; apresente a solução; explique o resultado esperado.**
 
 ## Slide 4 — Desenvolvimento
-**Problema**
+**Retome o problema**
 
-Desenvolver o primeiro elemento do fluxo com base no conteúdo da apostila correspondente.
+Confirme em poucas palavras o que o cliente disse que precisa resolver.
 
 ## Slide 5 — Desenvolvimento
-**solução → resultado**
+**Solução → resultado esperado**
 
-Desenvolver os elementos intermediários, conectando-os à prática comercial.
+Explique apenas o que responde à necessidade; não prometa o que não pode garantir.
 
 ## Slide 6 — Aplicação
-Apresentar uma situação comercial compatível com o conteúdo e conduzir o aluno à aplicação prática.
+O cliente relatou uma dificuldade. Construa uma apresentação breve que mostre como a solução se relaciona com ela, sem recitar o catálogo inteiro.
 
 ## Slide 7 — Síntese
-**Problema → solução → resultado**
-
-Retomar a sequência ou relação principal da aula.
+**Problema → solução → resultado esperado. Conecte a proposta ao diagnóstico.**
 
 ## Slide 8 — Atividade
-Minha apresentação responde ao problema?
+Escreva uma apresentação curta: problema, solução pertinente e resultado esperado, com limites claros.
 
-Usar a **Ficha de Aplicação da Aula 17** como atividade principal.
+Usar a Ficha de Aplicação da Aula 17 como apoio principal da atividade.
 
 ## Slide 9 — Fechamento
-**Aprender → aplicar → observar → ajustar → evoluir.**
-
-Registrar o principal aprendizado e preparar a conexão com a próxima aula.
+Retomar o princípio central e pedir ao aluno que identifique uma ação concreta para aplicar na próxima conversa comercial.
 
 ## Nota de produção
-Este roteiro é apoio visual. O conteúdo deve permanecer fiel à apostila-base. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
+Este roteiro visual foi alinhado à narração-base da aula e deve permanecer fiel à Apostila 3 — Primeiras Técnicas de Vendas. Os exemplos são ilustrações didáticas. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
