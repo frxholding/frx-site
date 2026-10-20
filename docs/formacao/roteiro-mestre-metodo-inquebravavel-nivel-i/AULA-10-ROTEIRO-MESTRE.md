@@ -4,35 +4,33 @@
 Fundamentos
 
 ## Foco
-Interesse genuíno, clareza e coerência
+Conexão, entendimento e confiança
 
 ## Objetivo de aprendizagem
-Compreender como conexão e entendimento contribuem para a confiança na relação comercial.
+Compreender como o interesse genuíno, a escuta e a coerência ajudam a construir confiança.
 
 ## Roteiro de fala — narração-base
 
-Nesta aula, vamos trabalhar a conexão e a confiança. A Apostila 2 apresenta uma sequência importante: conexão, entendimento, confiança e venda. Isso significa que a venda não deve ser tratada como um acontecimento isolado, separado da forma como o vendedor se relaciona com o cliente.
+Nesta aula, vamos estudar conexão e confiança. A Apostila 2 apresenta uma sequência: conexão, entendimento, confiança e venda. Essa ordem é importante porque a relação comercial não começa com uma pressão para fechar; começa com a construção de uma conversa em que o cliente possa explicar sua situação.
 
-A conexão começa quando o vendedor demonstra interesse genuíno pela situação da pessoa. Esse interesse não é uma frase decorada nem uma tentativa de agradar artificialmente. Ele aparece na atenção, nas perguntas pertinentes e na disposição de compreender o que o cliente está explicando.
+Criar conexão não significa fingir intimidade ou usar frases prontas sem prestar atenção. Significa demonstrar interesse genuíno, ouvir o que a pessoa diz e estar presente na conversa. Quando o vendedor procura compreender antes de apresentar, o cliente tem mais espaço para explicar suas necessidades e esclarecer o que considera importante.
 
-O entendimento vem quando o vendedor procura conhecer a situação antes de apresentar uma solução. Se ele não compreende o problema, pode oferecer informações que não ajudam o cliente a decidir. Por isso, conexão e entendimento precisam acontecer antes de tentar conduzir a conversa para a venda.
+O entendimento vem da escuta e das perguntas. Sem ele, o vendedor pode apresentar algo que não corresponde ao problema real. Quando o cliente percebe que sua situação foi compreendida, fica mais fácil conversar sobre alternativas relevantes. A confiança, porém, não deve ser exigida nem presumida: ela é construída pela clareza, pela segurança e pela coerência entre o que o vendedor diz e o que pode cumprir.
 
-A confiança se desenvolve com clareza, segurança e coerência. Não basta afirmar que o cliente pode confiar; o comportamento precisa sustentar essa afirmação. Explicar de forma compreensível, ouvir com atenção e não prometer o que não se pode cumprir são atitudes coerentes com uma relação profissional.
+Imagine uma conversa em que o vendedor promete mais do que sabe que pode entregar. Mesmo que a apresentação pareça convincente, a incoerência compromete a confiança. Em contraste, reconhecer limites, explicar com clareza e responder honestamente às dúvidas favorece uma relação profissional.
 
-Imagine que um cliente explique uma dificuldade e o vendedor imediatamente comece a falar de preço e características. A conversa pode parecer apressada porque o cliente ainda não percebeu que sua situação foi compreendida. Em vez disso, o vendedor pode confirmar o que ouviu, esclarecer dúvidas e só então avaliar se a solução é pertinente.
+A sequência conexão → entendimento → confiança → venda não é uma garantia automática de compra. Ela organiza a postura: primeiro criar condições para uma conversa real, depois compreender, construir confiança e então conduzir a decisão. O cliente continua livre para decidir.
 
-A sequência não deve ser usada como uma fórmula mecânica para forçar uma compra. Ela ajuda a lembrar que a confiança é construída ao longo da relação. Mesmo quando existe conexão e entendimento, o cliente pode decidir não comprar; essa decisão precisa ser respeitada.
-
-Na atividade, identifique comportamentos que demonstrem interesse genuíno, entendimento e coerência. O objetivo é reconhecer como a postura do vendedor contribui para uma conversa confiável.
+Na atividade, pense em comportamentos que mostrem interesse real e clareza. Evite respostas genéricas como “ser simpático”; descreva o que você faria ou diria concretamente.
 
 ## Aplicação prática
-Descreva três comportamentos que demonstram interesse genuíno e clareza durante uma conversa comercial.
+Descreva três comportamentos concretos que podem demonstrar interesse genuíno e clareza em uma conversa comercial.
 
 ## Síntese
-A conversa comercial exige atenção ao cliente, compreensão da necessidade e uma condução coerente com a etapa em que a venda se encontra. Aplique o princípio desta aula sem atribuir ao método conceitos que não estejam nas apostilas.
+A venda profissional começa pela compreensão do cliente e exige escuta, clareza, coerência e respeito à decisão. A técnica deve ajudar a conduzir a conversa, não substituir o entendimento.
 
 ## Orientação de produção
-Usar a Apostila 2 — Fundamentos de Vendas como fonte principal. Os exemplos são ilustrações didáticas. Os slides apoiam a fala e não substituem o conteúdo-base. Não associar vídeo existente sem conferência semântica.
+Usar a Apostila 2 — Fundamentos de Vendas como fonte principal. Os exemplos são ilustrações didáticas. Os slides devem apoiar a fala, sem substituir o conteúdo-base. Não associar vídeo existente sem conferência semântica.
 
 ## Fonte e limite de escopo
 Roteiro baseado no capítulo correspondente da Apostila 2. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
