@@ -18,15 +18,15 @@ Ansiedade, insegurança e dependência contrastam com presença, calma e profiss
 ## Slide 4 — Desenvolvimento
 **Insegurança × segurança**
 
-Ansiedade, insegurança e dependência contrastam com presença, calma e profissionalismo.
+Observe sinais como pressa, ansiedade e dependência da aprovação. Compare-os com presença, calma e atenção ao que o cliente relata.
 
 ## Slide 5 — Desenvolvimento
-**ansiedade × presença → dependência × profissionalismo**
+**Ansiedade × presença; dependência × profissionalismo**
 
-Presença → clareza → coerência → confiança.
+Procure agir com presença, comunicar-se com clareza e manter coerência, sem pressionar o cliente por uma resposta positiva.
 
 ## Slide 6 — Aplicação
-Compare duas aberturas comerciais: uma apressada e dependente da resposta positiva, outra calma, clara e respeitosa.
+Compare duas aberturas: uma apressada, que busca aprovação imediata, e outra calma, clara e respeitosa. Que sinais de postura aparecem em cada uma?
 
 ## Slide 7 — Síntese
 **Insegurança × segurança → ansiedade × presença → dependência × profissionalismo**
