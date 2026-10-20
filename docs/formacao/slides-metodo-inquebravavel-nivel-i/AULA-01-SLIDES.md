@@ -8,30 +8,30 @@
 Etapa: Mentalidade
 
 ## Slide 2 — Objetivo
-Ao final desta aula, o aluno deverá compreender e aplicar o princípio central de **o nascimento do vendedor** apresentado no conteúdo-base.
+Ao final desta aula, o aluno deverá reconhecer o seguinte princípio: Assumir a própria parte e transformar intenção em ação.
 
 ## Slide 3 — Ideia central
 **Se eu não fizer acontecer, nada acontece.**
 
-Apresentar a ideia central da aula de forma objetiva, preservando a abordagem da apostila.
+Responsabilidade não significa controlar o mercado ou o cliente; significa reconhecer a ação que depende de você.
 
 ## Slide 4 — Desenvolvimento
 **Responsabilidade**
 
-Desenvolver o primeiro elemento do fluxo com base no conteúdo da apostila correspondente.
+Responsabilidade não significa controlar o mercado ou o cliente; significa reconhecer a ação que depende de você.
 
 ## Slide 5 — Desenvolvimento
 **ação → execução**
 
-Desenvolver os elementos intermediários, conectando-os à prática comercial.
+Esperar condições ideais → identificar um passo possível → executar.
 
 ## Slide 6 — Aplicação
-Apresentar uma situação comercial compatível com o conteúdo e conduzir o aluno à aplicação prática.
+Uma pessoa adia os contatos até o mercado melhorar. Peça ao aluno que identifique uma ação comercial realista que possa iniciar agora.
 
 ## Slide 7 — Síntese
 **Responsabilidade → ação → execução**
 
-Retomar a sequência ou relação principal da aula.
+Reforçar a ideia central: Assumir a própria parte e transformar intenção em ação.
 
 ## Slide 8 — Atividade
 Que atitude depende de mim?
@@ -41,7 +41,7 @@ Usar a **Ficha de Aplicação da Aula 01** como atividade principal.
 ## Slide 9 — Fechamento
 **Aprender → aplicar → observar → ajustar → evoluir.**
 
-Registrar o principal aprendizado e preparar a conexão com a próxima aula.
+Concluir com uma pergunta de reflexão: Qual atitude depende de mim e vou executar?
 
 ## Nota de produção
 Este roteiro é apoio visual. O conteúdo deve permanecer fiel à apostila-base. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
