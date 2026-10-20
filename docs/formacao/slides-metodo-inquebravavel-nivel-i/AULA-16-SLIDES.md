@@ -1,47 +1,41 @@
-# Aula 16 — Diagnóstico: entender antes de vender
+# Aula 16 — Diagnóstico: compreender antes de apresentar
 
 > Roteiro visual de apoio — Método Inquebrável — Nível I
 
 ## Slide 1 — Abertura
-**Diagnóstico: entender antes de vender**
+**Diagnóstico: compreender antes de apresentar**
 
 Etapa: Técnicas
 
 ## Slide 2 — Objetivo
-Ao final desta aula, o aluno deverá compreender e aplicar o princípio central de **diagnóstico: entender antes de vender** apresentado no conteúdo-base.
+Investigar situação atual, problema real e impacto antes de recomendar uma solução.
 
 ## Slide 3 — Ideia central
 **Não apresente antes de entender.**
 
-Apresentar a ideia central da aula de forma objetiva, preservando a abordagem da apostila.
-
 ## Slide 4 — Desenvolvimento
 **Situação atual**
 
-Desenvolver o primeiro elemento do fluxo com base no conteúdo da apostila correspondente.
+Como o cliente trabalha ou resolve a questão hoje?
 
 ## Slide 5 — Desenvolvimento
-**problema real → impacto**
+**Problema real → impacto**
 
-Desenvolver os elementos intermediários, conectando-os à prática comercial.
+O que não funciona como precisa e por que isso importa?
 
 ## Slide 6 — Aplicação
-Apresentar uma situação comercial compatível com o conteúdo e conduzir o aluno à aplicação prática.
+O cliente pede um produto específico. Antes de recomendar, descubra o que motivou o pedido e qual dificuldade precisa resolver.
 
 ## Slide 7 — Síntese
-**Situação atual → problema real → impacto**
-
-Retomar a sequência ou relação principal da aula.
+**Situação atual → problema real → impacto. Não substitua diagnóstico por suposição.**
 
 ## Slide 8 — Atividade
-Qual é o problema real?
+Registre situação atual, problema, impacto e duas perguntas ainda necessárias antes de apresentar.
 
-Usar a **Ficha de Aplicação da Aula 16** como atividade principal.
+Usar a Ficha de Aplicação da Aula 16 como apoio principal da atividade.
 
 ## Slide 9 — Fechamento
-**Aprender → aplicar → observar → ajustar → evoluir.**
-
-Registrar o principal aprendizado e preparar a conexão com a próxima aula.
+Retomar o princípio central e pedir ao aluno que identifique uma ação concreta para aplicar na próxima conversa comercial.
 
 ## Nota de produção
-Este roteiro é apoio visual. O conteúdo deve permanecer fiel à apostila-base. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
+Este roteiro visual foi alinhado à narração-base da aula e deve permanecer fiel à Apostila 3 — Primeiras Técnicas de Vendas. Os exemplos são ilustrações didáticas. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
