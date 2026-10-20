@@ -25,13 +25,13 @@ A ideia que deve ficar desta aula é esta: o vendedor começa a se construir qua
 Registre uma situação comercial que você vem adiando. Escreva qual é a primeira ação concreta que está sob seu controle e quando irá executá-la.
 
 ## Síntese para o encerramento
-O aluno deve sair desta aula reconhecendo o princípio central e identificando uma ação concreta que possa aplicar em sua rotina comercial. Reforce que a atividade deve ser respondida a partir da experiência do próprio aluno e dos conceitos trabalhados na apostila-base.
+O aluno deve sair desta aula reconhecendo o princípio central e identificando uma ação concreta que possa aplicar em sua rotina comercial.
 
 ## Orientação de produção
-- Usar a Apostila 1 — Mentalidade Inquebrável como fonte principal desta aula.
-- Manter exemplos como ilustrações didáticas, sem apresentá-los como histórias reais verificadas.
+- Usar a Apostila 1 — Mentalidade Inquebrável como fonte principal.
+- Os exemplos são ilustrações didáticas, não histórias reais verificadas.
 - Os slides devem apoiar a fala, não substituir o desenvolvimento do conteúdo.
-- Não associar um vídeo existente a esta aula sem conferência semântica do arquivo.
+- Não associar vídeo existente a esta aula sem conferência semântica do arquivo.
 
 ## Fonte e limite de escopo
-O roteiro desenvolve os conceitos de responsabilidade, rejeição, disciplina, identidade profissional e controle emocional conforme a Apostila 1. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
+O roteiro desenvolve o princípio de assumir a própria parte e agir, conforme a Apostila 1. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
