@@ -101,3 +101,10 @@ Os roteiros visuais das aulas 14–20 foram atualizados para refletir a narraç�
 ### Atualização de produção — roteiros de fala
 
 A conferência do repositório confirma que os roteiros de fala das aulas 01–20 existem, incluindo a aula 09 — Escuta ativa — e as aulas 14–20. Portanto, os 20 roteiros têm uma narração-base e uma atividade prática registradas. O próximo controle é uma revisão editorial cruzada de todos os roteiros com as três apostilas e o alinhamento final com os slides. Permanecem pendentes a conferência audiovisual, a validação-piloto da avaliação e os testes de publicação/plataforma. Não declarar o curso concluído enquanto essas verificações não forem executadas.
+
+
+## Registro de avanço — roteiros de fala
+
+Atualização de produção: os roteiros de fala das aulas 07 a 13 foram desenvolvidos ou completados no repositório, cobrindo os capítulos de Fundamentos de Vendas da Apostila 2. A aula 09 (Escuta ativa) também foi criada como arquivo próprio. Os roteiros incluem objetivo de aprendizagem, narração-base, aplicação prática, síntese e orientação de produção.
+
+**Próxima etapa:** desenvolver os roteiros de fala das aulas 14 a 20, correspondentes à Apostila 3 — Primeiras Técnicas de Vendas. Depois será necessário revisar o conjunto para consistência, conferir os slides e associar arquivos audiovisuais somente após verificação semântica. A produção dos roteiros não significa que o curso esteja publicado ou pronto para venda.
