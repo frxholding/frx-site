@@ -8,30 +8,30 @@
 Etapa: Mentalidade
 
 ## Slide 2 — Objetivo
-Ao final desta aula, o aluno deverá compreender e aplicar o princípio central de **identidade do vendedor** apresentado no conteúdo-base.
+Ao final desta aula, o aluno deverá compreender e aplicar o seguinte princípio: A identidade profissional aparece em atitudes consistentes, não apenas em palavras.
 
 ## Slide 3 — Ideia central
 **De tentar vender para assumir uma identidade profissional.**
 
-Apresentar a ideia central da aula de forma objetiva, preservando a abordagem da apostila.
+Passar de “estou tentando vender” para “sou um profissional de vendas”.
 
 ## Slide 4 — Desenvolvimento
 **Tentativa**
 
-Desenvolver o primeiro elemento do fluxo com base no conteúdo da apostila correspondente.
+Passar de “estou tentando vender” para “sou um profissional de vendas”.
 
 ## Slide 5 — Desenvolvimento
 **postura → constância**
 
-Desenvolver os elementos intermediários, conectando-os à prática comercial.
+Identidade profissional → preparo → constância → responsabilidade.
 
 ## Slide 6 — Aplicação
-Apresentar uma situação comercial compatível com o conteúdo e conduzir o aluno à aplicação prática.
+Compare uma atuação ocasional com uma rotina profissional de preparação, contato, acompanhamento e aprendizado.
 
 ## Slide 7 — Síntese
 **Tentativa → postura → constância → profissionalismo**
 
-Retomar a sequência ou relação principal da aula.
+Reforçar a ideia central: A identidade profissional aparece em atitudes consistentes, não apenas em palavras.
 
 ## Slide 8 — Atividade
 Que comportamento será padrão?
@@ -41,7 +41,7 @@ Usar a **Ficha de Aplicação da Aula 05** como atividade principal.
 ## Slide 9 — Fechamento
 **Aprender → aplicar → observar → ajustar → evoluir.**
 
-Registrar o principal aprendizado e preparar a conexão com a próxima aula.
+Concluir com uma pergunta de reflexão: Quais atitudes demonstram minha identidade profissional?
 
 ## Nota de produção
 Este roteiro é apoio visual. O conteúdo deve permanecer fiel à apostila-base. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
