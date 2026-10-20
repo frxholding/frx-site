@@ -116,3 +116,8 @@ A verificação direta do repositório confirma que existem 20 arquivos de rotei
 6. Configuração real da plataforma, anexação dos materiais e teste integral da jornada do aluno.
 
 A produção documental não comprova publicação, configuração da plataforma, validação institucional nem conclusão comercial. O curso permanece em produção até que as verificações acima sejam executadas.
+
+
+### Verificação adicional — roteiros de slides (20/10/2026)
+
+Foi feita uma conferência automatizada dos 20 arquivos de slides no repositório: todos existem e nenhum apresentou os quatro marcadores genéricos procurados (instrução para desenvolver elementos sem conteúdo, exemplo de aplicação genérico ou referência vaga ao conteúdo-base). Isso confirma que os arquivos contêm conteúdo específico em vez desses placeholders; ainda é necessária a leitura pedagógica slide a slide contra a apostila e a narração, pois a busca automatizada não certifica a qualidade didática nem a fidelidade integral.
