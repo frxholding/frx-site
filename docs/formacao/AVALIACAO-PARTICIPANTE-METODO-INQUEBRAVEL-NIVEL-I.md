@@ -48,13 +48,12 @@ D) Esperar que a empresa estabeleça uma meta mais realista.
 
 ### Questão 02 — Responsabilidade total
 
-Diante de uma venda perdida, a pergunta proposta pela fonte é:
+Depois de perder uma venda, um profissional passa a explicar o resultado apenas pela situação do mercado e pelo comportamento do cliente. Para aplicar o princípio de responsabilidade total da Apostila 1, qual pergunta deve fazer a si mesmo?
 
-A) Quem foi o culpado?  
-B) O mercado estava ruim?  
-C) O cliente tinha dinheiro?  
-D) O que eu poderia ter feito diferente?  
-
+A) Quem deveria ter impedido que essa venda fosse perdida?  
+B) Como posso provar que o mercado foi o principal responsável?  
+C) Que motivo posso usar para justificar o resultado à equipe?  
+D) O que eu poderia ter feito diferente nessa situação?  
 
 ---
 
@@ -80,25 +79,23 @@ D) Fazer contatos somente quando houver certeza de que o cliente está pronto pa
 
 ### Questão 05 — Identidade
 
-A mudança de identidade proposta pela fonte é passar de:
+Uma profissional descreve seu trabalho dizendo: “Estou só tentando vender quando aparece uma oportunidade”. Ela quer adotar a postura apresentada na Apostila 1. Qual mudança de linguagem corresponde à identidade profissional proposta?
 
-A) “estou tentando vender” para “sou um profissional de vendas”.  
-B) vendedor para gerente.  
-C) vendedor para comprador.  
-D) motivado para desmotivado.  
-
+A) Passar de “estou tentando vender” para “sou uma profissional de vendas”.  
+B) Passar a se apresentar como gerente, mesmo sem exercer essa função.  
+C) Evitar definir sua atuação profissional até alcançar todas as metas.  
+D) Considerar-se profissional apenas nos dias em que estiver motivada.  
 
 ---
 
 ### Questão 06 — Controle emocional
 
-Qual orientação resume o capítulo sobre controle emocional da Apostila 1?
+Antes de ligar para novos clientes, um vendedor sente ansiedade e insegurança. Ele pensa em adiar os contatos até se sentir totalmente confiante. Qual atitude está mais alinhada ao capítulo sobre controle emocional da Apostila 1?
 
-A) Esperar a ansiedade desaparecer antes de agir.  
-B) Evitar contatos que possam gerar frustração.  
-C) Executar somente quando estiver se sentindo bem.  
-D) Agir mesmo sentindo ansiedade, insegurança ou pressão.  
-
+A) Adiar todos os contatos até não sentir mais ansiedade.  
+B) Escolher apenas clientes que não possam gerar frustração.  
+C) Trabalhar somente nos dias em que estiver emocionalmente confortável.  
+D) Reconhecer o que está sentindo e executar a ação planejada mesmo sob pressão.  
 
 ---
 
@@ -136,25 +133,23 @@ D) Prestar atenção, não interromper, interpretar o que foi dito e fazer pergu
 
 ### Questão 10 — Conexão e confiança
 
-A sequência apresentada na Apostila 2 é:
+Após o primeiro contato, uma vendedora procura compreender a situação do cliente antes de propor uma solução. Ela sabe que a venda deve ser construída ao longo da relação. Qual sequência corresponde à Apostila 2?
 
-A) conexão → entendimento → confiança → venda.  
-B) preço → produto → desconto → venda.  
-C) produto → proposta → preço → venda.  
-D) fechamento → diagnóstico → conexão → venda.  
-
+A) Conexão → entendimento → confiança → venda.  
+B) Entendimento → fechamento → conexão → confiança.  
+C) Confiança → apresentação do produto → conexão → diagnóstico.  
+D) Apresentação → preço → conexão → entendimento.  
 
 ---
 
 ### Questão 11 — Erros que destroem vendas
 
-Qual comportamento aparece como erro na fonte?
+Em uma reunião, o vendedor fala quase todo o tempo, apresenta muitos detalhes e mal permite que o cliente explique sua necessidade. Qual erro destacado na Apostila 2 está presente nessa situação?
 
-A) ouvir o cliente.  
-B) diagnosticar.  
-C) falar demais.  
-D) compreender o problema.  
-
+A) Demonstrar interesse pelo que o cliente relata.  
+B) Investigar a situação antes de apresentar a solução.  
+C) Falar demais e deixar de compreender adequadamente o cliente.  
+D) Fazer perguntas para esclarecer o problema apresentado.  
 
 ---
 
@@ -170,13 +165,12 @@ D) Fechamento → abordagem → apresentação → conexão → diagnóstico.
 
 ### Questão 13 — Postura
 
-Segundo a fonte, antes das palavras o cliente:
+Antes mesmo de explicar sua proposta, um vendedor demonstra pressa, insegurança e pouca atenção ao cliente. De acordo com a Apostila 2, o que o cliente pode perceber antes ou além das palavras?
 
-A) já percebe a postura do vendedor.  
-B) já conhece o preço.  
-C) já decidiu comprar.  
-D) já conhece o produto.  
-
+A) A postura do vendedor.  
+B) O preço final, mesmo que ainda não tenha sido informado.  
+C) A decisão de compra, antes de conhecer a solução.  
+D) O funcionamento completo do produto, sem uma apresentação.  
 
 ---
 
@@ -194,13 +188,12 @@ D) Cumprimentar, apresentar o contexto do contato e abrir espaço para a convers
 
 ### Questão 15 — Início da conversa
 
-No início da conversa, a fonte recomenda:
+Ao iniciar uma conversa comercial, uma cliente ainda não explicou o que precisa. O vendedor quer seguir a orientação da Apostila 3, sem transformar a abertura em uma apresentação prematura. Como deve começar?
 
-A) começar pelo preço.  
-B) apresentar todo o produto.  
-C) começar pelo cliente e fazer perguntas.  
-D) enviar imediatamente a proposta.  
-
+A) Informar o preço para que a cliente decida se vale a pena continuar.  
+B) Listar todas as características do produto antes de ouvir a cliente.  
+C) Começar pela situação da cliente e fazer perguntas para entender o que ela busca.  
+D) Enviar uma proposta padronizada e aguardar uma resposta.  
 
 ---
 
@@ -216,13 +209,12 @@ D) Primeiro o prazo de assinatura e depois, se necessário, a dificuldade.
 
 ### Questão 17 — Apresentação
 
-A estrutura simples apresentada para a apresentação é:
+Depois de investigar a dificuldade do cliente, a vendedora vai apresentar uma solução. Para manter a explicação ligada à necessidade identificada, qual sequência recomenda a Apostila 3?
 
-A) retomar o problema → apresentar solução → mostrar resultado.  
-B) preço → desconto → fechamento.  
-C) produto → características → preço.  
-D) falar de todos os produtos disponíveis.  
-
+A) Retomar o problema → apresentar a solução → mostrar o resultado esperado.  
+B) Apresentar o preço → oferecer desconto → solicitar o fechamento.  
+C) Enumerar todas as características → comparar todos os produtos → falar do preço.  
+D) Descrever o catálogo completo → destacar os itens mais recentes → encerrar a conversa.  
 
 ---
 
@@ -238,25 +230,23 @@ D) Oferecer o maior desconto possível antes de perguntar o que o cliente está 
 
 ### Questão 19 — Fechamento
 
-No fechamento, a fonte orienta o vendedor a:
+Após explicar como a solução atende à necessidade do cliente, o vendedor percebe que a conversa chegou ao momento de definir o próximo passo. Qual conduta está de acordo com a Apostila 3?
 
-A) esperar o cliente decidir sozinho.  
-B) evitar qualquer pergunta.  
-C) insistir até obter uma resposta positiva.  
-D) conduzir o próximo passo com perguntas simples.  
-
+A) Encerrar a conversa sem perguntar se o cliente deseja avançar.  
+B) Evitar perguntas para não influenciar a decisão do cliente.  
+C) Repetir a oferta e pressionar até receber uma resposta positiva.  
+D) Fazer uma pergunta simples, como “Faz sentido para você?” ou “Quer avançar?”.  
 
 ---
 
 ### Questão 20 — Ciclo da evolução
 
-O ciclo apresentado na Apostila 3 é:
+Um vendedor testa uma abordagem, percebe que não conseguiu iniciar a conversa como esperava e decide rever sua forma de agir antes da próxima tentativa. Qual ciclo da Apostila 3 representa essa postura?
 
-A) esperar → pensar → planejar → vender.  
-B) tentar → errar → ajustar → melhorar.  
-C) estudar → esperar → vender → parar.  
-D) convencer → pressionar → fechar → repetir.  
-
+A) Esperar → pensar → planejar → vender.  
+B) Tentar → errar → ajustar → melhorar.  
+C) Estudar → esperar → vender → parar.  
+D) Convencer → pressionar → fechar → repetir.  
 
 ---
 
