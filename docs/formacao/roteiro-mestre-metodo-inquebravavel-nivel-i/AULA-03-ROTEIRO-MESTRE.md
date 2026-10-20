@@ -4,29 +4,31 @@
 Mentalidade
 
 ## Foco
-Aprendizado com rejeição
+Aprendizado com a rejeição
 
-## Objetivo
-Tratar rejeições como parte do processo e oportunidade de aprendizado.
+## Objetivo de aprendizagem
+Compreender que a recusa faz parte do processo comercial e pode ser investigada com respeito.
 
-## Estrutura sugerida
+## Roteiro de fala — narração-base
 
-1. **Abertura** — apresentar o tema e sua relação com a prática comercial.
-2. **Conceito central** — desenvolver o conteúdo conforme a apostila correspondente.
-3. **Aplicação** — conectar o conceito a uma situação comercial concreta.
-4. **Exemplo ou situação** — utilizar uma situação compatível com o conteúdo da aula, sem introduzir conceitos externos como se fossem parte da apostila.
-5. **Síntese** — destacar os pontos essenciais.
-6. **Atividade** — Atividade 03 — analisar uma venda perdida ou recusa.
-7. **Fechamento** — registrar o principal aprendizado e preparar a conexão com a próxima aula.
+Ouvir um “não” pode provocar frustração e vontade de interromper os contatos. Nesta aula, vamos trabalhar a orientação da Apostila 1: não reagir impulsivamente e procurar aprender com a situação.
 
-## Material de apoio
+Uma recusa pode ter diferentes motivos. Talvez o momento não seja adequado, o valor da solução não tenha ficado claro ou o cliente não perceba uma necessidade. Não devemos presumir o motivo sem procurar compreendê-lo. Também não devemos pressionar o cliente para mudar sua decisão.
 
-A aula deve utilizar a apostila correspondente como fonte principal. Slides, fichas e demais materiais são suportes pedagógicos e não devem substituir o conteúdo-base.
+Quando for apropriado, podemos perguntar com respeito: “Posso entender o que pesou na sua decisão?” A resposta pode revelar uma dúvida, uma prioridade diferente ou apenas confirmar que o cliente não deseja avançar. Em qualquer caso, devemos respeitar a resposta e considerar o que ela pode nos ensinar.
 
-## Audiovisual
+Imagine que você receba uma recusa e, em seguida, tenha outros contatos planejados. Em vez de cancelar toda a rotina, registre o que aprendeu, identifique um possível ajuste e continue a executar o trabalho planejado. Isso não garante uma venda, mas transforma a experiência em aprendizado e preserva a constância.
 
-O arquivo audiovisual existente deverá ser associado a esta aula somente após conferência do conteúdo. A existência de arquivo não comprova, por si só, correspondência semântica com esta aula.
+Aprender com a rejeição não significa ignorar o que sentimos. Significa reconhecer a reação e escolher uma resposta profissional. Revise a conversa, identifique o que pode melhorar e retome a atividade planejada.
 
-## Critério de produção
+## Aplicação prática
+Escreva uma resposta respeitosa para um cliente que recusou uma proposta. Inclua uma pergunta para compreender o que pesou na decisão, sem pressioná-lo.
 
-Não gravar novo conteúdo automaticamente. Primeiro conferir se os materiais audiovisuais existentes podem ser reutilizados, conforme o protocolo de conferência audiovisual do projeto.
+## Síntese
+A recusa pode oferecer informação para aprender. Evite reagir impulsivamente, respeite a decisão do cliente e use a experiência para ajustar a próxima execução.
+
+## Orientação de produção
+Usar a Apostila 1 — Mentalidade Inquebrável como fonte principal. Os exemplos são ilustrações didáticas. Os slides devem apoiar a fala e não substituir o conteúdo-base. Não associar vídeo existente sem conferência semântica.
+
+## Fonte e limite de escopo
+Roteiro baseado no capítulo sobre rejeição da Apostila 1. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
