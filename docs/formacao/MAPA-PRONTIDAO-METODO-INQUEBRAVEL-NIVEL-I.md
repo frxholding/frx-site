@@ -121,3 +121,9 @@ A produção documental não comprova publicação, configuração da plataforma
 ### Verificação adicional — roteiros de slides (20/10/2026)
 
 Foi feita uma conferência automatizada dos 20 arquivos de slides no repositório: todos existem e nenhum apresentou os quatro marcadores genéricos procurados (instrução para desenvolver elementos sem conteúdo, exemplo de aplicação genérico ou referência vaga ao conteúdo-base). Isso confirma que os arquivos contêm conteúdo específico em vez desses placeholders; ainda é necessária a leitura pedagógica slide a slide contra a apostila e a narração, pois a busca automatizada não certifica a qualidade didática nem a fidelidade integral.
+
+### Verificação estrutural cruzada — roteiros e slides (20/10/2026)
+
+Foi feita uma nova conferência automatizada dos materiais de aula. Os 20 roteiros-mestre estão presentes e incluem seção de narração-base. Os 20 arquivos de slides também estão presentes; cada um tem título de aula correspondente ao número e título do roteiro, contém nove seções de slide e referência à ficha de aplicação. Total estrutural: 180 seções de slide.
+
+**Limite da verificação:** esta checagem confirma presença, organização e correspondência dos títulos, mas não substitui a revisão semântica integral de cada narração e de cada slide em comparação com as apostilas. A próxima etapa é essa revisão cruzada, seguida pela conferência audiovisual e pelo teste de plataforma.
