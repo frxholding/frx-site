@@ -7,30 +7,32 @@ Fundamentos
 Presença, segurança e profissionalismo
 
 ## Objetivo de aprendizagem
-Reconhecer como a postura do vendedor pode ser percebida pelo cliente antes ou além das palavras e identificar comportamentos que transmitam presença e segurança.
+Reconhecer que a postura do vendedor comunica antes e além das palavras e influencia a percepção do cliente.
 
 ## Roteiro de fala — narração-base
 
-Nesta aula, vamos falar sobre a postura do vendedor. A Apostila 2 destaca que o cliente percebe a postura antes das palavras. Isso significa que a interação não é formada apenas pelo conteúdo da apresentação: a maneira de estar presente, ouvir e responder também faz parte da experiência do cliente.
+Nesta aula, vamos trabalhar a postura do vendedor. A Apostila 2 destaca que o cliente percebe a postura antes das palavras. Isso significa que a comunicação não se limita ao conteúdo da fala: a maneira de estar presente, ouvir e conduzir a conversa também faz parte da experiência do cliente.
 
-A postura pode demonstrar insegurança, ansiedade ou dependência de uma resposta positiva. Também pode transmitir calma, segurança e presença. Não se trata de representar um personagem nem de esconder toda emoção. Trata-se de conduzir a conversa com atenção e profissionalismo, mesmo quando existe pressão pelo resultado.
+A insegurança pode aparecer quando o vendedor demonstra ansiedade excessiva, dependência da aprovação do cliente ou pressa para obter uma resposta. A postura profissional, por outro lado, está associada à presença, à clareza e à capacidade de conduzir a conversa sem pressionar.
 
-Imagine que um vendedor interrompa o cliente várias vezes, fale de forma apressada e demonstre que precisa fechar a venda imediatamente. Essa conduta pode tornar a conversa desconfortável e dificultar a compreensão da necessidade. Uma postura mais profissional é ouvir até o fim, fazer perguntas pertinentes, explicar com clareza e respeitar o tempo de decisão do cliente.
+Isso não significa que o vendedor precise fingir que nunca sente insegurança. A formação já abordou a importância de reconhecer emoções sem abandonar automaticamente a execução. Aqui, o foco é observar como respondemos a essas emoções durante o contato com o cliente.
 
-Segurança não significa afirmar que sabemos tudo ou prometer resultados que não podemos garantir. Um profissional pode reconhecer uma dúvida, verificar uma informação e retornar com uma resposta confiável. Essa atitude é mais coerente do que improvisar uma resposta apenas para parecer seguro.
+A presença aparece quando damos atenção à conversa, ouvimos sem interromper e respondemos ao que foi realmente perguntado. A clareza aparece quando explicamos as informações de maneira compreensível, sem exagerar promessas nem esconder limitações. A segurança profissional não exige arrogância: exige coerência entre o que dizemos e o que podemos sustentar.
 
-Também é importante não confundir presença com domínio da conversa. Estar presente significa prestar atenção ao cliente e ao que acontece na interação. A postura adequada apoia a escuta, o diagnóstico e a apresentação, em vez de substituí-los.
+Imagine que o cliente ainda esteja explicando sua necessidade e o vendedor demonstre impaciência ou comece a insistir no fechamento. Mesmo que as palavras sejam corretas, essa postura pode transmitir que o vendedor está mais preocupado em concluir a venda do que em entender a pessoa.
 
-Na atividade, observe como você costuma agir quando deseja muito fechar uma venda. Identifique se sua fala fica apressada, se interrompe ou se deixa de ouvir. Escolha uma atitude concreta para demonstrar mais presença e segurança na próxima conversa.
+Por isso, vale observar não apenas o que dizemos, mas como participamos da conversa. Estamos ouvindo? Estamos respondendo à situação apresentada? Estamos respeitando o tempo e a decisão do cliente? Essas perguntas ajudam a transformar a postura em algo observável e ajustável.
+
+Na atividade, revise uma conversa e identifique um comportamento que deseja manter e outro que deseja melhorar. O objetivo é desenvolver uma postura profissional coerente com a escuta, o entendimento e a confiança.
 
 ## Aplicação prática
-Registre duas atitudes que podem transmitir insegurança e duas alternativas que demonstrem presença e profissionalismo. Escolha uma delas para praticar na próxima conversa comercial.
+Reflita sobre uma conversa comercial. Registre quais sinais de pressa, insegurança, presença ou clareza você percebeu e o que pode ajustar.
 
 ## Síntese
-A postura também comunica. Presença, clareza, coerência e atenção contribuem para uma interação profissional; segurança não exige fingir que se sabe tudo.
+A conversa comercial exige atenção ao cliente, compreensão da necessidade e uma condução coerente com a etapa em que a venda se encontra. Aplique o princípio desta aula sem atribuir ao método conceitos que não estejam nas apostilas.
 
 ## Orientação de produção
 Usar a Apostila 2 — Fundamentos de Vendas como fonte principal. Os exemplos são ilustrações didáticas. Os slides apoiam a fala e não substituem o conteúdo-base. Não associar vídeo existente sem conferência semântica.
 
 ## Fonte e limite de escopo
-Roteiro baseado no capítulo sobre postura do vendedor da Apostila 2. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
+Roteiro baseado no capítulo correspondente da Apostila 2. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
