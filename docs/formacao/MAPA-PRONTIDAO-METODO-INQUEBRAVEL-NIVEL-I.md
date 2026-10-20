@@ -10,7 +10,7 @@
 - 20 fichas de aplicação conferidas e completas (01–20)
 - 1 caderno de atividades
 - 1 atividade integradora final
-- roteiros-mestre com narração-base desenvolvida para as aulas 01–13; aulas 14–20 ainda precisam de desenvolvimento equivalente
+- 20 roteiros-mestre com narração-base desenvolvida (aulas 01–20); revisão editorial final ainda pendente
 - 20 roteiros de apoio visual/slides
 - 20 questões objetivas no sistema de avaliação, com posições do gabarito balanceadas (5 respostas corretas em cada alternativa A–D)
 - 1 caso final
@@ -39,7 +39,7 @@
 - caderno de atividades
 
 ### Produção
-- roteiros-mestre das aulas 01–13 desenvolvidos; roteiros das aulas 14–20 pendentes
+- roteiros-mestre das aulas 01–20 desenvolvidos; revisão editorial final e conferência com os slides pendentes
 - roteiro visual das 20 aulas
 - orientação para reutilização do audiovisual existente
 - inventário técnico de arquivos candidatos, com duplicações identificadas
@@ -95,4 +95,4 @@ As 20 fichas de aplicação estão presentes no repositório e foram conferidas 
 
 Também foram desenvolvidos roteiros de fala — narração-base, objetivo, aplicação prática e síntese — para as 20 aulas: aulas 01–06 com base na Apostila 1, aulas 07–13 com base na Apostila 2 e aulas 14–20 com base na Apostila 3. A existência dos roteiros não substitui a revisão editorial final nem confirma que os slides e os vídeos correspondam integralmente a cada fala; essas conferências continuam pendentes.
 
-Os roteiros visuais das aulas 14–20 também foram atualizados para refletir a narração-base: objetivo, ideia central, desenvolvimento, situação de aplicação, atividade e síntese. Próxima etapa de produção: revisar editorialmente os 20 roteiros e slides contra as apostilas e realizar a conferência semântica dos audiovisuais. A configuração da plataforma tem roteiro operacional, mas ainda não foi executada; também faltam validação institucional, definição da carga horária e teste final.
+Os roteiros visuais das aulas 14–20 foram atualizados para refletir a narração-base. Nesta etapa, os slides das aulas 01–13 foram revisados para substituir instruções genéricas por conteúdo específico: objetivos, conceitos, desenvolvimento, exemplos de aplicação e perguntas de encerramento. Ainda é necessária uma revisão editorial integral dos 20 roteiros e slides contra as apostilas, seguida da conferência semântica dos audiovisuais. A configuração da plataforma tem roteiro operacional, mas ainda não foi executada; também faltam validação institucional, definição da carga horária e teste final.
