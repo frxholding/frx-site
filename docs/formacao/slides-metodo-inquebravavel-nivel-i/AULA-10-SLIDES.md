@@ -18,15 +18,15 @@ Demonstrar interesse genuíno, ouvir e comunicar-se com clareza e coerência.
 ## Slide 4 — Desenvolvimento
 **Conexão**
 
-Demonstrar interesse genuíno, ouvir e comunicar-se com clareza e coerência.
+Demonstre interesse genuíno pelo contexto do cliente. Ouça antes de apresentar o produto e mantenha a atenção na conversa.
 
 ## Slide 5 — Desenvolvimento
-**entendimento → confiança**
+**Entendimento → confiança**
 
-Conexão → entendimento → confiança → venda.
+Confirme o que o cliente precisa, esclareça dúvidas e mantenha coerência entre o que promete e o que pode entregar.
 
 ## Slide 6 — Aplicação
-Compare uma abordagem apressada com uma conversa em que o vendedor escuta, esclarece e responde com coerência.
+Compare duas situações: numa, o vendedor fala de preço imediatamente; noutra, escuta a necessidade, confirma o entendimento e responde com clareza. Que comportamento ajuda a construir confiança?
 
 ## Slide 7 — Síntese
 **Conexão → entendimento → confiança → venda**
