@@ -28,6 +28,9 @@
 - observações pedagógicas registradas: distratores e contextualização ainda precisam de refinamento antes da avaliação definitiva;
 - contagem de páginas não verificada removida da comunicação comercial, e rótulos ajustados de “aulas” para “temas” nos grupos da página
 
+
+- relatório de revisão editorial estrutural dos 20 roteiros-mestre criado; confirma existência das narrações-base, mas mantém pendentes a leitura comparativa integral com as apostilas, a sincronização com slides e a validação audiovisual;
+
 ## Pronto nesta etapa
 
 ### Conteúdo pedagógico
