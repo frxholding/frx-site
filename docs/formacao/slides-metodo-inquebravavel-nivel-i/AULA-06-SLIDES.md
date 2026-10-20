@@ -8,30 +8,30 @@
 Etapa: Mentalidade
 
 ## Slide 2 — Objetivo
-Ao final desta aula, o aluno deverá compreender e aplicar o princípio central de **controle emocional** apresentado no conteúdo-base.
+Ao final desta aula, o aluno deverá compreender e aplicar o seguinte princípio: Reconhecer emoções sem permitir que elas cancelem automaticamente a ação planejada.
 
 ## Slide 3 — Ideia central
 **Executar mesmo quando existe desconforto.**
 
-Apresentar a ideia central da aula de forma objetiva, preservando a abordagem da apostila.
+Ansiedade, insegurança e frustração podem aparecer; a proposta é agir com consciência e profissionalismo.
 
 ## Slide 4 — Desenvolvimento
 **Ansiedade**
 
-Desenvolver o primeiro elemento do fluxo com base no conteúdo da apostila correspondente.
+Ansiedade, insegurança e frustração podem aparecer; a proposta é agir com consciência e profissionalismo.
 
 ## Slide 5 — Desenvolvimento
 **insegurança → frustração**
 
-Desenvolver os elementos intermediários, conectando-os à prática comercial.
+Reconhecer a emoção → lembrar o objetivo → executar um passo adequado.
 
 ## Slide 6 — Aplicação
-Apresentar uma situação comercial compatível com o conteúdo e conduzir o aluno à aplicação prática.
+Um vendedor sente insegurança antes de ligar. Peça que identifique uma ação segura e realista, sem esperar sentir confiança perfeita.
 
 ## Slide 7 — Síntese
 **Ansiedade → insegurança → frustração → pressão → execução**
 
-Retomar a sequência ou relação principal da aula.
+Reforçar a ideia central: Reconhecer emoções sem permitir que elas cancelem automaticamente a ação planejada.
 
 ## Slide 8 — Atividade
 Como continuarei executando?
@@ -41,7 +41,7 @@ Usar a **Ficha de Aplicação da Aula 06** como atividade principal.
 ## Slide 9 — Fechamento
 **Aprender → aplicar → observar → ajustar → evoluir.**
 
-Registrar o principal aprendizado e preparar a conexão com a próxima aula.
+Concluir com uma pergunta de reflexão: Como posso agir profissionalmente mesmo sentindo desconforto?
 
 ## Nota de produção
 Este roteiro é apoio visual. O conteúdo deve permanecer fiel à apostila-base. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
