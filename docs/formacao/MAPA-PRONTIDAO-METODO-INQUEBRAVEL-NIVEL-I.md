@@ -103,8 +103,16 @@ Os roteiros visuais das aulas 14–20 foram atualizados para refletir a narraç�
 A conferência do repositório confirma que os roteiros de fala das aulas 01–20 existem, incluindo a aula 09 — Escuta ativa — e as aulas 14–20. Portanto, os 20 roteiros têm uma narração-base e uma atividade prática registradas. O próximo controle é uma revisão editorial cruzada de todos os roteiros com as três apostilas e o alinhamento final com os slides. Permanecem pendentes a conferência audiovisual, a validação-piloto da avaliação e os testes de publicação/plataforma. Não declarar o curso concluído enquanto essas verificações não forem executadas.
 
 
-## Registro de avanço — roteiros de fala
+## Registro de continuidade — estado conferido em 20/10/2026
 
-Atualização de produção: os roteiros de fala das aulas 07 a 13 foram desenvolvidos ou completados no repositório, cobrindo os capítulos de Fundamentos de Vendas da Apostila 2. A aula 09 (Escuta ativa) também foi criada como arquivo próprio. Os roteiros incluem objetivo de aprendizagem, narração-base, aplicação prática, síntese e orientação de produção.
+A verificação direta do repositório confirma que existem 20 arquivos de roteiro-mestre, de AULA-01 a AULA-20. Todos contêm narração-base e estrutura de aplicação. A aula 09 — Escuta ativa — está registrada como arquivo próprio. A atualização dos roteiros de fala está, portanto, concluída como primeira versão de produção, não como revisão editorial final.
 
-**Próxima etapa:** desenvolver os roteiros de fala das aulas 14 a 20, correspondentes à Apostila 3 — Primeiras Técnicas de Vendas. Depois será necessário revisar o conjunto para consistência, conferir os slides e associar arquivos audiovisuais somente após verificação semântica. A produção dos roteiros não significa que o curso esteja publicado ou pronto para venda.
+**Próximas tarefas de produção, em ordem:**
+1. Revisão cruzada das 20 narrações com as três apostilas originais, verificando fidelidade, repetição, lacunas e clareza.
+2. Conferência dos 20 roteiros de slides contra as narrações e as apostilas.
+3. Conferência semântica dos arquivos audiovisuais existentes antes de atribuir qualquer vídeo a uma aula.
+4. Leitura-piloto da avaliação e validação dos critérios pedagógicos.
+5. Definição da carga horária real e formalização dos critérios institucionais de conclusão/certificação.
+6. Configuração real da plataforma, anexação dos materiais e teste integral da jornada do aluno.
+
+A produção documental não comprova publicação, configuração da plataforma, validação institucional nem conclusão comercial. O curso permanece em produção até que as verificações acima sejam executadas.
