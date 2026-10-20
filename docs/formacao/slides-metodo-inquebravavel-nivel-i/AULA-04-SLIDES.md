@@ -8,30 +8,30 @@
 Etapa: Mentalidade
 
 ## Slide 2 — Objetivo
-Ao final desta aula, o aluno deverá compreender e aplicar o princípio central de **disciplina: o que sustenta resultado** apresentado no conteúdo-base.
+Ao final desta aula, o aluno deverá compreender e aplicar o seguinte princípio: A disciplina sustenta ações consistentes quando a motivação oscila.
 
 ## Slide 3 — Ideia central
 **Disciplina sustenta a ação quando a motivação oscila.**
 
-Apresentar a ideia central da aula de forma objetiva, preservando a abordagem da apostila.
+Definir uma rotina realista de ações que dependam principalmente do profissional.
 
 ## Slide 4 — Desenvolvimento
 **Motivação × disciplina**
 
-Desenvolver o primeiro elemento do fluxo com base no conteúdo da apostila correspondente.
+Definir uma rotina realista de ações que dependam principalmente do profissional.
 
 ## Slide 5 — Desenvolvimento
 **rotina → execução**
 
-Desenvolver os elementos intermediários, conectando-os à prática comercial.
+Planejar ações → reservar horário → executar → registrar.
 
 ## Slide 6 — Aplicação
-Apresentar uma situação comercial compatível com o conteúdo e conduzir o aluno à aplicação prática.
+Peça ao aluno que defina uma rotina de contatos e acompanhamentos para cinco dias, sem prometer resultados fora de seu controle.
 
 ## Slide 7 — Síntese
 **Motivação × disciplina → rotina → execução**
 
-Retomar a sequência ou relação principal da aula.
+Reforçar a ideia central: A disciplina sustenta ações consistentes quando a motivação oscila.
 
 ## Slide 8 — Atividade
 Qual atividade será diária?
@@ -41,7 +41,7 @@ Usar a **Ficha de Aplicação da Aula 04** como atividade principal.
 ## Slide 9 — Fechamento
 **Aprender → aplicar → observar → ajustar → evoluir.**
 
-Registrar o principal aprendizado e preparar a conexão com a próxima aula.
+Concluir com uma pergunta de reflexão: Que ação realista vou cumprir com constância?
 
 ## Nota de produção
 Este roteiro é apoio visual. O conteúdo deve permanecer fiel à apostila-base. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
