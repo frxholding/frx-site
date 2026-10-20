@@ -18,15 +18,15 @@ Evitar presumir, interromper ou preparar a resposta antes de compreender.
 ## Slide 4 — Desenvolvimento
 **Atenção**
 
-Evitar presumir, interromper ou preparar a resposta antes de compreender.
+Concentre-se no relato do cliente. Não presuma o que ele quer dizer nem prepare sua resposta antes de compreender o contexto.
 
 ## Slide 5 — Desenvolvimento
-**não interromper → interpretar**
+**Não interromper → interpretar**
 
-Atenção → não interromper → interpretar → perguntar para aprofundar.
+Depois de ouvir, confirme se entendeu corretamente. Se algo estiver pouco claro, pergunte para aprofundar.
 
 ## Slide 6 — Aplicação
-Use as perguntas “Me explica melhor isso”, “Por que isso é importante para você?” e “O que acontece se isso não for resolvido?”.
+Exemplo: o cliente relata uma dificuldade com prazos. Pergunte “Me explica melhor isso”, “Por que isso é importante para você?” e “O que acontece se isso não for resolvido?”.
 
 ## Slide 7 — Síntese
 **Atenção → não interromper → interpretar → aprofundar**
