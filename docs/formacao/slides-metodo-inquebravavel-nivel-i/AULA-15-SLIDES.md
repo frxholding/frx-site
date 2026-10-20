@@ -8,40 +8,34 @@
 Etapa: Técnicas
 
 ## Slide 2 — Objetivo
-Ao final desta aula, o aluno deverá compreender e aplicar o princípio central de **início da conversa** apresentado no conteúdo-base.
+Começar pela realidade do cliente antes de falar de produto, preço ou proposta.
 
 ## Slide 3 — Ideia central
 **Comece pelo cliente e pela realidade dele.**
 
-Apresentar a ideia central da aula de forma objetiva, preservando a abordagem da apostila.
-
 ## Slide 4 — Desenvolvimento
 **Como faz hoje?**
 
-Desenvolver o primeiro elemento do fluxo com base no conteúdo da apostila correspondente.
+Pergunte como a pessoa resolve a questão atualmente.
 
 ## Slide 5 — Desenvolvimento
-**dificuldade → melhoria desejada**
+**Dificuldade → melhoria desejada**
 
-Desenvolver os elementos intermediários, conectando-os à prática comercial.
+Explore o que está difícil e o que o cliente deseja melhorar.
 
 ## Slide 6 — Aplicação
-Apresentar uma situação comercial compatível com o conteúdo e conduzir o aluno à aplicação prática.
+Antes de apresentar uma solução, pergunte como o processo funciona hoje, o que é mais difícil e o que a pessoa gostaria de melhorar.
 
 ## Slide 7 — Síntese
-**Como faz hoje? → dificuldade → melhoria desejada**
-
-Retomar a sequência ou relação principal da aula.
+**Situação atual → dificuldade → melhoria desejada. Primeiro entenda; depois apresente.**
 
 ## Slide 8 — Atividade
-O cliente consegue falar?
+Formule cinco perguntas iniciais que ajudem a entender a situação sem transformar a conversa em interrogatório.
 
-Usar a **Ficha de Aplicação da Aula 15** como atividade principal.
+Usar a Ficha de Aplicação da Aula 15 como apoio principal da atividade.
 
 ## Slide 9 — Fechamento
-**Aprender → aplicar → observar → ajustar → evoluir.**
-
-Registrar o principal aprendizado e preparar a conexão com a próxima aula.
+Retomar o princípio central e pedir ao aluno que identifique uma ação concreta para aplicar na próxima conversa comercial.
 
 ## Nota de produção
-Este roteiro é apoio visual. O conteúdo deve permanecer fiel à apostila-base. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
+Este roteiro visual foi alinhado à narração-base da aula e deve permanecer fiel à Apostila 3 — Primeiras Técnicas de Vendas. Os exemplos são ilustrações didáticas. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
