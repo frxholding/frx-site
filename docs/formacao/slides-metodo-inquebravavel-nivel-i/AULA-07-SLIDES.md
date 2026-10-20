@@ -8,30 +8,30 @@
 Etapa: Fundamentos
 
 ## Slide 2 — Objetivo
-Ao final desta aula, o aluno deverá compreender e aplicar o princípio central de **o que é vender de verdade** apresentado no conteúdo-base.
+Ao final desta aula, o aluno deverá compreender e aplicar o seguinte princípio: Vender é entender, diagnosticar e ajudar alguém a decidir.
 
 ## Slide 3 — Ideia central
 **Vender é entender, diagnosticar e ajudar alguém a decidir.**
 
-Apresentar a ideia central da aula de forma objetiva, preservando a abordagem da apostila.
+Não começar por pressão ou por uma lista de características; primeiro compreender a necessidade.
 
 ## Slide 4 — Desenvolvimento
 **Entender**
 
-Desenvolver o primeiro elemento do fluxo com base no conteúdo da apostila correspondente.
+Não começar por pressão ou por uma lista de características; primeiro compreender a necessidade.
 
 ## Slide 5 — Desenvolvimento
 **diagnosticar → ajudar**
 
-Desenvolver os elementos intermediários, conectando-os à prática comercial.
+Entender → diagnosticar → relacionar solução e necessidade → apoiar a decisão.
 
 ## Slide 6 — Aplicação
-Apresentar uma situação comercial compatível com o conteúdo e conduzir o aluno à aplicação prática.
+Um cliente descreve uma dificuldade. Compare apresentar o catálogo imediatamente com fazer perguntas antes de propor a solução.
 
 ## Slide 7 — Síntese
 **Entender → diagnosticar → ajudar → decidir**
 
-Retomar a sequência ou relação principal da aula.
+Reforçar a ideia central: Vender é entender, diagnosticar e ajudar alguém a decidir.
 
 ## Slide 8 — Atividade
 Estou ajudando ou pressionando?
@@ -41,7 +41,7 @@ Usar a **Ficha de Aplicação da Aula 07** como atividade principal.
 ## Slide 9 — Fechamento
 **Aprender → aplicar → observar → ajustar → evoluir.**
 
-Registrar o principal aprendizado e preparar a conexão com a próxima aula.
+Concluir com uma pergunta de reflexão: Estou ajudando o cliente a decidir ou apenas tentando convencê-lo?
 
 ## Nota de produção
 Este roteiro é apoio visual. O conteúdo deve permanecer fiel à apostila-base. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
