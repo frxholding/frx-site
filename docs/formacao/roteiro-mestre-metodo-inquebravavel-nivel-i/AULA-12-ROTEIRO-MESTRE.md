@@ -4,33 +4,35 @@
 Fundamentos
 
 ## Foco
-Sequência da venda
+Sequência de etapas comerciais
 
 ## Objetivo de aprendizagem
-Reconhecer e aplicar a sequência abordagem, conexão, diagnóstico, apresentação e decisão, evitando pular etapas essenciais.
+Reconhecer a sequência abordagem, conexão, diagnóstico, apresentação e decisão, evitando pular etapas.
 
 ## Roteiro de fala — narração-base
 
-Nesta aula, vamos estudar a estrutura da venda apresentada na Apostila 2. A sequência é: abordagem, conexão, diagnóstico, apresentação e decisão. Ela organiza a conversa para que o vendedor não tente apresentar ou fechar antes de compreender a situação do cliente.
+Nesta aula, vamos estudar a estrutura da venda apresentada na Apostila 2: abordagem, conexão, diagnóstico, apresentação e decisão. A sequência ajuda a organizar a conversa e a evitar que o vendedor tente apresentar uma solução antes de compreender a situação do cliente.
 
-A abordagem é o início do contato. Seu papel é abrir espaço para uma conversa, de maneira natural e apropriada ao contexto. Em seguida, a conexão permite estabelecer uma interação respeitosa, demonstrando interesse pelo que o cliente tem a dizer.
+A abordagem é o início do contato. Seu objetivo é abrir a conversa de forma simples e apropriada, não despejar imediatamente todas as informações sobre o produto. Em seguida, a conexão ajuda a estabelecer uma relação de atenção e interesse genuíno.
 
-O diagnóstico vem antes da apresentação. Nessa etapa, o vendedor procura entender a situação atual, o problema real e o impacto que ele provoca. Fazer perguntas e ouvir as respostas ajuda a evitar suposições. Sem diagnóstico, a apresentação corre o risco de ser genérica ou irrelevante.
+O diagnóstico vem quando o vendedor procura entender a situação atual, o problema real e o impacto dessa dificuldade. Essa etapa é importante porque a apresentação deve responder ao que foi identificado, e não a uma suposição do vendedor.
 
-Na apresentação, o vendedor relaciona a solução à necessidade identificada. Não precisa falar de tudo o que existe no catálogo; precisa explicar aquilo que responde ao problema do cliente e esclarecer as dúvidas pertinentes. Por fim, a etapa de decisão busca compreender se o cliente deseja avançar, se precisa de mais informações ou se não considera a proposta adequada.
+Na apresentação, a solução é relacionada à necessidade compreendida. Em vez de falar indiscriminadamente de todas as características, o vendedor explica o que é relevante para aquela situação. Por fim, a etapa de decisão permite esclarecer dúvidas e definir se existe disposição para avançar.
 
-Imagine que um vendedor cumprimente o cliente e imediatamente comece a falar de preço e características. Ele pode estar pulando a conexão e o diagnóstico. Mesmo que o produto tenha valor, ainda não sabe o que o cliente procura. Seguir a sequência não é cumprir um ritual rígido: é dar a cada etapa a atenção necessária para que a próxima faça sentido.
+Um erro comum é pular do cumprimento diretamente para a apresentação do produto. Sem conexão e diagnóstico, a conversa pode se tornar genérica. Outro erro é apresentar uma solução e esperar que o cliente saiba sozinho qual é o próximo passo, sem verificar se a proposta faz sentido ou se há dúvidas.
 
-Também pode acontecer de a conversa voltar a uma etapa anterior. O cliente pode revelar uma informação nova durante a apresentação, exigindo perguntas adicionais. A sequência serve como orientação, não como proibição de ouvir e adaptar-se.
+A sequência é uma orientação para conduzir a conversa com coerência, não um roteiro rígido que ignore o que o cliente diz. Se surgir uma dúvida importante, o vendedor pode precisar voltar a uma etapa anterior para esclarecer ou entender melhor.
+
+Na atividade, analise uma conversa comercial e identifique as etapas. Observe onde houve pressa ou omissão e registre como conduziria a conversa de forma mais completa.
 
 ## Aplicação prática
-Descreva uma conversa de venda e identifique o que faria em cada etapa: abordagem, conexão, diagnóstico, apresentação e decisão. Marque qual etapa costuma ser pulada e como pode corrigi-la.
+Descreva uma conversa de venda e marque em que momento ocorreu cada etapa. Identifique uma etapa que foi pulada ou apressada.
 
 ## Síntese
-Abordagem → conexão → diagnóstico → apresentação → decisão. A sequência ajuda a compreender antes de apresentar e a conduzir a decisão sem pressão.
+A conversa comercial exige atenção ao cliente, compreensão da necessidade e uma condução coerente com a etapa em que a venda se encontra. Aplique o princípio desta aula sem atribuir ao método conceitos que não estejam nas apostilas.
 
 ## Orientação de produção
 Usar a Apostila 2 — Fundamentos de Vendas como fonte principal. Os exemplos são ilustrações didáticas. Os slides apoiam a fala e não substituem o conteúdo-base. Não associar vídeo existente sem conferência semântica.
 
 ## Fonte e limite de escopo
-Roteiro baseado no capítulo sobre estrutura da venda da Apostila 2. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
+Roteiro baseado no capítulo correspondente da Apostila 2. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
