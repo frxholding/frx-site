@@ -8,30 +8,30 @@
 Etapa: Fundamentos
 
 ## Slide 2 — Objetivo
-Ao final desta aula, o aluno deverá compreender e aplicar o princípio central de **postura do vendedor** apresentado no conteúdo-base.
+Ao final desta aula, o aluno deverá compreender e aplicar este princípio: a postura do vendedor é percebida antes e além das palavras.
 
 ## Slide 3 — Ideia central
 **A postura vem antes das palavras.**
 
-Apresentar a ideia central da aula de forma objetiva, preservando a abordagem da apostila.
+Ansiedade, insegurança e dependência contrastam com presença, calma e profissionalismo.
 
 ## Slide 4 — Desenvolvimento
 **Insegurança × segurança**
 
-Desenvolver o primeiro elemento do fluxo com base no conteúdo da apostila correspondente.
+Ansiedade, insegurança e dependência contrastam com presença, calma e profissionalismo.
 
 ## Slide 5 — Desenvolvimento
 **ansiedade × presença → dependência × profissionalismo**
 
-Desenvolver os elementos intermediários, conectando-os à prática comercial.
+Presença → clareza → coerência → confiança.
 
 ## Slide 6 — Aplicação
-Apresentar uma situação comercial compatível com o conteúdo e conduzir o aluno à aplicação prática.
+Compare duas aberturas comerciais: uma apressada e dependente da resposta positiva, outra calma, clara e respeitosa.
 
 ## Slide 7 — Síntese
 **Insegurança × segurança → ansiedade × presença → dependência × profissionalismo**
 
-Retomar a sequência ou relação principal da aula.
+Reforce a ideia central: a postura do vendedor é percebida antes e além das palavras.
 
 ## Slide 8 — Atividade
 Que postura vou praticar?
@@ -41,7 +41,7 @@ Usar a **Ficha de Aplicação da Aula 13** como atividade principal.
 ## Slide 9 — Fechamento
 **Aprender → aplicar → observar → ajustar → evoluir.**
 
-Registrar o principal aprendizado e preparar a conexão com a próxima aula.
+Pergunta de encerramento: Que postura quero demonstrar desde o primeiro contato?
 
 ## Nota de produção
 Este roteiro é apoio visual. O conteúdo deve permanecer fiel à apostila-base. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
