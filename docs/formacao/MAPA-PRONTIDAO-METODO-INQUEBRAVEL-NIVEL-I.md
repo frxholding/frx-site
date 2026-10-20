@@ -10,7 +10,7 @@
 - 20 fichas de aplicação conferidas e completas (01–20)
 - 1 caderno de atividades
 - 1 atividade integradora final
-- roteiros-mestre com narração-base desenvolvida para as aulas 01–06; aulas 07–20 ainda precisam de desenvolvimento equivalente
+- roteiros-mestre com narração-base desenvolvida para as aulas 01–13; aulas 14–20 ainda precisam de desenvolvimento equivalente
 - 20 roteiros de apoio visual/slides
 - 20 questões objetivas no sistema de avaliação, com posições do gabarito balanceadas (5 respostas corretas em cada alternativa A–D)
 - 1 caso final
@@ -39,7 +39,7 @@
 - caderno de atividades
 
 ### Produção
-- roteiros-mestre das aulas 01–06 desenvolvidos; roteiros das aulas 07–20 pendentes
+- roteiros-mestre das aulas 01–13 desenvolvidos; roteiros das aulas 14–20 pendentes
 - roteiro visual das 20 aulas
 - orientação para reutilização do audiovisual existente
 - inventário técnico de arquivos candidatos, com duplicações identificadas
@@ -93,6 +93,6 @@ O produto não deve ser considerado definitivamente pronto apenas porque a pági
 
 As 20 fichas de aplicação estão presentes no repositório e foram conferidas quanto à existência. A segunda rodada de revisão contextualizou também as questões 02, 05, 06, 10, 11, 13, 15, 17, 19 e 20. O banco interno e a versão do participante foram atualizados; a conferência confirmou 20 questões, 20 respostas no gabarito, correspondência integral entre eles, distribuição equilibrada e ausência de respostas na versão do participante. A avaliação objetiva está pronta para conferência final de legibilidade e, idealmente, uma leitura-piloto; isso não equivale a validação estatística ou aprovação institucional.
 
-Também foram desenvolvidos roteiros de fala mais completos para as aulas 01–06, a partir dos capítulos da Apostila 1. O inventário do repositório indica que os roteiros-mestre das aulas 07–20 ainda precisam de desenvolvimento equivalente; portanto, o conjunto de 20 roteiros não deve ser considerado concluído.
+Também foram desenvolvidos roteiros de fala mais completos para as aulas 01–06, a partir da Apostila 1, e para as aulas 07–13, a partir da Apostila 2. Os roteiros das aulas 14–20, baseados na Apostila 3, ainda precisam de desenvolvimento equivalente; portanto, o conjunto de 20 roteiros não deve ser considerado concluído.
 
 O principal bloqueio técnico-pedagógico continua sendo a conferência semântica dos audiovisuais. A configuração da plataforma tem roteiro operacional, mas ainda não foi executada; também faltam validação institucional, definição da carga horária e teste final.
