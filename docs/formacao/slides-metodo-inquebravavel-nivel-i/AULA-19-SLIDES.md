@@ -1,47 +1,41 @@
-# Aula 19 — Fechamento: conduzir a decisão
+# Aula 19 — Fechamento: conduzir o próximo passo
 
 > Roteiro visual de apoio — Método Inquebrável — Nível I
 
 ## Slide 1 — Abertura
-**Fechamento: conduzir a decisão**
+**Fechamento: conduzir o próximo passo**
 
 Etapa: Técnicas
 
 ## Slide 2 — Objetivo
-Ao final desta aula, o aluno deverá compreender e aplicar o princípio central de **fechamento: conduzir a decisão** apresentado no conteúdo-base.
+Conduzir a conversa à decisão com perguntas simples e respeito à escolha do cliente.
 
 ## Slide 3 — Ideia central
 **Fechamento é condução da decisão, não pressão.**
 
-Apresentar a ideia central da aula de forma objetiva, preservando a abordagem da apostila.
-
 ## Slide 4 — Desenvolvimento
-**Sinais**
+**Verifique o momento**
 
-Desenvolver o primeiro elemento do fluxo com base no conteúdo da apostila correspondente.
+A necessidade foi compreendida e as dúvidas relevantes foram tratadas?
 
 ## Slide 5 — Desenvolvimento
-**pergunta de fechamento → decisão**
+**Pergunta clara → próximo passo**
 
-Desenvolver os elementos intermediários, conectando-os à prática comercial.
+“Faz sentido para você?” “Quer avançar?” “Falta esclarecer algo?”
 
 ## Slide 6 — Aplicação
-Apresentar uma situação comercial compatível com o conteúdo e conduzir o aluno à aplicação prática.
+Após apresentar a solução, pergunte se faz sentido avançar. Se houver dúvida, esclareça; se o cliente recusar, respeite a decisão.
 
 ## Slide 7 — Síntese
-**Sinais → pergunta de fechamento → decisão**
-
-Retomar a sequência ou relação principal da aula.
+**Clareza → pergunta simples → próximo passo. Não pressione por um “sim”.**
 
 ## Slide 8 — Atividade
-Estou conduzindo ou pressionando?
+Escreva três perguntas de fechamento que permitam avançar, esclarecer dúvidas ou encerrar respeitosamente.
 
-Usar a **Ficha de Aplicação da Aula 19** como atividade principal.
+Usar a Ficha de Aplicação da Aula 19 como apoio principal da atividade.
 
 ## Slide 9 — Fechamento
-**Aprender → aplicar → observar → ajustar → evoluir.**
-
-Registrar o principal aprendizado e preparar a conexão com a próxima aula.
+Retomar o princípio central e pedir ao aluno que identifique uma ação concreta para aplicar na próxima conversa comercial.
 
 ## Nota de produção
-Este roteiro é apoio visual. O conteúdo deve permanecer fiel à apostila-base. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
+Este roteiro visual foi alinhado à narração-base da aula e deve permanecer fiel à Apostila 3 — Primeiras Técnicas de Vendas. Os exemplos são ilustrações didáticas. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
