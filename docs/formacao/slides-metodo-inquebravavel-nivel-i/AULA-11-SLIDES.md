@@ -18,15 +18,15 @@ O vendedor precisa ouvir e diagnosticar antes de tentar convencer.
 ## Slide 4 — Desenvolvimento
 **Falar demais**
 
-O vendedor precisa ouvir e diagnosticar antes de tentar convencer.
+Quando o vendedor ocupa toda a conversa, perde oportunidades de descobrir a necessidade e esclarecer o que realmente importa ao cliente.
 
 ## Slide 5 — Desenvolvimento
-**não entender → pressionar**
+**Não entender → pressionar**
 
-Falar demais → ouvir pouco → entender mal → apresentar solução desconectada.
+Falar demais, ouvir pouco, compreender mal e pressionar pode levar a uma apresentação desconectada do problema.
 
 ## Slide 6 — Aplicação
-Mostre uma conversa em que o vendedor interrompe e lista vantagens; identifique os erros e sugira uma pergunta melhor.
+Situação: o cliente tenta explicar um problema, mas o vendedor interrompe e lista vantagens. Identifique os erros e formule uma pergunta que ajude a compreender a situação.
 
 ## Slide 7 — Síntese
 **Falar demais → não entender → pressionar → não ouvir → foco no produto**
