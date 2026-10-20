@@ -1,47 +1,41 @@
-# Aula 14 — Abordagem: o primeiro contato
+# Aula 14 — Abordagem: abrir a conversa
 
 > Roteiro visual de apoio — Método Inquebrável — Nível I
 
 ## Slide 1 — Abertura
-**Abordagem: o primeiro contato**
+**Abordagem: abrir a conversa**
 
 Etapa: Técnicas
 
 ## Slide 2 — Objetivo
-Ao final desta aula, o aluno deverá compreender e aplicar o princípio central de **abordagem: o primeiro contato** apresentado no conteúdo-base.
+Iniciar o contato com naturalidade e abrir espaço para ouvir o cliente.
 
 ## Slide 3 — Ideia central
-**O primeiro contato deve ser simples, natural, direto e leve.**
-
-Apresentar a ideia central da aula de forma objetiva, preservando a abordagem da apostila.
+**A abordagem abre uma conversa; não é ainda a apresentação do produto.**
 
 ## Slide 4 — Desenvolvimento
-**Saudação**
+**1. Saudação**
 
-Desenvolver o primeiro elemento do fluxo com base no conteúdo da apostila correspondente.
+Cumprimente de forma simples e adequada ao contexto.
 
 ## Slide 5 — Desenvolvimento
-**contexto → abertura**
+**2. Contexto → 3. Abertura**
 
-Desenvolver os elementos intermediários, conectando-os à prática comercial.
+Explique brevemente o motivo do contato e faça uma pergunta leve.
 
 ## Slide 6 — Aplicação
-Apresentar uma situação comercial compatível com o conteúdo e conduzir o aluno à aplicação prática.
+Você quer falar com uma empresa sobre uma necessidade comercial. Em vez de listar produtos, cumprimente, contextualize e pergunte como ela resolve a questão hoje.
 
 ## Slide 7 — Síntese
-**Saudação → contexto → abertura**
-
-Retomar a sequência ou relação principal da aula.
+**Saudação → contexto → abertura. Comece uma conversa; não despeje uma oferta.**
 
 ## Slide 8 — Atividade
-Minha abordagem abre conversa?
+Escreva três aberturas para contextos diferentes. Cada uma deve conter saudação, contexto e uma pergunta ou convite leve.
 
-Usar a **Ficha de Aplicação da Aula 14** como atividade principal.
+Usar a Ficha de Aplicação da Aula 14 como apoio principal da atividade.
 
 ## Slide 9 — Fechamento
-**Aprender → aplicar → observar → ajustar → evoluir.**
-
-Registrar o principal aprendizado e preparar a conexão com a próxima aula.
+Retomar o princípio central e pedir ao aluno que identifique uma ação concreta para aplicar na próxima conversa comercial.
 
 ## Nota de produção
-Este roteiro é apoio visual. O conteúdo deve permanecer fiel à apostila-base. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
+Este roteiro visual foi alinhado à narração-base da aula e deve permanecer fiel à Apostila 3 — Primeiras Técnicas de Vendas. Os exemplos são ilustrações didáticas. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
