@@ -6,27 +6,32 @@ Mentalidade
 ## Foco
 Responsabilidade e ação
 
-## Objetivo
-Identificar a mudança de postura necessária para assumir responsabilidade pela própria execução comercial.
+## Objetivo de aprendizagem
+Reconhecer que a atuação comercial começa quando a pessoa deixa de esperar condições ideais e assume a responsabilidade de agir.
 
-## Estrutura sugerida
+## Roteiro de fala — narração-base
 
-1. **Abertura** — apresentar o tema e sua relação com a prática comercial.
-2. **Conceito central** — desenvolver o conteúdo conforme a apostila correspondente.
-3. **Aplicação** — conectar o conceito a uma situação comercial concreta.
-4. **Exemplo ou situação** — utilizar uma situação compatível com o conteúdo da aula, sem introduzir conceitos externos como se fossem parte da apostila.
-5. **Síntese** — destacar os pontos essenciais.
-6. **Atividade** — Atividade 01 — relato de uma situação em que foi necessário agir.
-7. **Fechamento** — registrar o principal aprendizado e preparar a conexão com a próxima aula.
+Bem-vindo à primeira aula do Método Inquebrável. Vamos começar pelo nascimento do vendedor. A ideia central é simples: a postura profissional começa quando entendemos que, se não fizermos acontecer, nada acontece. Isso não significa que controlamos o mercado, as decisões dos clientes ou todas as circunstâncias. Significa que precisamos reconhecer a parte que depende de nós e agir sobre ela.
 
-## Material de apoio
+Imagine uma pessoa que deseja vender, mas passa os dias esperando o mercado melhorar, aparecer o cliente perfeito ou sentir mais segurança. Enquanto espera, nenhuma conversa acontece e nenhuma oportunidade é criada. O método propõe uma mudança: em vez de aguardar que todas as condições sejam favoráveis, a pessoa identifica uma ação possível e começa.
 
-A aula deve utilizar a apostila correspondente como fonte principal. Slides, fichas e demais materiais são suportes pedagógicos e não devem substituir o conteúdo-base.
+Agir não é agir sem pensar nem insistir com quem não tem interesse. É iniciar o trabalho que está ao nosso alcance: preparar um contato, conversar com um possível cliente, fazer uma pergunta, aprender sobre uma necessidade ou retomar uma oportunidade. O resultado não está inteiramente sob nosso controle, mas a execução das ações está muito mais próxima dele.
 
-## Audiovisual
+Ao longo desta formação, vamos estudar mentalidade, fundamentos e técnicas. Hoje, não precisamos dominar todas as técnicas para começar a desenvolver uma postura profissional. Precisamos reconhecer a diferença entre esperar e agir de forma responsável. Pergunte a si mesmo: qual atitude venho adiando porque estou esperando o cenário ideal? Qual é o primeiro passo realista que posso dar?
 
-O arquivo audiovisual existente deverá ser associado a esta aula somente após conferência do conteúdo. A existência de arquivo não comprova, por si só, correspondência semântica com esta aula.
+A ideia que deve ficar desta aula é esta: o vendedor começa a se construir quando assume sua parte e transforma intenção em ação.
 
-## Critério de produção
+## Aplicação prática
+Registre uma situação comercial que você vem adiando. Escreva qual é a primeira ação concreta que está sob seu controle e quando irá executá-la.
 
-Não gravar novo conteúdo automaticamente. Primeiro conferir se os materiais audiovisuais existentes podem ser reutilizados, conforme o protocolo de conferência audiovisual do projeto.
+## Síntese para o encerramento
+O aluno deve sair desta aula reconhecendo o princípio central e identificando uma ação concreta que possa aplicar em sua rotina comercial. Reforce que a atividade deve ser respondida a partir da experiência do próprio aluno e dos conceitos trabalhados na apostila-base.
+
+## Orientação de produção
+- Usar a Apostila 1 — Mentalidade Inquebrável como fonte principal desta aula.
+- Manter exemplos como ilustrações didáticas, sem apresentá-los como histórias reais verificadas.
+- Os slides devem apoiar a fala, não substituir o desenvolvimento do conteúdo.
+- Não associar um vídeo existente a esta aula sem conferência semântica do arquivo.
+
+## Fonte e limite de escopo
+O roteiro desenvolve os conceitos de responsabilidade, rejeição, disciplina, identidade profissional e controle emocional conforme a Apostila 1. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
