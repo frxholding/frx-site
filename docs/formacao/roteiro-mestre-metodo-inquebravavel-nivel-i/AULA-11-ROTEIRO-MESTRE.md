@@ -4,35 +4,33 @@
 Fundamentos
 
 ## Foco
-Ouvir, compreender e evitar pressão
+Falar demais, não compreender e pressionar
 
 ## Objetivo de aprendizagem
-Identificar comportamentos que prejudicam a venda, especialmente falar demais, não compreender, pressionar, não ouvir e concentrar-se apenas no produto.
+Identificar comportamentos que prejudicam a venda, especialmente falar demais, não ouvir, pressionar e focar apenas no produto.
 
 ## Roteiro de fala — narração-base
 
-Nesta aula, vamos examinar erros que podem prejudicar uma venda. A Apostila 2 destaca comportamentos como falar demais, não compreender o cliente, pressionar, não ouvir e concentrar-se apenas no produto.
+Nesta aula, vamos examinar erros que prejudicam uma venda. A Apostila 2 destaca comportamentos como falar demais, não compreender a necessidade, pressionar, deixar de ouvir e manter o foco apenas no produto.
 
-Falar demais reduz o espaço para que o cliente explique sua situação. O vendedor pode conhecer muito bem o produto, mas esse conhecimento não substitui a necessidade de ouvir e investigar. Uma conversa em que apenas uma pessoa fala pode deixar dúvidas e necessidades importantes sem resposta.
+Falar demais pode dar a impressão de que o vendedor está apresentando muitas informações, mas quantidade não é o mesmo que entendimento. Quando o profissional ocupa quase todo o espaço da conversa, o cliente tem menos oportunidade de explicar sua situação. Sem essas informações, a apresentação corre o risco de ser genérica ou inadequada.
 
-Não compreender o cliente é outro problema. Isso acontece quando o vendedor presume o que a pessoa precisa, interpreta rapidamente uma frase ou apresenta uma solução sem diagnóstico suficiente. Para evitar esse erro, é necessário perguntar, ouvir a resposta e aprofundar o entendimento antes de concluir o que é relevante.
+Outro erro é presumir que já sabemos qual é o problema. O vendedor pode ouvir uma palavra familiar e imediatamente começar a oferecer uma solução, sem perguntar o suficiente. A escuta e o diagnóstico ajudam a evitar esse salto. Em vez de responder antes de entender, é melhor pedir que o cliente explique e confirmar o que foi compreendido.
 
-A pressão também prejudica a relação. Insistir sem considerar as dúvidas ou a decisão do cliente pode transformar a conversa em confronto. O papel do vendedor é ajudar a pessoa a avaliar a solução, não obrigá-la a aceitar.
+A pressão também prejudica a conversa. Insistir sem considerar o que o cliente está dizendo não resolve necessariamente suas dúvidas e pode comprometer a confiança. O objetivo não é vencer uma discussão, mas entender se existe uma solução pertinente e ajudar a pessoa a avaliar a proposta.
 
-Concentrar-se apenas no produto é semelhante: o vendedor descreve funções e características, mas não demonstra como elas se relacionam com o problema apresentado. A informação só é útil quando ajuda o cliente a compreender a pertinência da solução.
+O foco exclusivo no produto produz um problema semelhante. O cliente não procura características isoladas; procura resolver uma situação, evitar erros ou tomar uma decisão segura. Por isso, as informações sobre o produto precisam ser relacionadas ao que foi identificado durante o diagnóstico.
 
-Imagine uma reunião em que o cliente tenta explicar uma dificuldade, mas o vendedor o interrompe repetidamente para apresentar vantagens. Uma alternativa seria ouvir até o fim, confirmar o entendimento e fazer perguntas para esclarecer o problema. Isso não garante a venda, mas melhora a qualidade da conversa.
-
-Na atividade, escolha um erro e transforme-o em uma ação observável que você poderá praticar. A intenção não é apenas memorizar uma lista, mas reconhecer o comportamento e substituí-lo por uma conduta mais profissional.
+Ao rever uma conversa comercial, pergunte a si mesmo: falei mais do que ouvi? Presumi algo sem confirmar? Pressionei quando deveria esclarecer? Apresentei características sem relacioná-las ao problema? Essas perguntas ajudam a transformar os erros em ajustes observáveis.
 
 ## Aplicação prática
-Escolha uma conversa comercial que poderia ter sido melhor. Identifique qual dos erros estudados ocorreu e descreva uma conduta alternativa.
+Escolha um dos erros estudados e escreva como você o substituiria por uma conduta mais útil ao cliente.
 
 ## Síntese
-A conversa comercial exige atenção ao cliente, compreensão da necessidade e uma condução coerente com a etapa em que a venda se encontra. Aplique o princípio desta aula sem atribuir ao método conceitos que não estejam nas apostilas.
+A venda profissional começa pela compreensão do cliente e exige escuta, clareza, coerência e respeito à decisão. A técnica deve ajudar a conduzir a conversa, não substituir o entendimento.
 
 ## Orientação de produção
-Usar a Apostila 2 — Fundamentos de Vendas como fonte principal. Os exemplos são ilustrações didáticas. Os slides apoiam a fala e não substituem o conteúdo-base. Não associar vídeo existente sem conferência semântica.
+Usar a Apostila 2 — Fundamentos de Vendas como fonte principal. Os exemplos são ilustrações didáticas. Os slides devem apoiar a fala, sem substituir o conteúdo-base. Não associar vídeo existente sem conferência semântica.
 
 ## Fonte e limite de escopo
 Roteiro baseado no capítulo correspondente da Apostila 2. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
