@@ -17,7 +17,7 @@ Quando uma venda não acontece, é fácil concluir que o cliente não tinha dinh
 
 A pergunta central apresentada na apostila é: “O que eu poderia ter feito diferente?” Ela não serve para alimentar culpa nem para garantir que a venda teria acontecido. Serve para revisar a abordagem, a qualidade das perguntas, a compreensão da necessidade, a clareza da apresentação e o modo como conduzimos a conversa.
 
-Por exemplo, imagine que um cliente tenha recusado uma proposta. Em vez de concluir imediatamente que ele não valorizou o produto, podemos rever se entendemos o problema, se explicamos como a solução se relacionava com esse problema e se esclarecemos as dúvidas que apareceram. Também podemos reconhecer que, mesmo com uma boa condução, o cliente ainda poderia decidir não comprar.
+Por exemplo, imagine que um cliente tenha recusado uma proposta. Em vez de concluir imediatamente que ele não valorizou o produto, podemos rever se entendemos o problema, se explicamos como a solução se relacionava com esse problema e se esclarecemos as dúvidas que apareceram. Mesmo com uma boa condução, o cliente ainda poderia decidir não comprar.
 
 Responsabilidade é procurar a parte útil do aprendizado e decidir o que fazer com ela. Culpa paralisante olha para trás e apenas condena. Responsabilidade transforma a experiência em uma possibilidade de ajuste.
 
@@ -27,13 +27,13 @@ Na atividade, escolha uma situação real ou recente. Separe o que você não co
 Escolha uma venda perdida ou oportunidade que não avançou. Descreva os fatos sem culpar ninguém e responda: “O que eu poderia ter feito diferente?”
 
 ## Síntese para o encerramento
-O aluno deve sair desta aula reconhecendo o princípio central e identificando uma ação concreta que possa aplicar em sua rotina comercial. Reforce que a atividade deve ser respondida a partir da experiência do próprio aluno e dos conceitos trabalhados na apostila-base.
+Assumir responsabilidade significa procurar o aprendizado útil e definir um ajuste possível, sem presumir que tudo dependia de você.
 
 ## Orientação de produção
-- Usar a Apostila 1 — Mentalidade Inquebrável como fonte principal desta aula.
-- Manter exemplos como ilustrações didáticas, sem apresentá-los como histórias reais verificadas.
-- Os slides devem apoiar a fala, não substituir o desenvolvimento do conteúdo.
-- Não associar um vídeo existente a esta aula sem conferência semântica do arquivo.
+- Usar a Apostila 1 — Mentalidade Inquebrável como fonte principal.
+- Os exemplos são ilustrações didáticas, não histórias reais verificadas.
+- Os slides apoiam a fala e não substituem o conteúdo-base.
+- Não associar vídeo existente sem conferência semântica.
 
 ## Fonte e limite de escopo
-O roteiro desenvolve os conceitos de responsabilidade, rejeição, disciplina, identidade profissional e controle emocional conforme a Apostila 1. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
+Roteiro baseado no capítulo sobre responsabilidade total da Apostila 1. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
