@@ -8,40 +8,34 @@
 Etapa: Técnicas
 
 ## Slide 2 — Objetivo
-Ao final desta aula, o aluno deverá compreender e aplicar o princípio central de **o ciclo da evolução** apresentado no conteúdo-base.
+Usar a experiência comercial para ajustar a próxima tentativa e desenvolver consistência.
 
 ## Slide 3 — Ideia central
-**Vendas evoluem pela prática: tentar, errar, ajustar e melhorar.**
-
-Apresentar a ideia central da aula de forma objetiva, preservando a abordagem da apostila.
+**Tentar → errar → ajustar → melhorar.**
 
 ## Slide 4 — Desenvolvimento
-**Tentar**
+**Tentar → observar**
 
-Desenvolver o primeiro elemento do fluxo com base no conteúdo da apostila correspondente.
+Execute uma ação e observe o que aconteceu sem presumir a causa.
 
 ## Slide 5 — Desenvolvimento
-**errar → ajustar**
+**Ajustar → melhorar**
 
-Desenvolver os elementos intermediários, conectando-os à prática comercial.
+Escolha uma mudança concreta e teste novamente.
 
 ## Slide 6 — Aplicação
-Apresentar uma situação comercial compatível com o conteúdo e conduzir o aluno à aplicação prática.
+Uma abordagem não funcionou como esperado. Registre o que observou, escolha um ajuste e experimente-o na próxima tentativa.
 
 ## Slide 7 — Síntese
-**Tentar → errar → ajustar → melhorar → repetir**
-
-Retomar a sequência ou relação principal da aula.
+**Tentar → errar → ajustar → melhorar. Transforme experiência em aprendizado e ação.**
 
 ## Slide 8 — Atividade
-O que vou testar amanhã?
+Defina uma abordagem para testar, o que observará e qual ajuste poderá experimentar depois.
 
-Usar a **Ficha de Aplicação da Aula 20** como atividade principal.
+Usar a Ficha de Aplicação da Aula 20 como apoio principal da atividade.
 
 ## Slide 9 — Fechamento
-**Aprender → aplicar → observar → ajustar → evoluir.**
-
-Registrar o principal aprendizado e preparar a conexão com a próxima aula.
+Retomar o princípio central e pedir ao aluno que identifique uma ação concreta para aplicar na próxima conversa comercial.
 
 ## Nota de produção
-Este roteiro é apoio visual. O conteúdo deve permanecer fiel à apostila-base. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
+Este roteiro visual foi alinhado à narração-base da aula e deve permanecer fiel à Apostila 3 — Primeiras Técnicas de Vendas. Os exemplos são ilustrações didáticas. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
