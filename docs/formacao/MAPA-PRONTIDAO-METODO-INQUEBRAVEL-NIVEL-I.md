@@ -91,4 +91,6 @@ O produto não deve ser considerado definitivamente pronto apenas porque a pági
 
 **Pedagogicamente estruturado e em produção avançada.**
 
-As 20 fichas de aplicação estão agora presentes no repositório e foram conferidas quanto à existência. O principal bloqueio técnico-pedagógico continua sendo a conferência semântica dos audiovisuais. A página comercial foi ajustada para não sugerir que já existam 20 arquivos audiovisuais individuais validados. A configuração da plataforma tem roteiro operacional, mas ainda não foi executada; também faltam validação institucional, definição da carga horária e teste final.
+As 20 fichas de aplicação estão presentes no repositório e foram conferidas quanto à existência. A segunda rodada de revisão contextualizou também as questões 02, 05, 06, 10, 11, 13, 15, 17, 19 e 20. O banco interno e a versão do participante foram atualizados, mantendo o gabarito equilibrado. A avaliação objetiva está pronta para conferência final de legibilidade e, idealmente, uma leitura-piloto; isso não equivale a validação estatística ou aprovação institucional.
+
+O principal bloqueio técnico-pedagógico continua sendo a conferência semântica dos audiovisuais. A configuração da plataforma tem roteiro operacional, mas ainda não foi executada; também faltam validação institucional, definição da carga horária e teste final.
