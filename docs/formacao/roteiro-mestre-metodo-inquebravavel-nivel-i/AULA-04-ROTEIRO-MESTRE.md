@@ -6,27 +6,29 @@ Mentalidade
 ## Foco
 Rotina de execução
 
-## Objetivo
-Compreender disciplina como sustentação da ação comercial.
+## Objetivo de aprendizagem
+Compreender que a disciplina sustenta ações consistentes mesmo quando a motivação oscila.
 
-## Estrutura sugerida
+## Roteiro de fala — narração-base
 
-1. **Abertura** — apresentar o tema e sua relação com a prática comercial.
-2. **Conceito central** — desenvolver o conteúdo conforme a apostila correspondente.
-3. **Aplicação** — conectar o conceito a uma situação comercial concreta.
-4. **Exemplo ou situação** — utilizar uma situação compatível com o conteúdo da aula, sem introduzir conceitos externos como se fossem parte da apostila.
-5. **Síntese** — destacar os pontos essenciais.
-6. **Atividade** — Atividade 04 — construir rotina diária de atividade.
-7. **Fechamento** — registrar o principal aprendizado e preparar a conexão com a próxima aula.
+Nesta aula, vamos distinguir motivação de disciplina. A motivação pode variar conforme o dia, o cansaço ou o resultado anterior. Se toda ação depender de estarmos motivados, nossa execução também vai variar.
 
-## Material de apoio
+A Apostila 1 apresenta a disciplina como a capacidade de manter uma rotina de ações sem depender exclusivamente do humor. Na prática comercial, isso significa definir quais atividades precisam acontecer e reservar um momento para realizá-las. A rotina pode incluir preparar contatos, iniciar conversas, acompanhar oportunidades ou revisar o que foi aprendido.
 
-A aula deve utilizar a apostila correspondente como fonte principal. Slides, fichas e demais materiais são suportes pedagógicos e não devem substituir o conteúdo-base.
+Disciplina não é trabalhar sem limite nem estabelecer metas impossíveis. Uma rotina precisa ser realista e compatível com a atividade. “Preciso vender mais” é uma intenção ampla. “Vou reservar um período para realizar os contatos planejados e registrar os retornos” descreve uma ação que pode ser executada e conferida.
 
-## Audiovisual
+Imagine uma profissional que trabalha intensamente quando está animada, mas interrompe os contatos quando recebe uma resposta negativa. Uma rotina definida previamente ajuda a reduzir essa oscilação: ela reconhece como está se sentindo, mas não abandona automaticamente o plano.
 
-O arquivo audiovisual existente deverá ser associado a esta aula somente após conferência do conteúdo. A existência de arquivo não comprova, por si só, correspondência semântica com esta aula.
+A disciplina também permite observar o que funciona. Quando as ações são consistentes, fica mais fácil rever a abordagem e identificar ajustes. Na atividade, escolha ações que dependam principalmente de você, defina quando serão realizadas e registre sua execução durante cinco dias.
 
-## Critério de produção
+## Aplicação prática
+Defina uma rotina comercial para os próximos cinco dias. Especifique as ações que fará e o horário previsto, usando metas realistas e verificáveis.
 
-Não gravar novo conteúdo automaticamente. Primeiro conferir se os materiais audiovisuais existentes podem ser reutilizados, conforme o protocolo de conferência audiovisual do projeto.
+## Síntese
+A motivação oscila; a disciplina ajuda a manter a execução. Defina ações realistas, cumpra a rotina e revise o que aprendeu.
+
+## Orientação de produção
+Usar a Apostila 1 — Mentalidade Inquebrável como fonte principal. Os exemplos são ilustrações didáticas. Os slides apoiam a fala e não substituem o conteúdo-base. Não associar vídeo existente sem conferência semântica.
+
+## Fonte e limite de escopo
+Roteiro baseado no capítulo sobre disciplina da Apostila 1. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
