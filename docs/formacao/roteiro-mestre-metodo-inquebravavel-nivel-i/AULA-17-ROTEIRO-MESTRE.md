@@ -1,36 +1,55 @@
 # Aula 17 — Apresentação: ligar solução e necessidade
 
 ## Etapa
-Técnicas
+Primeiras Técnicas de Vendas — Bloco 3
 
 ## Foco
 Problema, solução e resultado esperado
 
 ## Objetivo de aprendizagem
-Apresentar a solução de forma concisa, retomando o problema identificado e explicando como a solução se relaciona com ele.
+Apresentar a solução de forma concisa, retomando o problema identificado e explicando como a solução se relaciona com ele, sem exagerar benefícios nem prometer resultados não confirmados.
 
-## Roteiro de fala — narração-base
+## Roteiro de fala — versão expandida para gravação
 
-Depois de compreender a situação do cliente, chega o momento da apresentação. A Apostila 3 propõe uma estrutura simples: retomar o problema, apresentar a solução e mostrar o resultado esperado. Essa sequência ajuda a manter a explicação ligada à necessidade, em vez de transformar a apresentação em uma lista interminável de características.
+Olá! Nesta aula, vamos estudar o momento de apresentar uma solução ao cliente. Até aqui, trabalhamos a abordagem, o início da conversa e o diagnóstico. Agora, vamos usar o que foi compreendido para explicar como uma solução pode responder à necessidade identificada.
 
-Começar retomando o problema demonstra que o vendedor ouviu e entendeu o que foi relatado. Pode ser uma frase curta que confirme a dificuldade ou o objetivo do cliente. Se o resumo estiver incorreto, o cliente pode corrigi-lo antes de avançarmos.
+A Apostila 3 organiza a apresentação em três movimentos: retomar o problema, apresentar a solução e explicar o resultado esperado. Essa estrutura ajuda a manter a conversa relevante e evita que o vendedor transforme a apresentação em uma lista interminável de características.
 
-Em seguida, apresentamos a solução que tenha relação com aquele problema. Não é necessário falar de tudo o que o produto faz. O mais importante é explicar as características ou os serviços que respondem à necessidade identificada. Informações técnicas podem ser importantes, mas devem ser apresentadas de maneira compreensível e na medida necessária.
+O primeiro movimento é retomar o problema. Antes de falar da solução, resuma brevemente o que você entendeu. Por exemplo: “Pelo que conversamos, o principal desafio é organizar melhor o espaço e facilitar o uso diário. Entendi corretamente?”. Essa frase demonstra que a apresentação está ligada ao que o cliente disse e permite corrigir qualquer interpretação equivocada.
 
-Por fim, mostramos o resultado esperado, com cuidado para não transformar uma possibilidade em promessa garantida. Explique como a solução pode ajudar e quais condições precisam ser consideradas. Clareza e honestidade são mais importantes do que exagerar benefícios para impressionar.
+Não transforme o resumo em uma dramatização. O objetivo não é aumentar a preocupação do cliente nem criar uma urgência artificial. Use palavras simples, mantenha-se fiel às informações fornecidas e peça confirmação quando necessário. Se o cliente corrigir o resumo, ajuste sua compreensão antes de seguir.
 
-Imagine que o cliente tenha explicado que precisa organizar melhor o espaço de trabalho. Uma apresentação relevante retoma essa necessidade, explica como a solução proposta se relaciona com a organização e descreve o benefício esperado com base no que se sabe. Não seria útil recitar um catálogo inteiro sem explicar por que aqueles itens foram escolhidos.
+O segundo movimento é apresentar a solução pertinente. Nem toda característica do produto precisa ser explicada em toda conversa. Selecione as informações que respondem ao problema ou aos critérios que o cliente identificou. Uma explicação técnica pode ser necessária, mas precisa ser clara e proporcional à decisão que a pessoa está tentando tomar.
 
-Depois da apresentação, observe a reação do cliente e convide-o a esclarecer dúvidas. A apresentação não encerra automaticamente a venda. Ela faz parte de uma conversa em que o cliente precisa compreender a proposta e avaliar se ela atende ao que procura.
+Imagine que o cliente tenha relatado dificuldades para organizar um ambiente de trabalho. Uma apresentação relevante explica quais características da solução ajudam a aproveitar o espaço ou organizar os materiais, desde que isso seja verdadeiro para o produto oferecido. Não seria útil recitar todas as opções de um catálogo sem explicar por que algumas delas são pertinentes à situação.
+
+O terceiro movimento é explicar o resultado esperado. O cliente precisa compreender como a solução pode ajudá-lo. É importante, porém, distinguir uma possibilidade de uma garantia. Se o resultado depender de medidas, instalação, condições de uso, prazo ou outras variáveis, essas condições devem ser esclarecidas. Não prometa economia, desempenho ou prazo que não possa sustentar.
+
+Uma apresentação profissional conecta necessidade, solução e resultado. Ela não depende de frases grandiosas. Depende de demonstrar, com clareza, por que a solução selecionada pode fazer sentido para o que o cliente explicou.
+
+Também precisamos deixar espaço para perguntas. Depois de apresentar, pergunte se a explicação ficou clara ou se há algum ponto que a pessoa deseja examinar melhor. Não interprete o silêncio automaticamente como concordância. O cliente pode estar pensando, pode ter uma dúvida ou pode precisar comparar informações.
+
+Se uma pergunta revelar que o diagnóstico estava incompleto, volte a investigar. Se o cliente apontar uma condição que a solução não atende, reconheça o limite em vez de esconder a informação. Uma apresentação eficaz não é aquela que faz qualquer produto parecer adequado; é aquela que permite avaliar com mais clareza se existe correspondência entre a necessidade e a solução.
+
+Na atividade desta aula, escolha uma necessidade que você já diagnosticou. Escreva uma apresentação curta em três partes: primeiro, retome o problema com palavras fiéis ao que o cliente disse; depois, explique a solução que tem relação com esse problema; por fim, descreva o resultado esperado e indique qualquer condição que precise ser considerada. Evite promessas absolutas.
+
+Ao revisar o texto, pergunte: a pessoa conseguiria entender por que estou recomendando essa solução? Cada informação apresentada tem relação com a necessidade? Há alguma afirmação que eu precisaria confirmar antes de dizê-la? Essas perguntas ajudam a manter a apresentação objetiva e confiável.
+
+Para concluir, lembre-se: retome o problema, apresente a solução pertinente e explique o resultado esperado com honestidade. A apresentação deve ajudar o cliente a compreender, comparar e decidir — não substituir a decisão dele.
 
 ## Aplicação prática
-Escreva uma apresentação curta para uma necessidade que você já diagnosticou: retome o problema, apresente a solução pertinente e explique o resultado esperado sem prometer o que não pode garantir.
+1. Registre o problema identificado no diagnóstico.
+2. Escreva uma frase que confirme esse entendimento.
+3. Apresente apenas os aspectos da solução relacionados à necessidade.
+4. Explique o resultado esperado sem transformar possibilidade em garantia.
+5. Liste as condições ou informações que precisam ser verificadas.
+6. Termine com uma pergunta que permita ao cliente esclarecer dúvidas.
 
-## Síntese
-Problema, solução e resultado esperado. Aplique o princípio a uma situação concreta, respeitando a necessidade e a decisão do cliente.
+## Síntese para encerramento
+Problema → solução → resultado esperado. Uma apresentação relevante retoma o que o cliente relatou, explica a ligação com a solução e comunica limites com clareza.
 
 ## Orientação de produção
-Usar a Apostila 3 — Primeiras Técnicas de Vendas como fonte principal. Os exemplos são ilustrações didáticas. Os slides devem apoiar a fala e não substituir o conteúdo-base. Não associar vídeo existente sem conferência semântica.
+Usar a Apostila 3 — Primeiras Técnicas de Vendas como fonte principal. A narração foi expandida a partir do roteiro-base existente; a revisão editorial cruzada integral com a apostila e a sincronização final com os slides permanecem pendentes. Os exemplos são ilustrações didáticas. Não associar vídeo existente sem conferência semântica.
 
 ## Fonte e limite de escopo
-Roteiro baseado no capítulo correspondente da Apostila 3. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
+Roteiro de produção para a aula correspondente ao tema Apresentação: ligar solução e necessidade. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
