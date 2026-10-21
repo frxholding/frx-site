@@ -3,16 +3,40 @@
 ## Aula 20 — O ciclo da evolução
 
 ### Objetivo
-Transformar tentativas, erros e resultados em ajustes práticos para melhorar a execução comercial.
+Transformar a experiência comercial em observações e ajustes concretos para a próxima tentativa.
 
 ### Aplicação prática
-Escolha uma atividade comercial que deseja aprimorar. Defina o que vai tentar, qual resultado observará, como registrará o que não funcionou e qual ajuste fará na próxima tentativa.
+
+**1. Tentar — ação específica**
+O que você vai praticar na próxima conversa? Descreva um comportamento observável.
+
+**2. Observar — fatos**
+O que você vai observar durante ou depois da tentativa? Defina pelo menos um sinal concreto.
+
+**3. Separar fato de interpretação**
+- Fato que observei:
+- Interpretação que posso estar fazendo:
+- O que preciso confirmar antes de tirar uma conclusão?
+
+**4. Ajustar — próxima tentativa**
+Qual mudança específica poderá experimentar com base no que observou?
+
+**5. Melhorar — registro de aprendizagem**
+Como registrará o que aprendeu e quando revisará o resultado?
 
 ### Entrega
-Plano de melhoria com quatro etapas: tentar, observar o erro ou dificuldade, ajustar e melhorar.
+Preencha o plano de melhoria usando a sequência tentar → observar → ajustar → melhorar. Não é necessário que a tentativa resulte em venda; o objetivo é aprender de forma consciente.
+
+### Lista de verificação
+- [ ] Defini uma ação concreta, não apenas uma intenção ampla.
+- [ ] Escolhi fatos que podem ser observados.
+- [ ] Separei fatos de interpretações.
+- [ ] Defini um ajuste específico e possível de testar.
+- [ ] Não tratei uma única experiência como prova definitiva.
+- [ ] Planejei registrar o aprendizado.
 
 ### Reflexão
-Como você vai transformar a próxima experiência em aprendizado concreto?
+Como vou transformar a próxima experiência em aprendizado concreto, mesmo que o resultado não seja o esperado?
 
 ### Orientação
-A atividade deve ser realizada a partir da experiência ou de uma situação comercial simulada. O objetivo é transformar o conteúdo da aula em prática e registro de aprendizado.
+Use uma situação real ou simulada. Se for uma simulação, identifique-a como tal. A atividade não deve prometer resultados automáticos nem presumir que uma técnica garante uma venda.
