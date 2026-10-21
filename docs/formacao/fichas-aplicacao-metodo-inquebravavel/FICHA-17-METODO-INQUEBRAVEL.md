@@ -1,18 +1,37 @@
 # Ficha de Aplicação — Método Inquebrável — Nível I
 
-## Aula 17 — Apresentação: como falar certo
+## Aula 17 — Apresentação: ligar solução e necessidade
 
 ### Objetivo
-Relacionar a apresentação da solução ao problema identificado no diagnóstico.
+Explicar uma solução relacionando-a ao problema identificado e ao resultado esperado, sem exagerar benefícios nem garantir o que não foi confirmado.
 
 ### Aplicação prática
-Use um cenário comercial real ou simulado. Resuma primeiro o problema do cliente, depois apresente uma solução pertinente e, por fim, explique o resultado esperado sem prometer o que não pode garantir.
+Use uma situação comercial real ou simulada e complete:
+
+**1. Problema identificado**
+O que o cliente relatou e confirmou?
+
+**2. Solução pertinente**
+Qual aspecto da solução responde diretamente a esse problema?
+
+**3. Resultado esperado**
+O que a solução pode ajudar a alcançar? Diferencie possibilidade de garantia.
+
+**4. Limites e verificações**
+Quais condições, prazos, disponibilidade ou resultados precisam ser confirmados antes de serem afirmados?
 
 ### Entrega
-Texto curto dividido em três partes: problema identificado, solução proposta e resultado esperado.
+Escreva uma apresentação curta seguindo a sequência problema → solução → resultado esperado. Termine com uma pergunta que permita ao cliente esclarecer dúvidas ou corrigir seu entendimento.
+
+### Revisão
+- [ ] Retomei o problema com fidelidade ao que foi relatado.
+- [ ] Selecionei apenas os aspectos da solução relacionados à necessidade.
+- [ ] Expliquei o resultado esperado sem transformar possibilidade em promessa.
+- [ ] Identifiquei informações que precisam de confirmação.
+- [ ] Dei espaço para perguntas e correções.
 
 ### Reflexão
-Sua apresentação responde ao problema do cliente ou apenas descreve o produto?
+Minha apresentação ajuda o cliente a avaliar a solução ou apenas descreve o produto?
 
 ### Orientação
-A atividade deve ser realizada a partir da experiência ou de uma situação comercial simulada. O objetivo é transformar o conteúdo da aula em prática e registro de aprendizado.
+Use uma situação real ou simulada. Não registre exemplos fictícios como resultados comprovados.
