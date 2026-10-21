@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **O ciclo da evolução**
 
-Etapa: Técnicas
+Etapa: Primeiras Técnicas de Vendas — Bloco 3
 
 ## Slide 2 — Objetivo
 Usar a experiência comercial para ajustar a próxima tentativa e desenvolver consistência.
