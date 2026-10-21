@@ -3,16 +3,22 @@
 ## Aula 02 — Responsabilidade total
 
 ### Objetivo
-Distinguir responsabilização de transferência de culpa.
+Distinguir responsabilização de transferência de culpa e identificar um ajuste possível na própria atuação.
 
 ### Aplicação prática
-Escolha uma situação comercial que não teve o resultado esperado e responda: o que aconteceu, o que estava sob seu controle e o que você poderia ter feito diferente?
+Escolha uma venda perdida ou uma oportunidade comercial que não teve o resultado esperado. Registre os fatos e responda:
+1. O que aconteceu?
+2. O que estava sob minha responsabilidade?
+3. O que eu poderia ter feito diferente?
+4. O que faria diferente hoje?
+
+Separe fatores externos das ações que estavam ao seu alcance. Não presuma que uma conduta diferente garantiria a venda; o objetivo é identificar um aprendizado útil.
 
 ### Entrega
-Mapa simples com fatos, responsabilidade pessoal e possível ajuste.
+Mapa simples com fatos, responsabilidade pessoal e possível ajuste para a próxima oportunidade.
 
 ### Reflexão
-Qual mudança de comportamento depende exclusivamente de você?
+Qual mudança de comportamento depende principalmente de você?
 
 ### Orientação
-A atividade deve ser realizada a partir da experiência ou de uma situação comercial simulada. O objetivo é transformar o conteúdo da aula em prática e registro de aprendizado.
+A atividade pode partir de uma experiência real ou de uma situação comercial simulada. O objetivo é transformar o conteúdo da aula em prática e registro de aprendizado.
