@@ -431,3 +431,25 @@ Foi feita uma comparação direta entre a branch `main`, a branch `feature/frx-f
 A etapa crítica agora é revisar a diferença do pull request e preparar a incorporação segura à `main`. Antes de mesclar, conferir se o redirecionamento de `cursos.html` é o comportamento desejado, pois substitui o catálogo público atual por um redirecionamento. O conteúdo atual do catálogo já foi registrado e deve ser preservado por meio da nova página de Formação Profissional ou de uma decisão explícita de migração.
 
 Após a integração, testar o site público, verificar a publicação automática do GitHub Pages e validar os três links de matrícula. Nenhuma alteração foi mesclada nem publicada nesta auditoria.
+
+
+## Preparação de integração enxuta para publicação (21/10/2026)
+
+A revisão do pull request nº 1 identificou escopo excessivo para uma publicação exclusiva do site: a proposta aberta inclui 281 arquivos e 529 commits, com materiais pedagógicos e outros conteúdos além da área web. **Não mesclar o pull request nº 1 como caminho de publicação sem uma revisão e delimitação adicionais.**
+
+Para reduzir o risco, foi criada a branch `release/frx-formacao-site` a partir de `main` e aberta a proposta de revisão nº 2: [FRX Formação Profissional — integração enxuta do site](https://github.com/frxholding/frx-site/pull/2). A proposta inclui seis arquivos de páginas do site, sem copiar os demais materiais pedagógicos:
+- atualização de `index.html`;
+- redirecionamento de `cursos.html` para `formacao.html`;
+- inclusão de `formacao.html` e das três páginas individuais dos cursos.
+
+Na página de Formação Profissional, os três cartões passaram a exibir o preço de R$ 97,00, preservando a informação de preço encontrada no catálogo público anterior e conferida nas páginas dos produtos Hotmart.
+
+### Validações adicionais
+- Comparação entre `main` e a branch de desenvolvimento confirmou que a nova área e as três páginas individuais ainda não estavam na raiz de `main`.
+- Auditoria estática na branch de publicação: seis páginas analisadas, títulos e meta descriptions presentes, nenhum ID duplicado encontrado, imagens da página inicial e da formação com `alt`, e nenhuma referência local ausente nas páginas verificadas.
+- Os três links Hotmart foram abertos e correspondem aos produtos esperados; as páginas de produto exibem R$ 97,00.
+
+### Estado e pendências
+O pull request nº 2 permanece aberto como rascunho e **não foi mesclado**. Ainda faltam validação visual em navegador real (desktop, tablet e celular), teste funcional do fluxo de matrícula até antes do pagamento, confirmação da publicação automática do GitHub Pages e teste final no domínio público. A auditoria web encontrou o catálogo público anterior em `https://frxholding.com.br/cursos.html`; a nova estrutura não deve ser tratada como publicada até que o merge e a verificação pós-publicação ocorram.
+
+**Próxima ação:** revisar a proposta enxuta e concluir os testes de navegador. Não publicar por meio do pull request nº 1, de escopo amplo, sem nova avaliação.
