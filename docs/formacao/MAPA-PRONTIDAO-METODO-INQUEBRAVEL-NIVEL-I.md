@@ -413,3 +413,21 @@ Foram inspecionadas as páginas `index.html`, `formacao.html`, `curso-licitacoes
 
 ### Próximo passo
 Prosseguir com validação funcional em navegador e conferir os destinos de matrícula externamente. Se o ambiente disponível não permitir controlar um navegador ou concluir o fluxo externo, registrar isso como pendência em vez de inferir sucesso.
+
+
+## Auditoria da diferença entre a versão pública e a branch de desenvolvimento (21/10/2026)
+
+Foi feita uma comparação direta entre a branch `main`, a branch `feature/frx-formacao-profissional` e as páginas acessíveis do domínio público.
+
+- O repositório usa `main` como branch padrão e o arquivo `CNAME` aponta para `frxholding.com.br`.
+- O pull request nº 1 permanece aberto, com base em `main` e origem em `feature/frx-formacao-profissional`; não foi mesclado.
+- Na branch `main`, `cursos.html` ainda contém o catálogo de cursos existente. Na branch de desenvolvimento, esse arquivo é um redirecionador para `formacao.html`.
+- As páginas `formacao.html` e as três páginas individuais dos cursos existem na branch de desenvolvimento, mas não foram encontradas na raiz da branch `main`.
+- A página pública `https://frxholding.com.br/cursos.html` ainda apresenta o catálogo anterior com os três cursos e preços. Isso confirma que a nova estrutura da branch não está integralmente refletida no site público no momento desta verificação.
+- A página inicial pública foi acessível por leitura web; as tentativas de abrir diretamente algumas URLs novas não produziram uma visualização utilizável nessa ferramenta. Portanto, não declarar teste visual dessas páginas como concluído.
+
+### Consequência para a publicação
+
+A etapa crítica agora é revisar a diferença do pull request e preparar a incorporação segura à `main`. Antes de mesclar, conferir se o redirecionamento de `cursos.html` é o comportamento desejado, pois substitui o catálogo público atual por um redirecionamento. O conteúdo atual do catálogo já foi registrado e deve ser preservado por meio da nova página de Formação Profissional ou de uma decisão explícita de migração.
+
+Após a integração, testar o site público, verificar a publicação automática do GitHub Pages e validar os três links de matrícula. Nenhuma alteração foi mesclada nem publicada nesta auditoria.
