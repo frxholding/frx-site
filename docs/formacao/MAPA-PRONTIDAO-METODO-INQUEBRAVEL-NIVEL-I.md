@@ -320,3 +320,10 @@ Estas melhorias são revisão editorial e pedagógica interna dos materiais exis
 Foi concluída uma comparação interna entre slides, roteiros-mestres e fichas de aplicação das aulas 14 a 20. A matriz registrou correspondência consistente entre tema, objetivo, atividade e fechamento nos três artefatos para cada aula. O registro detalhado está em [Auditoria cruzada — Aulas 14 a 20](AUDITORIA-CRUZADA-AULAS-14-A-20-METODO-INQUEBRAVEL.md).
 
 **Limite da conclusão:** esta é uma checagem de coerência entre materiais de produção; não é validação de fidelidade à Apostila 3, nem validação dos vídeos. A comparação integral com a Apostila 3, a conferência semântica do audiovisual e a leitura-piloto continuam pendentes. A prontidão geral não muda para “publicável” com base apenas nesta auditoria.
+
+
+## Auditoria cruzada interna das aulas 7–13 (21/10/2026)
+
+Foi comparada a correspondência entre slides, roteiros-mestres e fichas de aplicação das aulas 7 a 13. Foi encontrada uma divergência de instrução na aula 07: slides e roteiro pediam três perguntas, enquanto a ficha solicitava cinco. A divergência foi corrigida nos slides e no roteiro, que agora pedem cinco perguntas abertas e registro das evidências necessárias antes de recomendar a solução. O relatório detalhado está em [Auditoria cruzada — Aulas 7 a 13](AUDITORIA-CRUZADA-AULAS-07-A-13-METODO-INQUEBRAVEL.md).
+
+As demais aulas verificadas apresentaram alinhamento interno entre tema, atividade e entrega. Esta conclusão não substitui a conferência integral com a Apostila 2, a validação audiovisual nem a leitura-piloto; esses gates continuam pendentes.
