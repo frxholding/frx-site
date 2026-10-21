@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **Objeções: ouvir, validar e responder**
 
-Etapa: Técnicas
+Etapa: Primeiras Técnicas de Vendas — Bloco 3
 
 ## Slide 2 — Objetivo
 Compreender uma objeção antes de responder, sem confronto ou pressão.
