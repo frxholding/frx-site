@@ -3,16 +3,35 @@
 ## Aula 14 — Abordagem: o primeiro contato
 
 ### Objetivo
-Construir uma abordagem simples, natural, direta e leve.
+Construir uma abordagem breve, natural e respeitosa usando saudação, contexto verdadeiro e abertura para o diálogo.
+
+### Situação
+Descreva uma situação comercial real ou simulada e indique o canal de contato (presencial, telefone ou mensagem).
 
 ### Aplicação prática
-Crie uma abordagem usando a estrutura saudação → contexto → abertura, evitando transformar o primeiro contato em uma apresentação completa.
+Escreva duas versões da abordagem, separando cada uma em:
+1. **Saudação:** cumprimento adequado à pessoa e ao canal.
+2. **Contexto:** motivo verdadeiro e pertinente para o contato.
+3. **Abertura:** pergunta ou frase breve que convide à resposta.
+
+### Revisão
+Para cada versão, marque:
+- [ ] O cumprimento é adequado ao contexto.
+- [ ] O motivo do contato é verdadeiro, específico e compreensível.
+- [ ] A abertura convida ao diálogo sem exigir uma apresentação completa.
+- [ ] Retirei exageros, urgência artificial, promessas e detalhes desnecessários.
+- [ ] A abordagem respeita a possibilidade de a pessoa não poder ou não querer conversar.
 
 ### Entrega
-Escreva e revise duas versões de abordagem.
+Compare as duas versões e escolha qual testaria primeiro. Explique em uma frase por que ela é mais clara ou pertinente.
+
+### Registro após o teste
+- O que aconteceu de forma observável?
+- A pessoa entendeu o motivo do contato?
+- O que ajustarei na próxima tentativa?
 
 ### Reflexão
-Sua abordagem abre uma conversa ou tenta concluir uma venda imediatamente?
+Minha abordagem abre uma conversa ou tenta apresentar tudo e concluir a venda imediatamente?
 
 ### Orientação
-A atividade deve ser realizada a partir da experiência ou de uma situação comercial simulada. O objetivo é transformar o conteúdo da aula em prática e registro de aprendizado.
+Use uma situação real ou simulada. Não invente informações sobre o destinatário nem registre como resultado algo que não foi observado.
