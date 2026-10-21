@@ -1,34 +1,48 @@
 # Aula 05 — Identidade do vendedor
 
 ## Etapa
-Mentalidade
+Mentalidade Inquebrável — Bloco 1
 
 ## Foco
 Postura profissional
 
 ## Objetivo de aprendizagem
-Compreender a mudança de postura entre tratar vendas como tentativa ocasional e assumir uma identidade profissional.
+Compreender a mudança de postura entre tratar vendas como tentativa ocasional e assumir uma identidade profissional sustentada por atitudes diárias de preparo, responsabilidade e constância.
 
-## Roteiro de fala — narração-base
+## Roteiro de fala — versão expandida para gravação
 
-Nesta aula, vamos trabalhar a identidade do vendedor. A Apostila 1 propõe uma mudança de linguagem e postura: sair de “estou tentando vender” para “sou um profissional de vendas”. Não se trata apenas de trocar uma frase. Trata-se de reconhecer que a atividade exige atenção, preparo, constância e responsabilidade.
+Nesta aula, vamos trabalhar a identidade do vendedor. A Apostila 1 propõe uma mudança de linguagem e postura: sair da ideia de “estou tentando vender” para reconhecer “sou um profissional de vendas”. Não se trata apenas de trocar uma frase. Trata-se de compreender que a atividade comercial exige preparo, atenção, constância e responsabilidade.
 
-Quando alguém entende a venda como uma tentativa ocasional, pode agir apenas quando aparece uma oportunidade ou quando se sente confiante. Ao assumir uma identidade profissional, passa a olhar para as ações comerciais como parte do trabalho: preparar-se, conversar com clientes, ouvir, compreender necessidades, acompanhar oportunidades e aprender com a experiência.
+Quando alguém trata a venda como uma tentativa ocasional, pode agir apenas quando aparece uma oportunidade ou quando se sente confiante. Se a conversa é difícil ou surge uma recusa, a pessoa pode interpretar isso como um sinal de que não nasceu para a atividade. Ao assumir uma identidade profissional, passa a entender que vender envolve um conjunto de ações que precisam ser praticadas e desenvolvidas.
 
-Essa identidade não depende de afirmar que somos excelentes nem de fingir que já sabemos tudo. Um profissional pode estar aprendendo e, ainda assim, assumir a responsabilidade por desenvolver suas competências. A postura aparece no comportamento cotidiano, não apenas na forma como nos apresentamos.
+Essa identidade aparece no cotidiano. Um profissional prepara os contatos, procura compreender o que oferece, ouve o cliente, registra informações relevantes, acompanha oportunidades e aprende com as experiências. Não é necessário ser perfeito para começar a agir profissionalmente. É necessário reconhecer as competências que ainda precisam ser desenvolvidas e assumir o compromisso de trabalhá-las.
 
-Imagine duas pessoas que recebem uma recusa. Uma interrompe os contatos porque acredita que não nasceu para vender. A outra reconhece o que aconteceu, analisa a conversa, identifica o que pode melhorar e retoma a rotina. A diferença está na maneira de responder à dificuldade.
+Imagine duas pessoas que recebem uma resposta negativa. Uma conclui que não serve para vendas e interrompe toda a rotina. A outra reconhece a frustração, analisa o que aconteceu e verifica se existe algo que pode aprender. Depois, retoma o trabalho planejado, respeitando a decisão daquele cliente. A diferença não é que uma nunca sente dificuldade; é que a segunda não transforma automaticamente uma dificuldade em uma definição permanente sobre si mesma.
 
-Identidade profissional também não significa pressionar clientes ou transformar cada conversa em uma venda a qualquer custo. A formação apresenta a venda como um processo de entendimento e ajuda à decisão. A postura precisa ser coerente com essa orientação.
+Identidade profissional também não significa afirmar que somos excelentes ou que sabemos tudo. Um profissional confiável reconhece os próprios limites, busca informação quando necessário e evita prometer o que não pode cumprir. A disposição para aprender faz parte da postura, não é sinal de fraqueza.
+
+Outro ponto importante é que assumir a identidade de vendedor não significa colocar a venda acima de tudo. Não significa pressionar clientes, insistir depois de uma recusa clara ou tentar vender algo que não atende à necessidade. A postura profissional precisa ser coerente com o respeito ao cliente e com a responsabilidade sobre o que a empresa pode entregar.
+
+Para tornar essa identidade concreta, pense em comportamentos que alguém poderia observar. Você se prepara antes de entrar em contato? Mantém uma rotina possível? Escuta sem interromper? Registra os compromissos assumidos? Confirma informações antes de prometer? Esses comportamentos são evidências práticas de uma identidade profissional.
+
+Na atividade, escreva como costuma descrever sua atuação comercial. Depois, formule uma declaração de identidade profissional que faça sentido para você e associe-a a duas atitudes observáveis. Evite frases genéricas como “vou ser melhor”. Prefira compromissos concretos, como preparar os contatos antes de iniciar a rotina ou revisar uma conversa para identificar um aprendizado.
+
+Ao revisar, pergunte se suas atitudes realmente correspondem à identidade que deseja construir. Se você afirma que valoriza o cliente, por exemplo, sua prática precisa incluir escuta, clareza e respeito. A identidade ganha consistência quando a maneira de se definir corresponde ao comportamento cotidiano.
+
+Para concluir, lembre-se: ser profissional de vendas não significa nunca errar. Significa assumir a atividade com responsabilidade, praticar as competências necessárias e manter coerência entre o que você afirma e o que faz.
 
 ## Aplicação prática
-Escreva como você costuma descrever sua atuação. Depois, formule uma declaração de identidade profissional e associe-a a duas atitudes observáveis que colocará em prática.
+1. Escreva como costuma descrever sua atuação comercial.
+2. Formule uma declaração de identidade profissional.
+3. Associe a declaração a duas atitudes observáveis.
+4. Defina quando irá praticar essas atitudes.
+5. Ao final da semana, registre o que conseguiu aplicar e o que precisa ajustar.
 
-## Síntese
-A identidade profissional ganha consistência quando a maneira de se definir corresponde a atitudes diárias de responsabilidade, preparo e execução.
+## Síntese para encerramento
+A identidade profissional ganha consistência quando a maneira de se definir corresponde a atitudes diárias de responsabilidade, preparo, respeito e execução.
 
 ## Orientação de produção
-Usar a Apostila 1 — Mentalidade Inquebrável como fonte principal. Os exemplos são ilustrações didáticas. Os slides apoiam a fala e não substituem o conteúdo-base. Não associar vídeo existente sem conferência semântica.
+Usar a Apostila 1 — Mentalidade Inquebrável como fonte principal. A narração foi expandida a partir do roteiro-base existente; a revisão editorial cruzada integral com a apostila e a sincronização final com os slides permanecem pendentes. Os exemplos são ilustrações didáticas. Não associar vídeo existente sem conferência semântica.
 
 ## Fonte e limite de escopo
-Roteiro baseado no capítulo sobre identidade do vendedor da Apostila 1. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
+Roteiro de produção baseado no capítulo sobre identidade do vendedor da Apostila 1. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
