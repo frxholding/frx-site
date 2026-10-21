@@ -30,10 +30,10 @@ Ao revisar sua resposta, evite duas conclusões extremas: “nada dependia de mi
 Para concluir, lembre-se: assumir responsabilidade é procurar o aprendizado útil e definir um ajuste possível. Não é controlar tudo, nem se culpar por tudo. É transformar a experiência em uma próxima ação mais consciente.
 
 ## Aplicação prática
-1. Escolha uma venda perdida ou oportunidade que não avançou.
-2. Descreva os fatos observáveis.
-3. Separe fatores externos das ações que estavam ao seu alcance.
-4. Responda: “O que eu poderia ter feito diferente?”.
+1. Escolha uma venda perdida.
+2. Registre o que aconteceu.
+3. Identifique o que foi de sua responsabilidade, sem ignorar os fatores externos.
+4. Responda: “O que eu poderia ter feito diferente?” e “O que faria diferente hoje?”.
 5. Defina um ajuste específico para a próxima oportunidade.
 
 ## Síntese para encerramento
