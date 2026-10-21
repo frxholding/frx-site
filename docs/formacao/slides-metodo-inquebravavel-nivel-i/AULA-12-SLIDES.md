@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **A estrutura da venda**
 
-Etapa: Fundamentos
+Etapa: Fundamentos de Vendas — Bloco 2
 
 ## Slide 2 — Objetivo
 Ao final desta aula, o aluno deverá compreender e aplicar este princípio: a venda segue uma sequência que não deve ser atropelada.
