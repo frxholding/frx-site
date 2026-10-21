@@ -35,7 +35,7 @@ Escreva duas versões de abordagem usando saudação, contexto e abertura. Revis
 Usar a Ficha de Aplicação da Aula 14 como apoio principal da atividade.
 
 ## Slide 9 — Fechamento
-Retomar o princípio central e pedir ao aluno que identifique uma ação concreta para aplicar na próxima conversa comercial.
+Antes do próximo contato, escolha uma das duas versões de abordagem para testar. Depois, registre se a saudação, o contexto verdadeiro e a pergunta de abertura ajudaram a iniciar o diálogo.
 
 ## Nota de produção
 Este roteiro visual foi alinhado à narração-base da aula e deve permanecer fiel à Apostila 3 — Primeiras Técnicas de Vendas. Os exemplos são ilustrações didáticas. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
