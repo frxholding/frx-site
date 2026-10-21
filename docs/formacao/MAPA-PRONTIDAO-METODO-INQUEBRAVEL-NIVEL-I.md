@@ -288,3 +288,17 @@ Foram uniformizados os rótulos de etapa nos 20 roteiros visuais, para que cada 
 - Aulas 14–20: **Primeiras Técnicas de Vendas — Bloco 3**.
 
 A alteração é de consistência editorial e navegação; não substitui a revisão cruzada integral com as apostilas originais nem a validação audiovisual. Os demais gates de prontidão permanecem em aberto conforme registrado acima.
+
+
+## Fechamentos dos slides 14–20 tornados específicos (21/10/2026)
+
+Ajustei o Slide 9 de cada roteiro visual para converter o encerramento genérico em uma ação verificável, coerente com a aula:
+- Aula 14: testar uma das duas abordagens e registrar se abriu diálogo.
+- Aula 15: testar uma pergunta aberta e registrar o aprendizado sem transformar a conversa em interrogatório.
+- Aula 16: resumir situação, problema e impacto, confirmar entendimento e identificar lacunas.
+- Aula 17: conferir a ligação entre problema, solução e resultado esperado e retirar promessas não verificadas.
+- Aula 18: conferir a sequência ouvir → validar → responder e sinalizar informações ainda não confirmadas.
+- Aula 19: treinar respostas para avanço, dúvida ou recusa, respeitando a decisão do cliente.
+- Aula 20: definir ação, fato observável e ajuste, separando fatos de interpretações.
+
+Esta rodada melhora a aplicação prática dos slides, mas não substitui a conferência direta com as Apostilas 2 e 3 nem a validação audiovisual. O status geral de prontidão permanece condicionado aos gates já registrados.
