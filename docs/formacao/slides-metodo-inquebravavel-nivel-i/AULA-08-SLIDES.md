@@ -26,7 +26,7 @@ O cliente quer saber se resolve seu problema, se vale a pena e se pode confiar.
 Problema do cliente → solução pertinente → clareza → decisão.
 
 ## Slide 6 — Aplicação
-Peça ao aluno que traduza uma característica do produto em uma explicação ligada a uma necessidade que precisa ser confirmada com o cliente.
+Escolha um produto. Separe características da oferta das preocupações que o cliente pode ter. Formule uma pergunta para confirmar cada preocupação e só então escreva uma frase que conecte a solução à necessidade confirmada.
 
 ## Slide 7 — Síntese
 **Produto → problema → solução → segurança → decisão**
