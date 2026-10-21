@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **O nascimento do vendedor**
 
-Etapa: Mentalidade
+Etapa: Mentalidade Inquebrável — Bloco 1
 
 ## Slide 2 — Objetivo
 Ao final desta aula, o aluno deverá reconhecer o seguinte princípio: Assumir a própria parte e transformar intenção em ação.
