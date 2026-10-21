@@ -258,3 +258,8 @@ Após a leitura da Apostila 1, as atividades das narrações 01–06 foram ajust
 As fichas de aplicação 07–13 foram revisadas para explicitar passos, evidências esperadas e entregas dos alunos, mantendo coerência temática com as narrações e os roteiros visuais existentes. A atualização cobre perguntas de diagnóstico, foco no problema do cliente, escuta ativa, confiança, correção de erros comerciais, sequência da venda e postura profissional.
 
 **Limite de validação:** a Apostila 2 original não foi localizada entre os arquivos disponíveis. Portanto, o ajuste das fichas não substitui a conferência integral de fidelidade às fontes. A revisão cruzada definitiva das aulas 07–13 permanece pendente até obter a Apostila 2; as demais pendências do curso continuam abertas.
+
+
+## Sincronização adicional de slides — aulas 07–08 (21/10/2026)
+
+Os slides de aplicação das aulas 07 e 08 foram ajustados para refletir melhor as fichas correspondentes: a aula 07 pede perguntas abertas antes da apresentação e confirmação da necessidade; a aula 08 pede distinguir características do produto das preocupações do cliente e confirmar a necessidade antes de relacionar solução e benefício. Essa alteração melhora a coerência entre aplicação visual e ficha, mas não substitui a revisão integral dos slides contra a narração e a Apostila 2 original.
