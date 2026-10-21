@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **Controle emocional**
 
-Etapa: Mentalidade
+Etapa: Mentalidade Inquebrável — Bloco 1
 
 ## Slide 2 — Objetivo
 Ao final desta aula, o aluno deverá compreender e aplicar o seguinte princípio: Reconhecer emoções sem permitir que elas cancelem automaticamente a ação planejada.
