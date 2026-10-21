@@ -6,13 +6,18 @@
 Praticar atenção, não interrupção, interpretação e aprofundamento por perguntas.
 
 ### Aplicação prática
-Em uma conversa comercial simulada, faça perguntas e evite interromper. Depois, registre as informações realmente descobertas.
+Em uma conversa comercial simulada:
+1. Deixe a outra pessoa concluir o raciocínio sem interromper.
+2. Registre os fatos e as necessidades que ela expressar.
+3. Faça perguntas abertas para aprofundar o contexto, a importância do problema e suas consequências.
+4. Resuma com suas palavras o que entendeu e peça confirmação.
+5. Anote o que ainda precisa esclarecer antes de propor uma solução.
 
 ### Entrega
-Ficha com necessidade identificada, pontos de atenção e perguntas de aprofundamento.
+Registro da necessidade identificada, fatos relatados, perguntas de aprofundamento, resumo confirmado e dúvidas ainda abertas.
 
 ### Reflexão
-Você ouviu para compreender ou para responder?
+Você ouviu para compreender ou apenas para preparar sua resposta?
 
 ### Orientação
-A atividade deve ser realizada a partir da experiência ou de uma situação comercial simulada. O objetivo é transformar o conteúdo da aula em prática e registro de aprendizado.
+Não presuma nem invente respostas que o interlocutor não forneceu. O objetivo é praticar compreensão, não conduzir a pessoa a uma conclusão predeterminada.
