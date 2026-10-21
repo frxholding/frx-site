@@ -93,3 +93,23 @@ sem depender de intervenção manual indevida.
 **FRX Formação Profissional: ESTRUTURA COMERCIAL E PEDAGÓGICA EM ESTÁGIO AVANÇADO DE FINALIZAÇÃO.**
 
 Os principais trabalhos restantes são de validação operacional, não de criação estrutural do zero.
+
+
+## 8. Atualização de controle — Método Inquebrável Nível I (21/10/2026)
+
+### Avaliação do participante
+
+- Banco de 20 questões objetivas, estudo de caso e projeto integrador: estruturados.
+- Gabarito interno: presente; distribuição de alternativas conferida estruturalmente.
+- Documento do participante, sistema de avaliação e revisão pedagógica: atualizados para explicitar os limites de validação documental.
+- Apostila 1: localizada e conferida tematicamente para o bloco 1 (aulas 01–06).
+- Apostilas 2 e 3 originais: não localizadas no conjunto de arquivos consultado; a conferência direta das questões 07–20 permanece bloqueada.
+- Leitura-piloto, configuração real da avaliação na plataforma e aprovação dos critérios institucionais: pendentes.
+
+### Decisão de prontidão
+
+**Não declarar a avaliação finalizada ou pronta para publicação.** O banco está estruturado, mas ainda depende da conferência direta das Apostilas 2 e 3, de leitura-piloto e de configuração/teste na plataforma. Não definir carga horária, nota mínima, tentativas, recuperação ou certificação sem aprovação institucional.
+
+### Próximo passo de produção
+
+Localizar e vincular ao repositório as Apostilas 2 e 3 originais. Em seguida, revisar questão por questão (07–20), registrar a evidência temática por aula e conferir a consistência entre versão do participante, sistema de avaliação e gabarito interno.
