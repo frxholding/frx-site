@@ -242,3 +242,12 @@ Foi feita a leitura da Apostila 1 original localizada na Biblioteca e a compara�
 - Aula 06: responder o que afeta o emocional e como isso interfere nas vendas, preservando o princípio de agir apesar do desconforto sem ignorar segurança ou preparo essencial.
 
 **Limite desta revisão:** foi uma conferência temática e de aderência dos exercícios, não uma aprovação editorial integral palavra por palavra. A sincronização com os slides e fichas ainda precisa ser feita. As Apostilas 2 e 3 continuam indisponíveis entre os arquivos localizados, então a revisão cruzada das aulas 07–20 permanece bloqueada até que as fontes originais sejam encontradas.
+
+
+## Sincronização inicial de narração, slides e fichas — aulas 01–06 (21/10/2026)
+
+Após a leitura da Apostila 1, as atividades das narrações 01–06 foram ajustadas aos exercícios da fonte. Os seis roteiros de slides foram conferidos quanto ao título, à sequência visual e à referência à ficha correspondente; as fichas 01–06 foram atualizadas para acompanhar os objetivos e exercícios das narrações.
+
+**Resultado limitado desta etapa:** a primeira rodada de alinhamento estrutural e temático das aulas 01–06 foi executada. Isso não equivale à revisão palavra por palavra de toda narração nem à validação final dos slides. As Apostilas 2 e 3 não foram localizadas; portanto, a conferência de fidelidade das aulas 07–20 permanece pendente até que os arquivos originais estejam disponíveis.
+
+**Próxima tarefa:** obter as Apostilas 2 e 3, revisar os roteiros 07–20 contra as fontes e depois realizar a conferência semântica completa das 20 narrações, slides e fichas. Audiovisual, avaliação-piloto, carga horária, critérios institucionais, configuração da plataforma e teste integral do aluno continuam pendentes.
