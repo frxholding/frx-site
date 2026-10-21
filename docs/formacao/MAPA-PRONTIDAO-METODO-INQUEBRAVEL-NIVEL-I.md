@@ -263,3 +263,8 @@ As fichas de aplicação 07–13 foram revisadas para explicitar passos, evidên
 ## Sincronização adicional de slides — aulas 07–08 (21/10/2026)
 
 Os slides de aplicação das aulas 07 e 08 foram ajustados para refletir melhor as fichas correspondentes: a aula 07 pede perguntas abertas antes da apresentação e confirmação da necessidade; a aula 08 pede distinguir características do produto das preocupações do cliente e confirmar a necessidade antes de relacionar solução e benefício. Essa alteração melhora a coerência entre aplicação visual e ficha, mas não substitui a revisão integral dos slides contra a narração e a Apostila 2 original.
+
+
+## Ajustes de aplicação visual — aulas 09–13 (21/10/2026)
+
+Foram ajustadas as atividades dos slides 09, 10, 12 e 13 para ficarem mais próximas das fichas de aplicação: escuta ativa com registro de fatos e confirmação de entendimento; conexão e confiança por meio de abertura e perguntas; construção de conversa com cinco etapas; e avaliação de postura por comportamentos observáveis. A aplicação visual da aula 11 ainda precisa ser confirmada e alinhada. A alteração dos slides não substitui a revisão integral contra a Apostila 2, que continua indisponível.
