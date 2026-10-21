@@ -453,3 +453,23 @@ Na página de Formação Profissional, os três cartões passaram a exibir o pre
 O pull request nº 2 permanece aberto como rascunho e **não foi mesclado**. Ainda faltam validação visual em navegador real (desktop, tablet e celular), teste funcional do fluxo de matrícula até antes do pagamento, confirmação da publicação automática do GitHub Pages e teste final no domínio público. A auditoria web encontrou o catálogo público anterior em `https://frxholding.com.br/cursos.html`; a nova estrutura não deve ser tratada como publicada até que o merge e a verificação pós-publicação ocorram.
 
 **Próxima ação:** revisar a proposta enxuta e concluir os testes de navegador. Não publicar por meio do pull request nº 1, de escopo amplo, sem nova avaliação.
+
+
+## Verificação do site público e preservação da página inicial (21/10/2026)
+
+A página pública `https://frxholding.com.br/` foi aberta e seu menu contém um acesso para `Cursos`; o catálogo público `https://frxholding.com.br/cursos.html` foi aberto pela navegação do próprio site. Os três botões de curso foram seguidos até as páginas de produto da Hotmart:
+- Licitações do Zero — Nível 1, R$ 97,00.
+- Gestão Comercial na Prática, R$ 97,00.
+- Método Inquebrável — Nível I, R$ 97,00.
+
+**Achado importante:** o conteúdo visível na página inicial pública é diferente do arquivo `index.html` atualmente presente na branch `main`. A origem dessa divergência não está esclarecida. Para evitar regressão, restaurei `index.html` da branch `release/frx-formacao-site` para ficar igual ao arquivo de `main`, de modo que o PR nº 2 não substitua a página inicial por uma versão diferente. O PR nº 2 continua aberto como rascunho.
+
+A inspeção do CSS confirma regras responsivas nas páginas novas, mas isso não é teste visual real. O acesso direto às páginas novas no domínio não foi confirmado como disponível; não marcar como publicado.
+
+### Pendências de publicação
+1. Esclarecer a origem/branch que publica o domínio e por que a página inicial pública diverge da branch `main`.
+2. Realizar revisão visual em navegador real em desktop, tablet e celular.
+3. Validar os três caminhos de matrícula até antes do pagamento.
+4. Só então concluir a integração e repetir os testes no domínio público.
+
+Não mesclar o PR nº 1 de escopo amplo. Não tratar a formação nem os cursos como concluídos apenas porque as páginas do site estão prontas.
