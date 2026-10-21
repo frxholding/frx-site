@@ -497,3 +497,31 @@ A página inicial `index.html` foi deliberadamente mantida idêntica à versão 
 Não há evidência de execução de workflow de CI associado ao head atual do PR nº 2 (lista de execuções retornada vazia e status checks sem entradas). A configuração do GitHub Pages não pôde ser consultada por meio do endpoint disponível nesta integração. Portanto, a fonte exata de publicação e a divergência entre produção e `main` permanecem sem confirmação. A validação visual real ainda está pendente.
 
 **Próxima decisão técnica:** antes de mesclar, identificar no GitHub (Settings → Pages) a fonte de publicação e confirmar se este repositório efetivamente publica o domínio. Se a publicação vier de outro provedor ou repositório, preparar o deploy por esse caminho em vez de presumir que o merge em `main` atualiza o site.
+
+
+## Confirmação da fonte de publicação e preservação do catálogo existente (21/10/2026)
+
+A captura de tela fornecida pelo usuário em GitHub Settings → Pages confirma:
+- Fonte: Deploy from a branch.
+- Branch de publicação: `main`.
+- Pasta: `/(root)`.
+- Domínio personalizado: `frxholding.com.br`.
+- `Enforce HTTPS` ativado.
+- A interface mostrava `DNS Check in Progress` no momento da captura.
+
+Com isso, o caminho de publicação está confirmado: a integração aprovada precisa chegar à raiz da branch `main` para o GitHub Pages publicar. Ainda falta observar o estado de DNS/HTTPS depois da implantação; o aviso não prova sozinho que a publicação atual esteja quebrada.
+
+### Ajuste de segurança no PR nº 2
+
+A primeira versão da proposta substituía `cursos.html` por um redirecionamento e, portanto, removia da página o catálogo atual. Para preservar o comportamento existente, alterei a página proposta para partir do conteúdo atual da branch `main`: os três cartões, imagens, preços e links Hotmart continuam presentes, e foi acrescentado um destaque responsivo com link para `formacao.html`.
+
+A comparação atual entre `main` e `release/frx-formacao-site` confirma que o PR nº 2 altera somente cinco arquivos:
+- adiciona `formacao.html`;
+- adiciona `curso-licitacoes.html`;
+- adiciona `curso-gestao-comercial.html`;
+- adiciona `curso-metodo-inquebravavel.html`;
+- modifica `cursos.html` com 42 linhas de alteração.
+
+`index.html` não faz parte do diff. A auditoria da nova `cursos.html` confirma três links Hotmart, três imagens de curso e o novo link para a página de Formação Profissional.
+
+O PR nº 2 segue aberto como rascunho, não mesclado. Faltam testes visuais em navegador real, testes funcionais dos três fluxos de matrícula e verificação do domínio após a publicação. Não marcar a publicação como concluída antes dessas etapas.
