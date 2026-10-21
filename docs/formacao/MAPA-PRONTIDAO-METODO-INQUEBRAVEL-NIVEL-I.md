@@ -222,3 +222,10 @@ Os arquivos foram atualizados diretamente na branch `feature/frx-formacao-profis
 7. Configurar a plataforma, anexar os materiais e testar a jornada integral do aluno.
 
 **Estado atualizado:** primeira versão expandida dos roteiros de fala 01–20 presente no repositório. A revisão comparativa integral com as apostilas ainda não foi concluída; o curso permanece em produção e não deve ser declarado concluído.
+
+
+## Controle de fontes — disponibilidade das apostilas (21/10/2026)
+
+Foi realizada nova busca na branch do repositório e na Biblioteca de arquivos acessível nesta conversa. Foi localizado o arquivo `APOSTILA 1.docx`; não foram localizadas cópias identificáveis das Apostilas 2 — Fundamentos de Vendas — e 3 — Primeiras Técnicas de Vendas — entre os arquivos pesquisados. O repositório contém os roteiros, slides e materiais de controle, mas não as três apostilas originais como arquivos-fonte identificáveis.
+
+**Consequência:** não registrar a comparação linha a linha com as três apostilas como concluída. Os roteiros 01–20 foram expandidos com base na estrutura pedagógica existente e nas referências temáticas registradas, mas a validação integral de fidelidade das aulas 07–20 depende de localizar ou disponibilizar as Apostilas 2 e 3 originais. Após obter as fontes, conferir também a Apostila 1 contra as aulas 01–06, corrigindo divergências antes da aprovação editorial final.
