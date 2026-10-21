@@ -3,16 +3,21 @@
 ## Aula 05 — Identidade do vendedor
 
 ### Objetivo
-Perceber a diferença entre tentar vender e assumir uma identidade profissional.
+Perceber a diferença entre tentar vender ocasionalmente e assumir uma identidade profissional sustentada por atitudes consistentes.
 
 ### Aplicação prática
-Escreva duas descrições: 'eu estou tentando vender' e 'eu sou um profissional de vendas'. Compare postura, constância e execução.
+Complete as frases:
+- **Eu sou um vendedor que…**
+- **Meu padrão é…**
+- **Eu não aceito mais…**
+
+Depois, compare “estou tentando vender” com “sou um profissional de vendas”. Identifique como cada postura aparece no preparo, na constância, no acompanhamento e na execução. Certifique-se de que suas respostas descrevem comportamentos profissionais e respeitosos, sem justificar pressão ou promessas que não pode cumprir.
 
 ### Entrega
-Quadro comparativo com atitudes que devem permanecer na identidade profissional.
+Quadro com as três frases, uma comparação entre as duas posturas e pelo menos duas atitudes observáveis que pretende praticar.
 
 ### Reflexão
 Qual comportamento precisa deixar de ser ocasional e tornar-se padrão?
 
 ### Orientação
-A atividade deve ser realizada a partir da experiência ou de uma situação comercial simulada. O objetivo é transformar o conteúdo da aula em prática e registro de aprendizado.
+A atividade pode partir de uma experiência real ou de uma situação comercial simulada. O objetivo é transformar a identidade profissional em ações observáveis.
