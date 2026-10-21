@@ -30,7 +30,7 @@ O cliente diz “Está caro”. Pergunte com respeito com o que está comparando
 **Ouvir → validar → responder. Entenda a dúvida antes de escolher a resposta.**
 
 ## Slide 8 — Atividade
-Escreva uma resposta à objeção “Está caro” que inclua uma pergunta de esclarecimento.
+Escolha uma objeção comum, como preço ou adequação, e escreva um diálogo simulado com três etapas identificadas: ouvir sem interromper, validar a preocupação e responder com informações pertinentes.
 
 Usar a Ficha de Aplicação da Aula 18 como apoio principal da atividade.
 
