@@ -341,3 +341,19 @@ Com este registro, as auditorias internas de consistência estão documentadas p
 Consulta direta aos três diretórios confirmou os 60 artefatos esperados: 20 arquivos de slides, 20 roteiros-mestres e 20 fichas de aplicação, numerados de 01 a 20, sem arquivos faltantes segundo os padrões de nomenclatura. O relatório de conferência está em [Verificação estrutural consolidada](VERIFICACAO-ESTRUTURAL-CONSOLIDADA-METODO-INQUEBRAVEL-NIVEL-I.md).
 
 A existência e a numeração completa dos arquivos não comprovam fidelidade integral às apostilas, validação audiovisual, duração oficial, funcionamento da plataforma ou aprovação dos critérios de avaliação e certificação. Essas pendências permanecem abertas.
+
+## Ordem de execução revisada — prioridade de incorporação ao site
+
+Por decisão de planejamento, a conferência integral dos roteiros, slides e avaliação contra as Apostilas 2 e 3 fica **adiada para uma etapa posterior à incorporação da nova área de Formação Profissional ao site FRX**. Essa pendência não deve bloquear o trabalho de integração do site.
+
+### Prioridades imediatas
+1. Revisar a página de Formação Profissional e sua integração com a navegação geral do site FRX.
+2. Conferir os links entre catálogo de cursos, páginas individuais, chamadas para matrícula e plataformas externas.
+3. Testar responsividade, acessibilidade básica, metadados e consistência de marca nas páginas relacionadas.
+4. Manter o estado do curso transparente: materiais estruturados, mas validação integral das apostilas, conferência semântica audiovisual, critérios institucionais e teste ponta a ponta ainda pendentes.
+
+### Etapa posterior à integração do site
+- Retomar a comparação integral com as Apostilas 2 e 3 quando os arquivos estiverem disponíveis.
+- Registrar correções decorrentes dessa comparação e revalidar os materiais afetados.
+
+**Importante:** esta alteração define a ordem do trabalho; não declara o curso concluído nem autoriza, por si só, a publicação definitiva ou a certificação.
