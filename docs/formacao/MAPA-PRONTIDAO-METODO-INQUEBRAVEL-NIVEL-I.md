@@ -357,3 +357,13 @@ Por decisão de planejamento, a conferência integral dos roteiros, slides e ava
 - Registrar correções decorrentes dessa comparação e revalidar os materiais afetados.
 
 **Importante:** esta alteração define a ordem do trabalho; não declara o curso concluído nem autoriza, por si só, a publicação definitiva ou a certificação.
+
+## Atualização — revisão inicial da integração do site
+
+- Conferidas as ligações internas e âncoras das páginas `formacao.html`, `curso-licitacoes.html`, `curso-gestao-comercial.html` e `curso-metodo-inquebravavel.html`; não foram encontrados destinos de âncora inexistentes nessas quatro páginas.
+- Conferidos os links de navegação entre a página de Formação Profissional e as três páginas individuais dos cursos.
+- Removida uma segunda meta description redundante da página inicial `index.html`, mantendo a descrição principal alinhada ao posicionamento institucional da FRX.
+- A verificação foi estática, com leitura dos arquivos do repositório. Não comprova ainda o funcionamento dos links externos de matrícula, a renderização em navegadores/dispositivos reais, nem a publicação em produção.
+
+### Próxima prioridade
+Executar a revisão visual e funcional da navegação responsiva, conferir os recursos de imagem e validar a jornada de clique até as páginas de matrícula. Depois, registrar o resultado antes de considerar a integração pronta.
