@@ -374,3 +374,9 @@ Executar a revisão visual e funcional da navegação responsiva, conferir os re
 - Ajustada a chamada principal da página para evitar a repetição de “conhecimento” e comunicar com mais clareza a proposta da FRX.
 - Confirmado por leitura do arquivo atualizado que a regra antiga que ocultava os links foi removida e que as regras responsivas novas estão presentes.
 - Limitação: validação feita por inspeção estática do código; ainda é necessário visualizar a página em navegador real em larguras de desktop, tablet e celular.
+
+## Atualização — conferência de recursos referenciados
+
+- Confirmada a existência no diretório raiz do repositório dos recursos usados na página de Formação Profissional: `logo.png`, `curso-licitacoes.png`, `curso-gestao-comercial.png` e `curso-metodo-inquebravel.png`.
+- Confirmada também a existência dos arquivos de capa citados na página inicial: `livro1.png`, `livro2.png`, `livro3.png`, `livro4.png`, `livro5.png` e `livro8.png`.
+- As imagens da página inicial e da Formação Profissional inspecionadas possuem texto alternativo (`alt`). A existência dos arquivos não substitui a inspeção visual de corte, proporção, legibilidade ou qualidade no navegador.
