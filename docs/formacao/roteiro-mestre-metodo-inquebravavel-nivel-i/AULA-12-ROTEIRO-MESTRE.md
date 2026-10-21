@@ -4,33 +4,31 @@
 Fundamentos
 
 ## Foco
-Abordagem, conexão, diagnóstico, apresentação e decisão
+Sequência das etapas comerciais
 
 ## Objetivo de aprendizagem
-Reconhecer e respeitar a sequência de etapas da venda apresentada na Apostila 2.
+Reconhecer e aplicar a sequência abordagem, conexão, diagnóstico, apresentação e decisão.
 
 ## Roteiro de fala — narração-base
 
-Nesta aula, vamos organizar as etapas da venda. A Apostila 2 apresenta a sequência: abordagem, conexão, diagnóstico, apresentação e decisão. Essa estrutura ajuda a lembrar que uma conversa comercial tem etapas relacionadas e que pular diretamente para a apresentação pode comprometer o entendimento.
+Nesta aula, vamos trabalhar a estrutura da venda apresentada na Apostila 2: abordagem, conexão, diagnóstico, apresentação e decisão. A sequência organiza a conversa para que a apresentação da solução seja consequência do entendimento, e não o primeiro movimento automático.
 
-A abordagem abre a conversa de maneira apropriada. Em seguida, a conexão ajuda a criar espaço para que o cliente fale e para que o vendedor demonstre atenção. O diagnóstico procura compreender a situação, o problema real e o impacto que ele tem. Só então a apresentação deve mostrar como a solução se relaciona com a necessidade identificada.
+A abordagem abre a conversa de maneira adequada. A conexão cria espaço para uma troca genuína e respeitosa. No diagnóstico, o vendedor procura compreender a situação, o problema e seu impacto. Só depois disso deve apresentar uma solução ligada ao que foi identificado. Por fim, conduz a conversa para uma decisão ou para um próximo passo claro.
 
-A etapa de decisão é o momento de esclarecer o próximo passo e ajudar o cliente a avaliar se deseja avançar. Não significa forçar uma resposta positiva. Significa não deixar a conversa sem direção quando já existe informação suficiente para discutir a continuidade.
+Pular etapas pode gerar problemas. Se apresentamos o produto antes de diagnosticar, podemos falar de benefícios que não são relevantes. Se não criamos espaço para entender as dúvidas, podemos interpretar hesitação como falta de interesse. Se encerramos sem esclarecer o próximo passo, ambas as partes podem sair sem saber como a conversa continuará.
 
-Imagine um vendedor que começa a conversa apresentando características e preços antes de saber por que o cliente procurou a empresa. Mesmo que o produto tenha qualidade, ele pode não responder à preocupação que motivou o contato. Ao respeitar a sequência, o profissional cria condições para entender primeiro e apresentar depois.
+A estrutura não deve ser usada como um roteiro rígido que impede a adaptação. Algumas conversas exigem mais esclarecimentos, e outras podem terminar sem uma compra. O objetivo é não confundir rapidez com qualidade: cada etapa precisa cumprir sua função.
 
-A estrutura não deve ser aplicada de maneira mecânica, como se toda conversa fosse idêntica. Ela funciona como uma orientação para não esquecer o essencial: abrir a conversa, construir conexão, diagnosticar, apresentar de forma pertinente e esclarecer a decisão ou o próximo passo.
-
-Na atividade, analise uma conversa e localize as etapas. Se perceber que pulou o diagnóstico ou apresentou cedo demais, registre uma pergunta que poderia ter feito antes de oferecer a solução.
+Pense em uma conversa em que o vendedor começa falando de preço e características antes de compreender o cliente. Identifique qual etapa foi antecipada e qual informação deveria ter sido investigada primeiro. Essa análise ajuda a organizar melhor a próxima conversa.
 
 ## Aplicação prática
-Descreva uma conversa comercial recente e identifique em qual etapa você estava. Registre se alguma etapa foi pulada e o que faria diferente.
+Descreva uma venda e identifique o que faria em cada etapa: abordagem, conexão, diagnóstico, apresentação e decisão.
 
 ## Síntese
-A venda profissional começa pela compreensão do cliente e exige escuta, clareza, coerência e respeito à decisão. A técnica deve ajudar a conduzir a conversa, não substituir o entendimento.
+Abordagem → conexão → diagnóstico → apresentação → decisão. Respeitar a sequência ajuda a manter a apresentação ligada à necessidade identificada.
 
 ## Orientação de produção
-Usar a Apostila 2 — Fundamentos de Vendas como fonte principal. Os exemplos são ilustrações didáticas. Os slides devem apoiar a fala, sem substituir o conteúdo-base. Não associar vídeo existente sem conferência semântica.
+Usar a Apostila 2 — Fundamentos de Vendas como fonte principal. Os exemplos são ilustrações didáticas. Os slides apoiam a fala e não substituem o conteúdo-base. Não associar vídeo existente sem conferência semântica.
 
 ## Fonte e limite de escopo
 Roteiro baseado no capítulo correspondente da Apostila 2. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
