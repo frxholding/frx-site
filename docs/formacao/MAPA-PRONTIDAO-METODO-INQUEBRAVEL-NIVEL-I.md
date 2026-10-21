@@ -397,3 +397,19 @@ Foi realizada nova inspeção estática da página inicial, da página de Forma�
 **Resultado:** os caminhos locais e os destinos de matrícula estão presentes no código inspecionado. Esta verificação não confirma que o checkout externo esteja ativo, que a compra possa ser concluída, nem que a experiência visual funcione corretamente em navegador/dispositivos reais. Esses testes permanecem pendentes.
 
 **Próxima prioridade de integração:** realizar teste visual em desktop, tablet e celular; depois testar cada chamada externa e registrar se o destino abre o produto correto. Não publicar nem declarar a integração pronta apenas com base nesta auditoria estática.
+
+
+## Auditoria estática complementar — metadados e estrutura das páginas (21/10/2026)
+
+Foram inspecionadas as páginas `index.html`, `formacao.html`, `curso-licitacoes.html`, `curso-gestao-comercial.html`, `curso-metodo-inquebravavel.html` e o redirecionador `cursos.html`.
+
+- As páginas inspecionadas apresentam título e uma meta description cada.
+- Não foram encontrados IDs duplicados nas páginas analisadas.
+- Todas as imagens encontradas em `index.html` (7) e `formacao.html` (4) possuem atributo `alt`.
+- Não foram encontrados caminhos locais ausentes nos arquivos da raiz para as referências locais identificadas nas páginas analisadas.
+- As páginas individuais dos três cursos possuem chamadas para os destinos Hotmart registrados nas rodadas anteriores.
+
+**Escopo e limites:** auditoria estática do código da branch, não teste de renderização, acessibilidade completa, funcionamento de checkout ou compra real. O pull request nº 1 para a integração continua aberto e não foi mesclado; portanto, as mudanças desta branch não devem ser tratadas como publicadas no site de produção.
+
+### Próximo passo
+Prosseguir com validação funcional em navegador e conferir os destinos de matrícula externamente. Se o ambiente disponível não permitir controlar um navegador ou concluir o fluxo externo, registrar isso como pendência em vez de inferir sucesso.
