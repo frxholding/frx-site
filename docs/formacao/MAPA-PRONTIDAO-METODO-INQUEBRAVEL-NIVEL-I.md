@@ -187,3 +187,12 @@ A expansão da narração foi realizada nesta rodada para as aulas 10–20. As a
 5. Executar leitura-piloto da avaliação, formalizar critérios institucionais e carga horária, configurar a plataforma e testar a jornada integral do aluno.
 
 **Estado atualizado:** narrações expandidas para as aulas 10–20; o curso continua em produção e não está declarado concluído.
+
+
+## Continuidade — aula 09 e sequência de roteiros (21/10/2026)
+
+A aula 09 — Escuta ativa — também foi expandida para narração de gravação, incluindo distinção entre ouvir e escutar ativamente, perguntas abertas, confirmação do entendimento, atividade prática e síntese de encerramento.
+
+**Cobertura de expansão desta rodada:** aulas 09–20. As aulas 01–08 ainda precisam passar pela mesma padronização/expansão e, depois, todas as 20 devem ser comparadas integralmente com as três apostilas. A expansão melhora a condição de produção, mas não constitui aprovação editorial final nem validação audiovisual.
+
+A próxima prioridade é revisar as aulas 01–08 no mesmo padrão e, em seguida, executar a revisão cruzada dos 20 roteiros com apostilas, slides e fichas de aplicação. As pendências de audiovisual, avaliação-piloto, carga horária, critérios institucionais, configuração da plataforma e teste completo permanecem abertas.
