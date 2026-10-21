@@ -164,3 +164,26 @@ Os arquivos reais foram atualizados na branch `feature/frx-formacao-profissional
 Continuar com as aulas 17–20 e, depois, executar a revisão cruzada dos 20 roteiros e slides contra as apostilas. A expansão da narração não equivale à validação editorial final. A conferência audiovisual, a validação-piloto da avaliação, a definição da carga horária, os critérios institucionais e os testes reais da plataforma continuam pendentes.
 
 **Estado atualizado:** roteiros de fala expandidos nesta rodada: aulas 10–16. Curso ainda em produção; não declarar conclusão enquanto houver pendências.
+
+
+## Continuidade de produção — roteiros das aulas 17–20 (21/10/2026)
+
+Foram ampliados os roteiros de fala para gravação das aulas finais do Bloco 3 — Primeiras Técnicas de Vendas:
+- Aula 17 — Apresentação: ligar solução e necessidade;
+- Aula 18 — Objeções: ouvir, validar e responder;
+- Aula 19 — Fechamento: conduzir o próximo passo;
+- Aula 20 — O ciclo da evolução.
+
+Os quatro arquivos foram atualizados na branch `feature/frx-formacao-profissional`, com narração expandida, objetivo de aprendizagem, atividade prática, síntese e ressalvas de controle editorial.
+
+### Estado da produção dos roteiros de fala
+A expansão da narração foi realizada nesta rodada para as aulas 10–20. As aulas 01–09 permanecem como versões anteriores e ainda precisam passar pela mesma revisão editorial de produção. Este registro não significa que os 20 roteiros estejam validados contra as apostilas: a comparação integral, a sincronização com slides e fichas, a revisão de linguagem e a checagem de lacunas/repetições continuam necessárias.
+
+### Próximas tarefas prioritárias
+1. Revisar e, quando necessário, expandir as aulas 01–09 no mesmo padrão de produção.
+2. Comparar os 20 roteiros com as três apostilas originais, registrando divergências e ajustes.
+3. Conferir os 20 roteiros de slides e fichas de aplicação contra a versão de fala revisada.
+4. Conferir semanticamente os audiovisuais, sem atribuir arquivos por nome ou duração.
+5. Executar leitura-piloto da avaliação, formalizar critérios institucionais e carga horária, configurar a plataforma e testar a jornada integral do aluno.
+
+**Estado atualizado:** narrações expandidas para as aulas 10–20; o curso continua em produção e não está declarado concluído.
