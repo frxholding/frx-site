@@ -313,3 +313,10 @@ As fichas de aplicação foram aprofundadas para alinhar atividades e evidência
 - Aula 20: transforma o ciclo em plano observável com ação, fatos, distinção entre fato e interpretação, ajuste e registro do aprendizado.
 
 Estas melhorias são revisão editorial e pedagógica interna dos materiais existentes. Não representam validação integral contra as Apostilas 2 e 3, leitura-piloto com participantes nem conferência do audiovisual. Esses itens permanecem pendentes.
+
+
+## Auditoria cruzada interna das aulas 14–20 (21/10/2026)
+
+Foi concluída uma comparação interna entre slides, roteiros-mestres e fichas de aplicação das aulas 14 a 20. A matriz registrou correspondência consistente entre tema, objetivo, atividade e fechamento nos três artefatos para cada aula. O registro detalhado está em [Auditoria cruzada — Aulas 14 a 20](AUDITORIA-CRUZADA-AULAS-14-A-20-METODO-INQUEBRAVEL.md).
+
+**Limite da conclusão:** esta é uma checagem de coerência entre materiais de produção; não é validação de fidelidade à Apostila 3, nem validação dos vídeos. A comparação integral com a Apostila 3, a conferência semântica do audiovisual e a leitura-piloto continuam pendentes. A prontidão geral não muda para “publicável” com base apenas nesta auditoria.
