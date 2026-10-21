@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **Erros que destroem vendas**
 
-Etapa: Fundamentos
+Etapa: Fundamentos de Vendas — Bloco 2
 
 ## Slide 2 — Objetivo
 Ao final desta aula, o aluno deverá compreender e aplicar este princípio: falar demais, não entender, pressionar e focar apenas no produto prejudicam a venda.
