@@ -268,3 +268,8 @@ Os slides de aplicação das aulas 07 e 08 foram ajustados para refletir melhor 
 ## Ajustes de aplicação visual — aulas 09–13 (21/10/2026)
 
 Foram ajustadas as atividades dos slides 09, 10, 12 e 13 para ficarem mais próximas das fichas de aplicação: escuta ativa com registro de fatos e confirmação de entendimento; conexão e confiança por meio de abertura e perguntas; construção de conversa com cinco etapas; e avaliação de postura por comportamentos observáveis. A aplicação visual da aula 11 ainda precisa ser confirmada e alinhada. A alteração dos slides não substitui a revisão integral contra a Apostila 2, que continua indisponível.
+
+
+## Ajustes adicionais de slides — aulas 11, 14, 15, 18 e 19 (21/10/2026)
+
+Foram atualizadas as atividades visuais da aula 11 para identificar comportamento, efeito provável e pergunta de esclarecimento; da aula 14 para produzir duas versões de abordagem; da aula 15 para organizar perguntas sobre situação atual, dificuldades e melhorias; da aula 18 para praticar ouvir, validar e responder a uma objeção; e da aula 19 para trabalhar confirmação da proposta, próximo passo e respeito à recusa. A revisão integral contra as Apostilas 2 e 3 segue pendente.
