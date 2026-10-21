@@ -35,7 +35,7 @@ Escolha uma objeção comum, como preço ou adequação, e escreva um diálogo s
 Usar a Ficha de Aplicação da Aula 18 como apoio principal da atividade.
 
 ## Slide 9 — Fechamento
-Retomar o princípio central e pedir ao aluno que identifique uma ação concreta para aplicar na próxima conversa comercial.
+Leia seu diálogo simulado e confira se a resposta só aparece depois de ouvir e validar a preocupação. Sublinhe qualquer afirmação que dependa de informação ainda não confirmada.
 
 ## Nota de produção
 Este roteiro visual foi alinhado à narração-base da aula e deve permanecer fiel à Apostila 3 — Primeiras Técnicas de Vendas. Os exemplos são ilustrações didáticas. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
