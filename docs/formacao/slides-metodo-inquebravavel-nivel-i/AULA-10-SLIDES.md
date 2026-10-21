@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **Conexão e confiança**
 
-Etapa: Fundamentos
+Etapa: Fundamentos de Vendas — Bloco 2
 
 ## Slide 2 — Objetivo
 Ao final desta aula, o aluno deverá compreender e aplicar o seguinte princípio: A conexão e o entendimento ajudam a construir confiança antes da venda.
