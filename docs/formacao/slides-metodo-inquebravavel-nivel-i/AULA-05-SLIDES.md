@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **Identidade do vendedor**
 
-Etapa: Mentalidade
+Etapa: Mentalidade Inquebrável — Bloco 1
 
 ## Slide 2 — Objetivo
 Ao final desta aula, o aluno deverá compreender e aplicar o seguinte princípio: A identidade profissional aparece em atitudes consistentes, não apenas em palavras.
