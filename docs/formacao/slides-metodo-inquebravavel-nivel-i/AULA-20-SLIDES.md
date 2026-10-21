@@ -35,7 +35,7 @@ Defina uma abordagem para testar, o que observará e qual ajuste poderá experim
 Usar a Ficha de Aplicação da Aula 20 como apoio principal da atividade.
 
 ## Slide 9 — Fechamento
-Retomar o princípio central e pedir ao aluno que identifique uma ação concreta para aplicar na próxima conversa comercial.
+Defina uma ação específica para testar, um fato observável para registrar e um ajuste para a próxima tentativa. Diferencie o que aconteceu da interpretação que você fez.
 
 ## Nota de produção
 Este roteiro visual foi alinhado à narração-base da aula e deve permanecer fiel à Apostila 3 — Primeiras Técnicas de Vendas. Os exemplos são ilustrações didáticas. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
