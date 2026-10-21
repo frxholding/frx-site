@@ -26,7 +26,7 @@ Demonstre interesse genuíno pelo contexto do cliente. Ouça antes de apresentar
 Confirme o que o cliente precisa, esclareça dúvidas e mantenha coerência entre o que promete e o que pode entregar.
 
 ## Slide 6 — Aplicação
-Compare duas situações: numa, o vendedor fala de preço imediatamente; noutra, escuta a necessidade, confirma o entendimento e responde com clareza. Que comportamento ajuda a construir confiança?
+Compare duas aberturas comerciais. Identifique sinais de interesse genuíno, atenção, clareza e coerência. Depois escreva uma abertura e duas perguntas de compreensão, evitando promessas que não possa garantir.
 
 ## Slide 7 — Síntese
 **Conexão → entendimento → confiança → venda**
