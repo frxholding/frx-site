@@ -1,83 +1,50 @@
 # Revisão pedagógica do banco de questões
 ## Método Inquebrável — Nível I
 
-**Escopo:** conferência das 20 questões objetivas contra as três apostilas-fonte disponíveis.  
-**Resultado:** alinhamento temático geral confirmado; banco ainda requer aprimoramento de qualidade antes de ser tratado como avaliação definitiva.
+**Escopo:** revisão estrutural e temática das 20 questões, com conferência direta limitada à Apostila 1 localizada para as aulas 01–06.  
+**Resultado:** a organização do banco e o gabarito foram verificados estruturalmente; a validação integral contra as três apostilas originais ainda não está concluída.
 
-## 1. Conferência por bloco
+## 1. Situação das fontes
 
-### Bloco 1 — Mentalidade Inquebrável (questões 1 a 6)
+- **Apostila 1 — Mentalidade Inquebrável:** localizada. Os temas das aulas 01–06 e suas atividades foram comparados tematicamente com a fonte.
+- **Apostila 2 — Fundamentos de Vendas:** original não localizado entre os arquivos disponíveis.
+- **Apostila 3 — Primeiras Técnicas de Vendas:** original não localizado entre os arquivos disponíveis.
 
-| Questão | Conteúdo verificado na fonte | Resultado |
-|---|---|---|
-| 01 | O vendedor nasce ao assumir que precisa fazer acontecer. | Alinhada |
-| 02 | Após uma venda perdida, perguntar o que poderia ter feito diferente. | Alinhada |
-| 03 | Diante da rejeição, perguntar o que pesou na decisão e aprender. | Alinhada |
-| 04 | Motivação oscila; disciplina sustenta constância e ação diária. | Alinhada |
-| 05 | Passar de “estou tentando vender” para “sou um profissional de vendas”. | Alinhada |
-| 06 | Agir mesmo sentindo ansiedade, insegurança, frustração ou pressão. | Alinhada; enunciado reescrito para evitar pergunta negativa |
+As questões 07–20 foram construídas com base nos roteiros e materiais de trabalho existentes, mas isso não equivale à conferência direta com as apostilas originais. Não devem ser descritas como validadas integralmente contra as três fontes até que os documentos 2 e 3 sejam disponibilizados e revisados.
 
-### Bloco 2 — Fundamentos de Vendas (questões 7 a 13)
+## 2. Conferência estrutural do banco
 
-| Questão | Conteúdo verificado na fonte | Resultado |
-|---|---|---|
-| 07 | Vender é entender, diagnosticar e ajudar alguém a decidir. | Alinhada |
-| 08 | O vendedor tende a pensar no produto; o cliente, no problema e na solução. | Alinhada |
-| 09 | Escuta ativa envolve atenção, não interromper, interpretar e aprofundar. | Alinhada |
-| 10 | Sequência conexão → entendimento → confiança → venda. | Alinhada |
-| 11 | Falar demais é um dos erros destacados. | Alinhada |
-| 12 | Fluxo: abordagem → conexão → diagnóstico → apresentação → decisão. | Alinhada |
-| 13 | A postura do vendedor é percebida antes ou além das palavras. | Alinhada |
+O banco está organizado em 20 questões:
+- Bloco 1 — Mentalidade Inquebrável: questões 01–06.
+- Bloco 2 — Fundamentos de Vendas: questões 07–13.
+- Bloco 3 — Primeiras Técnicas de Vendas: questões 14–20.
 
-### Bloco 3 — Primeiras Técnicas de Vendas (questões 14 a 20)
+O gabarito interno registra 20 respostas e distribuição equilibrada: A = 5, B = 5, C = 5, D = 5. A distribuição equilibrada é uma verificação estrutural, não uma prova de validade pedagógica.
 
-| Questão | Conteúdo verificado na fonte | Resultado |
-|---|---|---|
-| 14 | Abordagem: cumprimento → contexto → abertura. | Alinhada |
-| 15 | Começar pelo cliente, fazendo perguntas, em vez de iniciar por produto, preço ou proposta. | Alinhada |
-| 16 | Diagnóstico: situação atual, problema real e impacto. | Alinhada |
-| 17 | Apresentação: retomar problema → apresentar solução → mostrar resultado. | Alinhada |
-| 18 | Tratar objeção: ouvir → validar → responder. | Alinhada |
-| 19 | Conduzir o próximo passo com perguntas simples, sem pressão indevida. | Alinhada |
-| 20 | Ciclo: tentar → errar → ajustar → melhorar. | Alinhada |
+## 3. Revisão de qualidade
 
-## 2. Segunda rodada: contextualização e distratores
+Pontos a revisar antes de tratar o banco como avaliação definitiva:
 
-Foram reescritas as 20 questões com situações curtas de vendas e alternativas incorretas mais relacionadas aos erros que as apostilas procuram corrigir. A segunda rodada contextualizou as questões 02, 05, 06, 10, 11, 13, 15, 17, 19 e 20, mantendo os conceitos e a terminologia das fontes. A intenção é avaliar a escolha de conduta, e não apenas o reconhecimento de uma frase.
+1. **Distratores:** algumas alternativas incorretas podem ser demasiadamente evidentes.
+2. **Memorização:** parte das questões avalia reconhecimento de princípios; a aplicação prática precisa continuar sendo observada nas atividades, estudo de caso e projeto.
+3. **Contextualização:** manter situações de vendas que exijam escolha de conduta, evitando apenas repetição de definições.
+4. **Vocabulário:** manter termos próximos às fontes originais e identificar separadamente qualquer complementação externa.
+5. **Uma única resposta correta:** verificar cada item após a revisão das apostilas 2 e 3.
+6. **Correspondência dos arquivos:** comparar a versão do participante, o sistema de avaliação e o gabarito interno após qualquer edição.
+7. **Leitura-piloto:** se possível, testar a clareza dos enunciados com leitores que representem o público do curso.
 
-As novas formulações foram mantidas alinhadas aos princípios explícitos das fontes: assumir responsabilidade; aprender com rejeição; agir com disciplina; diagnosticar antes de apresentar; priorizar o problema do cliente; praticar escuta ativa; respeitar o fluxo da venda; abrir a conversa com contexto; investigar situação, problema e impacto; e ouvir, validar e responder a objeções.
+## 4. Limites desta revisão
 
-A distribuição de respostas corretas foi preservada: A = 5, B = 5, C = 5, D = 5. Após a atualização, foi conferido que o banco contém 20 questões e 20 marcações de gabarito. A versão do participante foi atualizada em paralelo e permanece sem marcações de resposta.
+Esta revisão não constitui validação estatística da prova, teste com alunos, aprovação institucional da política de avaliação nem definição de nota mínima, recuperação, carga horária ou certificação. A correspondência integral das questões 07–20 com as fontes originais continua pendente.
 
-## 3. Ajuste realizado
+## 5. Próximas ações
 
-A questão 06 foi reformulada. O enunciado anterior usava uma construção negativa (“o vendedor não precisa”), que poderia levar o participante a errar por interpretação do enunciado em vez de demonstrar compreensão do conteúdo. A nova formulação pergunta qual orientação resume o capítulo e preserva a alternativa D como resposta correta.
+- Obter as Apostilas 2 e 3 originais.
+- Conferir diretamente as questões 07–20 contra as fontes.
+- Fazer leitura final de consistência e legibilidade das 20 questões.
+- Conferir a versão do participante e o gabarito após a revisão.
+- Submeter a avaliação a uma leitura-piloto.
+- Aprovar institucionalmente pontuação, tentativas e regra de conclusão.
+- Configurar e testar a avaliação na plataforma.
 
-## 4. Observações de qualidade
-
-A conferência confirma que os conceitos cobrados aparecem nas apostilas. Isso não significa que o banco esteja pedagogicamente finalizado.
-
-Pontos que merecem melhoria na próxima revisão:
-
-1. **Distratores:** algumas alternativas incorretas são muito evidentemente erradas, reduzindo o poder de discriminação da questão.
-2. **Memorização:** muitas questões perguntam diretamente a definição ou sequência apresentada. Isso é adequado para uma verificação inicial, mas não basta para avaliar aplicação.
-3. **Contextualização:** recomenda-se substituir gradualmente parte das perguntas de reconhecimento por pequenas situações comerciais em que o aluno escolha a conduta mais coerente com a apostila.
-4. **Vocabulário:** manter termos próximos aos usados nas fontes e evitar introduzir modelos ou conceitos externos sem identificá-los como complementação.
-5. **Aplicação:** preservar o estudo de caso e o projeto integrador como instrumentos complementares; a prova objetiva, sozinha, não mede toda a competência prática proposta pelo curso.
-
-## 5. Distribuição do gabarito
-
-O banco continua com 20 questões e a distribuição original permanece equilibrada: A = 5, B = 5, C = 5, D = 5.
-
-## 6. Limites desta revisão
-
-Esta etapa verifica a correspondência entre os enunciados e os conceitos encontrados nas três apostilas. Não constitui validação estatística da prova, teste com alunos, aprovação institucional da política de avaliação nem definição de nota mínima, recuperação, carga horária ou certificação.
-
-## 7. Próximas ações recomendadas
-
-- Fazer uma leitura final de consistência e legibilidade das 20 questões.
-- Conferir a correspondência entre banco, versão do participante e gabarito interno após as alterações.
-- Submeter a avaliação a uma leitura-piloto, se possível, antes de tratá-la como instrumento definitivo.
-- Só então configurar e testar a avaliação na plataforma.
-
-**Status:** 20 questões contextualizadas; gabarito preservado e conferido estruturalmente; falta leitura-piloto/validação pedagógica externa e configuração na plataforma.
+**Status:** banco de 20 questões estruturado e gabarito conferido estruturalmente; validação documental completa, leitura-piloto e configuração na plataforma permanecem pendentes.
