@@ -278,3 +278,13 @@ Foram atualizadas as atividades visuais da aula 11 para identificar comportament
 ## Correção de controle documental da avaliação (21/10/2026)
 
 Foram corrigidos os documentos de avaliação para refletir o estado real das fontes: a Apostila 1 foi localizada e conferida tematicamente nas aulas 01–06; as Apostilas 2 e 3 originais ainda não foram localizadas. Assim, não se deve declarar as questões 07–20 validadas diretamente contra as apostilas originais. O banco de 20 questões e o gabarito permanecem estruturados, mas a revisão direta das fontes, a leitura-piloto, a configuração na plataforma e a aprovação institucional dos critérios continuam pendentes.
+
+
+## Padronização editorial dos rótulos de etapa nos slides (21/10/2026)
+
+Foram uniformizados os rótulos de etapa nos 20 roteiros visuais, para que cada aula identifique explicitamente seu bloco pedagógico:
+- Aulas 01–06: **Mentalidade Inquebrável — Bloco 1**.
+- Aulas 07–13: **Fundamentos de Vendas — Bloco 2**.
+- Aulas 14–20: **Primeiras Técnicas de Vendas — Bloco 3**.
+
+A alteração é de consistência editorial e navegação; não substitui a revisão cruzada integral com as apostilas originais nem a validação audiovisual. Os demais gates de prontidão permanecem em aberto conforme registrado acima.
