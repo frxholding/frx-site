@@ -25,17 +25,17 @@ Outro ponto importante é que assumir a identidade de vendedor não significa co
 
 Para tornar essa identidade concreta, pense em comportamentos que alguém poderia observar. Você se prepara antes de entrar em contato? Mantém uma rotina possível? Escuta sem interromper? Registra os compromissos assumidos? Confirma informações antes de prometer? Esses comportamentos são evidências práticas de uma identidade profissional.
 
-Na atividade, escreva como costuma descrever sua atuação comercial. Depois, formule uma declaração de identidade profissional que faça sentido para você e associe-a a duas atitudes observáveis. Evite frases genéricas como “vou ser melhor”. Prefira compromissos concretos, como preparar os contatos antes de iniciar a rotina ou revisar uma conversa para identificar um aprendizado.
+Na atividade, complete as três frases propostas pela Apostila 1: “Eu sou um vendedor que…”, “Meu padrão é…” e “Eu não aceito mais…”. Em seguida, confira se cada frase corresponde a comportamentos concretos e profissionais, como preparo, constância, escuta e respeito ao cliente. Transforme ao menos uma delas em uma ação observável para a próxima semana.
 
 Ao revisar, pergunte se suas atitudes realmente correspondem à identidade que deseja construir. Se você afirma que valoriza o cliente, por exemplo, sua prática precisa incluir escuta, clareza e respeito. A identidade ganha consistência quando a maneira de se definir corresponde ao comportamento cotidiano.
 
 Para concluir, lembre-se: ser profissional de vendas não significa nunca errar. Significa assumir a atividade com responsabilidade, praticar as competências necessárias e manter coerência entre o que você afirma e o que faz.
 
 ## Aplicação prática
-1. Escreva como costuma descrever sua atuação comercial.
-2. Formule uma declaração de identidade profissional.
-3. Associe a declaração a duas atitudes observáveis.
-4. Defina quando irá praticar essas atitudes.
+1. Complete: “Eu sou um vendedor que…”.
+2. Complete: “Meu padrão é…”.
+3. Complete: “Eu não aceito mais…”.
+4. Associe as respostas a atitudes observáveis, profissionais e respeitosas.
 5. Ao final da semana, registre o que conseguiu aplicar e o que precisa ajustar.
 
 ## Síntese para encerramento
