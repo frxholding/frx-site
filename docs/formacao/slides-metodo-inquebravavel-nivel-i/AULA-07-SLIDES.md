@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **O que é vender de verdade**
 
-Etapa: Fundamentos
+Etapa: Fundamentos de Vendas — Bloco 2
 
 ## Slide 2 — Objetivo
 Ao final desta aula, o aluno deverá compreender e aplicar o seguinte princípio: Vender é entender, diagnosticar e ajudar alguém a decidir.
