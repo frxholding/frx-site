@@ -26,7 +26,7 @@ Não começar por pressão ou por uma lista de características; primeiro compre
 Entender → diagnosticar → relacionar solução e necessidade → apoiar a decisão.
 
 ## Slide 6 — Aplicação
-Um cliente relata uma dificuldade. Antes de apresentar o catálogo, formule três perguntas abertas, explique o que cada uma busca descobrir e indique como confirmaria que entendeu a necessidade. Se a solução não for adequada, reconheça isso com clareza.
+Um cliente relata uma dificuldade. Antes de apresentar o catálogo, formule cinco perguntas abertas, explique o que cada uma busca descobrir e indique como confirmaria que entendeu a necessidade. Se a solução não for adequada, reconheça isso com clareza.
 
 ## Slide 7 — Síntese
 **Entender → diagnosticar → ajudar → decidir**
