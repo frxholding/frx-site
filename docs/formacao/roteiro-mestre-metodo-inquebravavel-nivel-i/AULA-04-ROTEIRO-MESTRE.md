@@ -23,18 +23,18 @@ Disciplina, porém, não é trabalhar sem limite nem estabelecer metas impossív
 
 A disciplina também ajuda a aprender. Quando as ações são consistentes, conseguimos observar padrões: quais abordagens geram respostas, quais dúvidas aparecem com frequência e quais etapas precisam ser melhoradas. Não significa que toda resposta do mercado será previsível, mas uma rotina organizada oferece mais informação do que agir apenas de forma esporádica.
 
-Na atividade, escolha ações que dependam principalmente de você. Defina quando serão realizadas e como irá registrar a execução. Por exemplo, você pode planejar um período para preparar contatos, outro para realizar as abordagens e um breve momento para registrar os retornos. Ajuste a quantidade à sua realidade; o importante é que o plano seja claro e viável.
+Na atividade, defina metas diárias de ação, incluindo quantas pessoas pretende abordar, quantas conversas pretende realizar e quantas tentativas pretende fazer. Estabeleça um horário fixo para executar essas ações. Ajuste as metas à sua realidade para que sejam claras e viáveis; depois acompanhe a execução e revise o plano com base no que observou.
 
 Durante cinco dias, acompanhe o que foi planejado e o que realmente aconteceu. Se não cumprir uma ação, registre o motivo e ajuste o planejamento. Não use o registro apenas para se criticar; use-o para descobrir se a rotina está bem dimensionada e o que precisa mudar.
 
 Para concluir, lembre-se: a motivação pode ajudar, mas não é uma base confiável para toda a execução. A disciplina transforma intenção em rotina. Defina ações realistas, execute-as com constância e revise o que aprendeu.
 
 ## Aplicação prática
-1. Defina uma rotina comercial para os próximos cinco dias.
-2. Especifique ações concretas e horários possíveis.
+1. Defina metas diárias de ação: pessoas a abordar, conversas e tentativas.
+2. Estabeleça um horário fixo para a execução.
 3. Registre diariamente o que foi planejado e executado.
 4. Anote obstáculos sem se limitar a atribuir culpa.
-5. Ao final, ajuste a rotina com base no que observou.
+5. Ao final de cinco dias, ajuste a rotina com base no que observou.
 
 ## Síntese para encerramento
 A motivação oscila; a disciplina ajuda a manter a execução. Uma rotina realista permite agir com constância, observar resultados e ajustar o trabalho.
