@@ -35,7 +35,7 @@ Escreva um diálogo breve com uma pergunta para confirmar se a proposta faz sent
 Usar a Ficha de Aplicação da Aula 19 como apoio principal da atividade.
 
 ## Slide 9 — Fechamento
-Retomar o princípio central e pedir ao aluno que identifique uma ação concreta para aplicar na próxima conversa comercial.
+Treine três caminhos: o cliente quer avançar, precisa esclarecer uma dúvida ou decide não continuar. Em cada caso, formule uma resposta clara e respeitosa, sem assumir compromisso não confirmado.
 
 ## Nota de produção
 Este roteiro visual foi alinhado à narração-base da aula e deve permanecer fiel à Apostila 3 — Primeiras Técnicas de Vendas. Os exemplos são ilustrações didáticas. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
