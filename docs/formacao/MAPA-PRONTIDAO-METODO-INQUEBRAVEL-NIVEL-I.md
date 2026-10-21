@@ -130,3 +130,22 @@ Foi feita uma conferência automatizada dos 20 arquivos de slides no repositóri
 Foi feita uma nova conferência automatizada dos materiais de aula. Os 20 roteiros-mestre estão presentes e incluem seção de narração-base. Os 20 arquivos de slides também estão presentes; cada um tem título de aula correspondente ao número e título do roteiro, contém nove seções de slide e referência à ficha de aplicação. Total estrutural: 180 seções de slide.
 
 **Limite da verificação:** esta checagem confirma presença, organização e correspondência dos títulos, mas não substitui a revisão semântica integral de cada narração e de cada slide em comparação com as apostilas. A próxima etapa é essa revisão cruzada, seguida pela conferência audiovisual e pelo teste de plataforma.
+
+
+## Registro de continuidade — produção de roteiros de fala (21/10/2026)
+
+Foram ampliados e gravados no repositório os roteiros das aulas 10 a 13, mantendo a sequência pedagógica do Bloco 2 — Fundamentos de Vendas:
+- Aula 10 — Conexão e confiança;
+- Aula 11 — Erros que destroem vendas;
+- Aula 12 — A estrutura da venda;
+- Aula 13 — Postura do vendedor.
+
+Os quatro arquivos agora contêm uma narração expandida para gravação, objetivo de aprendizagem, aplicação prática, síntese de encerramento e nota explícita sobre os controles editoriais ainda pendentes. As atualizações foram gravadas na branch `feature/frx-formacao-profissional`.
+
+### Próxima etapa de produção
+1. Continuar a revisão/expansão dos roteiros seguintes, sem declarar os roteiros-base como validação editorial final.
+2. Fazer a comparação linha a linha com as três apostilas originais e ajustar qualquer divergência, repetição ou lacuna.
+3. Sincronizar os roteiros de fala com os respectivos slides e fichas de aplicação.
+4. Só depois concluir a conferência semântica do audiovisual, a leitura-piloto da avaliação, a definição da carga horária, a validação dos critérios institucionais e os testes reais da plataforma.
+
+**Estado atualizado:** produção efetiva ampliada nas aulas 10–13; curso ainda em produção. Nenhuma pendência de avaliação, audiovisual, plataforma, carga horária ou certificação foi considerada resolvida por esta atualização.
