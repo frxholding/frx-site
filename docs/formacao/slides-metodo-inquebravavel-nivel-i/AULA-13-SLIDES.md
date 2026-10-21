@@ -26,7 +26,7 @@ Observe sinais como pressa, ansiedade e dependência da aprovação. Compare-os 
 Procure agir com presença, comunicar-se com clareza e manter coerência, sem pressionar o cliente por uma resposta positiva.
 
 ## Slide 6 — Aplicação
-Compare duas aberturas: uma apressada, que busca aprovação imediata, e outra calma, clara e respeitosa. Que sinais de postura aparecem em cada uma?
+Compare duas aberturas: uma apressada e dependente de aprovação, outra calma, clara e respeitosa. Identifique comportamentos observáveis e escolha dois ajustes que possa testar na próxima conversa.
 
 ## Slide 7 — Síntese
 **Insegurança × segurança → ansiedade × presença → dependência × profissionalismo**
