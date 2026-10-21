@@ -251,3 +251,10 @@ Após a leitura da Apostila 1, as atividades das narrações 01–06 foram ajust
 **Resultado limitado desta etapa:** a primeira rodada de alinhamento estrutural e temático das aulas 01–06 foi executada. Isso não equivale à revisão palavra por palavra de toda narração nem à validação final dos slides. As Apostilas 2 e 3 não foram localizadas; portanto, a conferência de fidelidade das aulas 07–20 permanece pendente até que os arquivos originais estejam disponíveis.
 
 **Próxima tarefa:** obter as Apostilas 2 e 3, revisar os roteiros 07–20 contra as fontes e depois realizar a conferência semântica completa das 20 narrações, slides e fichas. Audiovisual, avaliação-piloto, carga horária, critérios institucionais, configuração da plataforma e teste integral do aluno continuam pendentes.
+
+
+## Sincronização de fichas — aulas 07–13 (21/10/2026)
+
+As fichas de aplicação 07–13 foram revisadas para explicitar passos, evidências esperadas e entregas dos alunos, mantendo coerência temática com as narrações e os roteiros visuais existentes. A atualização cobre perguntas de diagnóstico, foco no problema do cliente, escuta ativa, confiança, correção de erros comerciais, sequência da venda e postura profissional.
+
+**Limite de validação:** a Apostila 2 original não foi localizada entre os arquivos disponíveis. Portanto, o ajuste das fichas não substitui a conferência integral de fidelidade às fontes. A revisão cruzada definitiva das aulas 07–13 permanece pendente até obter a Apostila 2; as demais pendências do curso continuam abertas.
