@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **Disciplina: o que sustenta resultado**
 
-Etapa: Mentalidade
+Etapa: Mentalidade Inquebrável — Bloco 1
 
 ## Slide 2 — Objetivo
 Ao final desta aula, o aluno deverá compreender e aplicar o seguinte princípio: A disciplina sustenta ações consistentes quando a motivação oscila.
