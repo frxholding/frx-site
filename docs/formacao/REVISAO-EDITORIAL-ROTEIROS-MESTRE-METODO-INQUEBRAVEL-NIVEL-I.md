@@ -39,3 +39,21 @@ Na inspeção dos arquivos do repositório, os roteiros das aulas 01–20 possue
 ## Estado
 
 **Roteiros-mestre existentes com narração-base para as 20 aulas. Revisão editorial e validação final ainda pendentes.** A existência dos arquivos não significa que o curso esteja pronto para publicação ou que os vídeos tenham sido validados.
+
+
+## Registro de revisão inicial — aulas 01–06 (21/10/2026)
+
+A Apostila 1 original foi localizada e lida. Os roteiros das aulas 01–06 foram comparados tematicamente com seus capítulos e tiveram as atividades práticas ajustadas para refletir os exercícios da fonte. Em seguida, foram conferidos os títulos, a sequência visual e as referências às fichas nos seis roteiros de slides. As fichas de aplicação 01–06 foram atualizadas para acompanhar os objetivos e exercícios revisados.
+
+### Ajustes registrados
+- Aula 01: perguntas sobre esperar versus agir e sobre terceirização de responsabilidade.
+- Aula 02: fatos, responsabilidade própria e o que faria diferente.
+- Aula 03: três rejeições, sentimentos, perguntas de compreensão e aprendizado.
+- Aula 04: metas de abordagens, conversas e tentativas, com horário fixo e acompanhamento.
+- Aula 05: três frases de identidade profissional propostas pela apostila.
+- Aula 06: impacto do estado emocional sobre as vendas e ação consciente apesar do desconforto.
+
+### Limite e próximo passo
+Esta é uma revisão temática inicial com ajuste de atividades e sincronização estrutural das fichas 01–06, não uma aprovação linha a linha de toda a narração. As Apostilas 2 e 3 originais ainda não foram localizadas. A revisão comparativa das aulas 07–20 depende dessas fontes; a conferência audiovisual, a leitura-piloto, a definição de carga horária e os testes da plataforma continuam pendentes.
+
+**Estado:** aulas 01–06 passaram por uma primeira conferência contra a Apostila 1 e tiveram as fichas de aplicação sincronizadas. A revisão editorial final dos 20 roteiros continua aberta.
