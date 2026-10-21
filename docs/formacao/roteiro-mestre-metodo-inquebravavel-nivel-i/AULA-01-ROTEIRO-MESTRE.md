@@ -27,15 +27,15 @@ Ao longo do curso, vamos desenvolver mentalidade, fundamentos e técnicas. Você
 
 Pense agora em uma atividade comercial que vem adiando. Talvez seja iniciar contatos, retomar uma conversa, estudar melhor uma solução ou organizar uma rotina. Pergunte a si mesmo: estou esperando uma condição que talvez nunca seja perfeita? Qual primeiro passo realista posso dar sem comprometer a qualidade ou o respeito pelo cliente?
 
-Na atividade, registre a situação que está adiando, identifique a primeira ação concreta sob seu controle e determine quando irá executá-la. Escolha uma ação pequena o suficiente para começar e relevante o suficiente para gerar aprendizado. Depois, registre o que aconteceu, sem presumir que o resultado dependeu apenas de você.
+Na atividade, responda às duas perguntas centrais da Apostila 1: você está esperando algo acontecer ou está fazendo acontecer? Em que área ainda está terceirizando responsabilidade? Depois, registre uma situação que vem adiando, identifique a primeira ação concreta sob seu controle e determine quando irá executá-la. Escolha uma ação pequena o suficiente para começar e relevante o suficiente para gerar aprendizado.
 
 Para concluir, guarde esta ideia: o nascimento do vendedor não acontece apenas quando ele realiza a primeira venda. Começa quando assume sua parte, deixa de esperar indefinidamente e transforma intenção em ação responsável.
 
 ## Aplicação prática
-1. Registre uma situação comercial que vem adiando.
-2. Separe o que depende de você daquilo que não controla.
-3. Defina a primeira ação concreta que pode executar.
-4. Estabeleça quando irá realizá-la.
+1. Responda: estou esperando algo acontecer ou estou fazendo acontecer?
+2. Identifique onde ainda está terceirizando responsabilidade.
+3. Registre uma situação comercial que vem adiando.
+4. Defina a primeira ação concreta sob seu controle e quando irá realizá-la.
 5. Depois da tentativa, registre o que aprendeu.
 
 ## Síntese para encerramento
