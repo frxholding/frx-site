@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **Fechamento: conduzir o próximo passo**
 
-Etapa: Técnicas
+Etapa: Primeiras Técnicas de Vendas — Bloco 3
 
 ## Slide 2 — Objetivo
 Conduzir a conversa à decisão com perguntas simples e respeito à escolha do cliente.
