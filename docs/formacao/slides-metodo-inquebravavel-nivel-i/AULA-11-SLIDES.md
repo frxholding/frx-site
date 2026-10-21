@@ -26,7 +26,7 @@ Quando o vendedor ocupa toda a conversa, perde oportunidades de descobrir a nece
 Falar demais, ouvir pouco, compreender mal e pressionar pode levar a uma apresentação desconectada do problema.
 
 ## Slide 6 — Aplicação
-Situação: o cliente tenta explicar um problema, mas o vendedor interrompe e lista vantagens. Identifique os erros e formule uma pergunta que ajude a compreender a situação.
+Analise uma conversa em que o vendedor interrompe e lista vantagens antes de compreender. Identifique o comportamento observado, seu efeito provável e uma pergunta que ajudaria a esclarecer a necessidade.
 
 ## Slide 7 — Síntese
 **Falar demais → não entender → pressionar → não ouvir → foco no produto**
