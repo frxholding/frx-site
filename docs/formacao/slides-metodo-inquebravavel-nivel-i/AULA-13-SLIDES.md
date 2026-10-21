@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **Postura do vendedor**
 
-Etapa: Fundamentos
+Etapa: Fundamentos de Vendas — Bloco 2
 
 ## Slide 2 — Objetivo
 Ao final desta aula, o aluno deverá compreender e aplicar este princípio: a postura do vendedor é percebida antes e além das palavras.
