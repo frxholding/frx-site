@@ -33,10 +33,11 @@ Para concluir, faça a si mesmo esta pergunta: estou tentando pressionar para ve
 
 ## Aplicação prática
 1. Escolha uma situação comercial real ou simulada.
-2. Escreva três perguntas que faria antes de apresentar a solução.
+2. Escreva cinco perguntas abertas que faria antes de apresentar a solução.
 3. Explique qual informação cada pergunta busca esclarecer.
-4. Registre como confirmaria que entendeu a necessidade.
-5. Identifique uma situação em que seria profissional reconhecer que a solução não é adequada.
+4. Registre quais evidências precisaria ouvir antes de concluir que a solução é adequada.
+5. Descreva como confirmaria que entendeu a necessidade.
+6. Identifique uma situação em que seria profissional reconhecer que a solução não é adequada.
 
 ## Síntese para encerramento
 Vender é entender, diagnosticar e ajudar alguém a decidir. A apresentação deve estar ligada à necessidade identificada e respeitar a autonomia do cliente.
