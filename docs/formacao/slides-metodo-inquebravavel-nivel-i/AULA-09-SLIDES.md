@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **Escuta ativa**
 
-Etapa: Fundamentos
+Etapa: Fundamentos de Vendas — Bloco 2
 
 ## Slide 2 — Objetivo
 Ao final desta aula, o aluno deverá compreender e aplicar o seguinte princípio: Escutar ativamente é prestar atenção, não interromper, interpretar e aprofundar.
