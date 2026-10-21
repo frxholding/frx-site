@@ -149,3 +149,18 @@ Os quatro arquivos agora contêm uma narração expandida para gravação, objet
 4. Só depois concluir a conferência semântica do audiovisual, a leitura-piloto da avaliação, a definição da carga horária, a validação dos critérios institucionais e os testes reais da plataforma.
 
 **Estado atualizado:** produção efetiva ampliada nas aulas 10–13; curso ainda em produção. Nenhuma pendência de avaliação, audiovisual, plataforma, carga horária ou certificação foi considerada resolvida por esta atualização.
+
+
+## Continuidade de produção — roteiros das aulas 14–16 (21/10/2026)
+
+Foram ampliados os roteiros de fala para gravação das seguintes aulas do Bloco 3 — Primeiras Técnicas de Vendas:
+- Aula 14 — Abordagem;
+- Aula 15 — Início da conversa;
+- Aula 16 — Diagnóstico: compreender antes de apresentar.
+
+Os arquivos reais foram atualizados na branch `feature/frx-formacao-profissional`. Cada roteiro inclui objetivo de aprendizagem, narração expandida, atividade prática, síntese e ressalva editorial sobre a necessidade de comparação integral com a Apostila 3 e sincronização final com os slides.
+
+### Próxima etapa
+Continuar com as aulas 17–20 e, depois, executar a revisão cruzada dos 20 roteiros e slides contra as apostilas. A expansão da narração não equivale à validação editorial final. A conferência audiovisual, a validação-piloto da avaliação, a definição da carga horária, os critérios institucionais e os testes reais da plataforma continuam pendentes.
+
+**Estado atualizado:** roteiros de fala expandidos nesta rodada: aulas 10–16. Curso ainda em produção; não declarar conclusão enquanto houver pendências.
