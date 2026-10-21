@@ -30,7 +30,7 @@ Você quer falar com uma empresa sobre uma necessidade comercial. Em vez de list
 **Saudação → contexto → abertura. Comece uma conversa; não despeje uma oferta.**
 
 ## Slide 8 — Atividade
-Escreva três aberturas para contextos diferentes. Cada uma deve conter saudação, contexto e uma pergunta ou convite leve.
+Escreva duas versões de abordagem usando saudação, contexto e abertura. Revise cada versão para garantir que inicia uma conversa sem tentar apresentar tudo ou concluir a venda no primeiro contato.
 
 Usar a Ficha de Aplicação da Aula 14 como apoio principal da atividade.
 
