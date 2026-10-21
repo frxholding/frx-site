@@ -57,3 +57,10 @@ A Apostila 1 original foi localizada e lida. Os roteiros das aulas 01–06 foram
 Esta é uma revisão temática inicial com ajuste de atividades e sincronização estrutural das fichas 01–06, não uma aprovação linha a linha de toda a narração. As Apostilas 2 e 3 originais ainda não foram localizadas. A revisão comparativa das aulas 07–20 depende dessas fontes; a conferência audiovisual, a leitura-piloto, a definição de carga horária e os testes da plataforma continuam pendentes.
 
 **Estado:** aulas 01–06 passaram por uma primeira conferência contra a Apostila 1 e tiveram as fichas de aplicação sincronizadas. A revisão editorial final dos 20 roteiros continua aberta.
+
+
+## Revisão de aplicação — fichas 07–13 (21/10/2026)
+
+Foram revisadas e atualizadas as fichas de aplicação das aulas 07–13 para tornar as entregas mais observáveis e aproximar cada exercício da respectiva narração e do roteiro visual já existente. Os ajustes reforçam: perguntas antes da apresentação (aula 07), distinção entre visão do vendedor e problema do cliente (aula 08), escuta e confirmação de entendimento (aula 09), comportamentos que constroem confiança (aula 10), identificação de erros com evidências e correções (aula 11), sequência da conversa comercial (aula 12) e postura observável (aula 13).
+
+**Limite:** esta é uma revisão de coerência entre materiais existentes, não uma comparação integral com a Apostila 2 original, que ainda não foi localizada. Não registrar a fidelidade de conteúdo das aulas 07–13 como validada até que a apostila-fonte esteja disponível e seja conferida.
