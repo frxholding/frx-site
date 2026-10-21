@@ -229,3 +229,16 @@ Os arquivos foram atualizados diretamente na branch `feature/frx-formacao-profis
 Foi realizada nova busca na branch do repositório e na Biblioteca de arquivos acessível nesta conversa. Foi localizado o arquivo `APOSTILA 1.docx`; não foram localizadas cópias identificáveis das Apostilas 2 — Fundamentos de Vendas — e 3 — Primeiras Técnicas de Vendas — entre os arquivos pesquisados. O repositório contém os roteiros, slides e materiais de controle, mas não as três apostilas originais como arquivos-fonte identificáveis.
 
 **Consequência:** não registrar a comparação linha a linha com as três apostilas como concluída. Os roteiros 01–20 foram expandidos com base na estrutura pedagógica existente e nas referências temáticas registradas, mas a validação integral de fidelidade das aulas 07–20 depende de localizar ou disponibilizar as Apostilas 2 e 3 originais. Após obter as fontes, conferir também a Apostila 1 contra as aulas 01–06, corrigindo divergências antes da aprovação editorial final.
+
+
+## Revisão cruzada inicial — Apostila 1 versus aulas 01–06 (21/10/2026)
+
+Foi feita a leitura da Apostila 1 original localizada na Biblioteca e a comparação temática com os roteiros 01–06. Foram ajustadas as atividades práticas para preservar mais explicitamente os exercícios propostos na fonte:
+- Aula 01: verificar se o aluno está esperando ou agindo e onde terceiriza responsabilidade;
+- Aula 02: registrar o que aconteceu, a própria responsabilidade e o que faria diferente;
+- Aula 03: analisar três rejeições, sentimentos e aprendizados;
+- Aula 04: definir metas diárias de abordagens, conversas e tentativas, com horário fixo;
+- Aula 05: completar “Eu sou um vendedor que…”, “Meu padrão é…” e “Eu não aceito mais…”;
+- Aula 06: responder o que afeta o emocional e como isso interfere nas vendas, preservando o princípio de agir apesar do desconforto sem ignorar segurança ou preparo essencial.
+
+**Limite desta revisão:** foi uma conferência temática e de aderência dos exercícios, não uma aprovação editorial integral palavra por palavra. A sincronização com os slides e fichas ainda precisa ser feita. As Apostilas 2 e 3 continuam indisponíveis entre os arquivos localizados, então a revisão cruzada das aulas 07–20 permanece bloqueada até que as fontes originais sejam encontradas.
