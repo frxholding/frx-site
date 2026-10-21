@@ -17,7 +17,7 @@ Quando esperamos que a ansiedade desapareça completamente antes de fazer um con
 
 Imagine que você tenha planejado entrar em contato com um possível cliente e, no momento, sinta insegurança. Uma resposta possível é identificar o que está sentindo, lembrar o objetivo da conversa, revisar a preparação necessária e realizar a ação com profissionalismo. Isso não garante que a venda aconteça. Significa apenas que a emoção não cancelou automaticamente o compromisso assumido.
 
-Controle emocional também não significa esconder tudo o que sentimos, ignorar limites ou agir de maneira imprudente. Se estiver muito cansado, sem condições de conduzir uma conversa com clareza ou diante de uma situação que exige preparação adicional, pode ser apropriado ajustar o momento. O princípio não é agir a qualquer custo; é evitar que uma emoção passageira determine automaticamente toda a conduta.
+Controle emocional também não significa esconder tudo o que sentimos, ignorar limites ou agir de maneira imprudente. Se estiver muito cansado, sem condições de conduzir uma conversa com clareza ou diante de uma situação que exige preparação adicional, pode ser apropriado ajustar o momento. O princípio central da Apostila 1 é não esperar estar emocionalmente perfeito para executar uma ação necessária. Isso não significa agir a qualquer custo: se houver risco, exaustão incapacitante ou falta de preparo essencial, ajuste o momento e retome a ação quando puder fazê-la com segurança e profissionalismo.
 
 Uma forma prática de lidar com o desconforto é criar uma pequena sequência: perceber, nomear e escolher. Primeiro, perceba o que está acontecendo: ansiedade, frustração ou receio de ouvir uma recusa. Depois, nomeie a emoção sem transformá-la em uma conclusão sobre sua capacidade. Por fim, escolha a ação profissional mais adequada: fazer uma pausa breve, revisar a pergunta inicial, consultar uma informação ou realizar o contato planejado.
 
@@ -27,15 +27,15 @@ Não confunda controle emocional com frieza. É possível reconhecer que uma con
 
 Ao longo do método, vamos aprender fundamentos e técnicas para conduzir conversas, compreender necessidades e apresentar soluções. Essas técnicas serão mais úteis quando acompanhadas da disposição para praticar, inclusive nos dias em que a confiança não estiver no nível desejado. A prática precisa ser acompanhada de reflexão, preparo e respeito aos limites envolvidos.
 
-Na atividade, identifique uma situação comercial que costuma provocar desconforto. Registre o que você costuma sentir e como reage. Em seguida, escolha uma ação profissional que precisa realizar e descreva como poderá executá-la sem esperar que a emoção desapareça completamente. Se necessário, inclua uma preparação ou pausa que ajude a agir com clareza.
+Na atividade, responda às perguntas da Apostila 1: o que mais afeta seu emocional hoje e como isso afeta suas vendas? Depois, identifique uma situação comercial que provoca desconforto, registre sua reação habitual e escolha uma ação profissional que possa executar sem esperar que toda insegurança desapareça. Se necessário, inclua uma preparação ou pausa breve que ajude a agir com clareza.
 
 Para concluir, lembre-se: controle emocional não é ausência de emoção. É reconhecer o que está sentindo, escolher uma resposta consciente e agir com responsabilidade dentro de uma situação segura e apropriada.
 
 ## Aplicação prática
-1. Identifique uma situação comercial que costuma provocar desconforto.
-2. Registre a emoção que costuma aparecer e sua reação habitual.
-3. Defina a ação profissional necessária.
-4. Escreva uma preparação ou estratégia que ajude a agir com consciência.
+1. Registre o que mais afeta seu emocional hoje.
+2. Explique como isso afeta suas vendas.
+3. Identifique a emoção e sua reação habitual em uma situação concreta.
+4. Defina uma ação profissional e a preparação necessária para executá-la com clareza.
 5. Depois da tentativa, registre o que funcionou e o que precisa ser ajustado.
 
 ## Síntese para encerramento
