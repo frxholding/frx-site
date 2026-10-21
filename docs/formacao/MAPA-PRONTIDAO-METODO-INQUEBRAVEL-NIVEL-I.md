@@ -327,3 +327,10 @@ Foi concluída uma comparação interna entre slides, roteiros-mestres e fichas 
 Foi comparada a correspondência entre slides, roteiros-mestres e fichas de aplicação das aulas 7 a 13. Foi encontrada uma divergência de instrução na aula 07: slides e roteiro pediam três perguntas, enquanto a ficha solicitava cinco. A divergência foi corrigida nos slides e no roteiro, que agora pedem cinco perguntas abertas e registro das evidências necessárias antes de recomendar a solução. O relatório detalhado está em [Auditoria cruzada — Aulas 7 a 13](AUDITORIA-CRUZADA-AULAS-07-A-13-METODO-INQUEBRAVEL.md).
 
 As demais aulas verificadas apresentaram alinhamento interno entre tema, atividade e entrega. Esta conclusão não substitui a conferência integral com a Apostila 2, a validação audiovisual nem a leitura-piloto; esses gates continuam pendentes.
+
+
+## Auditoria cruzada interna das aulas 1–6 (21/10/2026)
+
+Foi concluída a comparação interna entre slides, roteiros-mestres e fichas de aplicação das aulas 1 a 6. A matriz registra correspondência consistente entre tema, objetivo, atividade e entrega nos três artefatos. O relatório detalhado está em [Auditoria cruzada — Aulas 1 a 6](AUDITORIA-CRUZADA-AULAS-01-A-06-METODO-INQUEBRAVEL.md).
+
+Com este registro, as auditorias internas de consistência estão documentadas para os três blocos (aulas 1–6, 7–13 e 14–20). Isso não substitui a validação integral de fidelidade às apostilas, a conferência semântica do audiovisual, a leitura-piloto ou os testes e definições institucionais necessários antes da publicação.
