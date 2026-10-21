@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **Rejeição: o teste real**
 
-Etapa: Mentalidade
+Etapa: Mentalidade Inquebrável — Bloco 1
 
 ## Slide 2 — Objetivo
 Ao final desta aula, o aluno deverá compreender e aplicar o seguinte princípio: A rejeição pode ser examinada sem reação impulsiva nem pressão sobre o cliente.
