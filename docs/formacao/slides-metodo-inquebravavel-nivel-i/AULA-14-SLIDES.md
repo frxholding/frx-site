@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **Abordagem: abrir a conversa**
 
-Etapa: Técnicas
+Etapa: Primeiras Técnicas de Vendas — Bloco 3
 
 ## Slide 2 — Objetivo
 Iniciar o contato com naturalidade e abrir espaço para ouvir o cliente.
