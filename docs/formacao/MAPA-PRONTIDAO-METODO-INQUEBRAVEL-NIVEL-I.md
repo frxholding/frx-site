@@ -380,3 +380,20 @@ Executar a revisão visual e funcional da navegação responsiva, conferir os re
 - Confirmada a existência no diretório raiz do repositório dos recursos usados na página de Formação Profissional: `logo.png`, `curso-licitacoes.png`, `curso-gestao-comercial.png` e `curso-metodo-inquebravel.png`.
 - Confirmada também a existência dos arquivos de capa citados na página inicial: `livro1.png`, `livro2.png`, `livro3.png`, `livro4.png`, `livro5.png` e `livro8.png`.
 - As imagens da página inicial e da Formação Profissional inspecionadas possuem texto alternativo (`alt`). A existência dos arquivos não substitui a inspeção visual de corte, proporção, legibilidade ou qualidade no navegador.
+
+
+## Auditoria adicional de integração — navegação e chamadas para cursos (21/10/2026)
+
+Foi realizada nova inspeção estática da página inicial, da página de Formação Profissional, do redirecionamento legado `cursos.html` e das três páginas individuais de cursos.
+
+- A página inicial contém três caminhos para `formacao.html`, incluindo o item de navegação e chamadas de destaque.
+- A página de Formação Profissional aponta para `index.html`, `livros.html`, a seção de consultorias da página inicial e as três páginas individuais de cursos; os arquivos locais referenciados existem na branch.
+- O arquivo `cursos.html` mantém redirecionamento para `formacao.html`, preservando o caminho antigo.
+- As três páginas individuais contêm chamadas “Conhecer no Hotmart”, com estes destinos registrados no código:
+  - Licitações do Zero: `https://go.hotmart.com/M105410314F?dp=1`
+  - Gestão Comercial na Prática: `https://go.hotmart.com/R105426127C`
+  - Método Inquebrável — Nível I: `https://go.hotmart.com/F105461125G`
+
+**Resultado:** os caminhos locais e os destinos de matrícula estão presentes no código inspecionado. Esta verificação não confirma que o checkout externo esteja ativo, que a compra possa ser concluída, nem que a experiência visual funcione corretamente em navegador/dispositivos reais. Esses testes permanecem pendentes.
+
+**Próxima prioridade de integração:** realizar teste visual em desktop, tablet e celular; depois testar cada chamada externa e registrar se o destino abre o produto correto. Não publicar nem declarar a integração pronta apenas com base nesta auditoria estática.
