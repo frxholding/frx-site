@@ -367,3 +367,10 @@ Por decisão de planejamento, a conferência integral dos roteiros, slides e ava
 
 ### Próxima prioridade
 Executar a revisão visual e funcional da navegação responsiva, conferir os recursos de imagem e validar a jornada de clique até as páginas de matrícula. Depois, registrar o resultado antes de considerar a integração pronta.
+
+## Atualização — navegação responsiva da Formação Profissional
+
+- Corrigido o comportamento responsivo do menu em `formacao.html`: os links de navegação deixam de desaparecer em telas menores; passam a reorganizar-se em linhas, com espaçamento e tipografia ajustados para tablet e celular.
+- Ajustada a chamada principal da página para evitar a repetição de “conhecimento” e comunicar com mais clareza a proposta da FRX.
+- Confirmado por leitura do arquivo atualizado que a regra antiga que ocultava os links foi removida e que as regras responsivas novas estão presentes.
+- Limitação: validação feita por inspeção estática do código; ainda é necessário visualizar a página em navegador real em larguras de desktop, tablet e celular.
