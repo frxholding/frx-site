@@ -1,18 +1,43 @@
 # Ficha de Aplicação — Método Inquebrável — Nível I
 
-## Aula 16 — Diagnóstico: entender antes de vender
+## Aula 16 — Diagnóstico: compreender antes de apresentar
 
 ### Objetivo
-Investigar a situação do cliente, o problema que enfrenta e o impacto desse problema antes de apresentar uma solução.
+Investigar a situação atual, identificar o problema relatado e compreender seu impacto antes de recomendar uma solução.
+
+### Situação
+Escolha um produto ou serviço e descreva uma situação comercial real ou simulada.
 
 ### Aplicação prática
-Escolha um produto ou serviço e simule uma conversa em que você precisa compreender a situação atual do cliente. Escreva perguntas para identificar a situação, o problema e suas consequências.
+
+**1. Situação atual — como funciona hoje?**
+Registre o que o cliente informou.
+
+**2. Problema — o que precisa ser resolvido ou melhorado?**
+Descreva a dificuldade relatada, sem acrescentar uma causa que ainda não foi confirmada.
+
+**3. Impacto — por que isso importa?**
+Registre o impacto descrito pelo cliente. Não exagere consequências nem crie urgência artificial.
+
+**4. Perguntas de aprofundamento**
+- Pergunta 1:
+- Pergunta 2:
+
+**5. Resumo para confirmar o entendimento**
+“Pelo que entendi, hoje ______, a principal dificuldade é ______ e isso afeta ______. Entendi corretamente ou faltou algo importante?”
 
 ### Entrega
-Roteiro de diagnóstico com perguntas separadas em três partes: situação atual, problema e impacto.
+Apresente o diagnóstico preenchido e indique quais informações ainda precisam ser esclarecidas antes de recomendar uma solução.
+
+### Lista de verificação
+- [ ] Separei situação, problema e impacto.
+- [ ] Diferenciei o que o cliente relatou das minhas hipóteses.
+- [ ] Não presumi a causa do problema.
+- [ ] Confirmei o resumo ou registrei que a confirmação ainda falta.
+- [ ] Identifiquei informações pendentes antes da apresentação.
 
 ### Reflexão
-Você já compreendeu o problema e seu impacto ou está apenas supondo o que o cliente precisa?
+Compreendi o problema e seu impacto ou estou apenas supondo o que o cliente precisa?
 
 ### Orientação
-A atividade deve ser realizada a partir da experiência ou de uma situação comercial simulada. O objetivo é transformar o conteúdo da aula em prática e registro de aprendizado.
+Use uma situação real ou simulada. Em simulações, identifique os dados como fictícios; não os apresente como fatos de um cliente real.
