@@ -7,30 +7,28 @@ Fundamentos
 Conexão, entendimento e confiança
 
 ## Objetivo de aprendizagem
-Compreender como o interesse genuíno, a escuta e a coerência ajudam a construir confiança.
+Compreender como conexão, entendimento e confiança se relacionam na construção da venda.
 
 ## Roteiro de fala — narração-base
 
-Nesta aula, vamos estudar conexão e confiança. A Apostila 2 apresenta uma sequência: conexão, entendimento, confiança e venda. Essa ordem é importante porque a relação comercial não começa com uma pressão para fechar; começa com a construção de uma conversa em que o cliente possa explicar sua situação.
+Nesta aula, vamos estudar a relação entre conexão e confiança. A Apostila 2 apresenta uma sequência: conexão, entendimento, confiança e venda. Essa sequência ajuda a lembrar que a venda não deve começar com pressão ou com uma apresentação desconectada do cliente. Primeiro precisamos estabelecer uma conversa genuína e procurar compreender a situação da pessoa.
 
-Criar conexão não significa fingir intimidade ou usar frases prontas sem prestar atenção. Significa demonstrar interesse genuíno, ouvir o que a pessoa diz e estar presente na conversa. Quando o vendedor procura compreender antes de apresentar, o cliente tem mais espaço para explicar suas necessidades e esclarecer o que considera importante.
+Conexão não significa fingir intimidade ou concordar com tudo o que o cliente diz. Significa demonstrar interesse verdadeiro, prestar atenção e estar presente na conversa. O cliente precisa perceber que estamos tentando compreender sua situação, e não apenas esperando uma oportunidade para falar do produto.
 
-O entendimento vem da escuta e das perguntas. Sem ele, o vendedor pode apresentar algo que não corresponde ao problema real. Quando o cliente percebe que sua situação foi compreendida, fica mais fácil conversar sobre alternativas relevantes. A confiança, porém, não deve ser exigida nem presumida: ela é construída pela clareza, pela segurança e pela coerência entre o que o vendedor diz e o que pode cumprir.
+O entendimento se desenvolve quando ouvimos, fazemos perguntas e evitamos pressupor necessidades. Quanto mais clara for a compreensão, mais fácil será explicar se a solução oferecida realmente se relaciona com o problema. A confiança pode ser prejudicada quando falamos de maneira contraditória, exageramos promessas ou pressionamos para obter uma resposta rápida.
 
-Imagine uma conversa em que o vendedor promete mais do que sabe que pode entregar. Mesmo que a apresentação pareça convincente, a incoerência compromete a confiança. Em contraste, reconhecer limites, explicar com clareza e responder honestamente às dúvidas favorece uma relação profissional.
+Imagine uma pessoa que chega com uma dúvida e recebe imediatamente uma proposta pronta. Talvez a proposta contenha informações úteis, mas o cliente ainda não percebeu que sua situação foi compreendida. Uma abordagem melhor começa por ouvir, confirmar o que foi entendido e só então explicar como a solução pode ajudar.
 
-A sequência conexão → entendimento → confiança → venda não é uma garantia automática de compra. Ela organiza a postura: primeiro criar condições para uma conversa real, depois compreender, construir confiança e então conduzir a decisão. O cliente continua livre para decidir.
-
-Na atividade, pense em comportamentos que mostrem interesse real e clareza. Evite respostas genéricas como “ser simpático”; descreva o que você faria ou diria concretamente.
+A sequência não deve ser tratada como uma fórmula mecânica que garante uma venda. Cada cliente tem seu contexto e pode decidir não avançar. Nosso papel é construir a conversa com interesse genuíno, entendimento e clareza, respeitando a decisão do cliente.
 
 ## Aplicação prática
-Descreva três comportamentos concretos que podem demonstrar interesse genuíno e clareza em uma conversa comercial.
+Descreva uma situação comercial e escreva duas atitudes que demonstrariam interesse genuíno, duas perguntas para compreender o cliente e uma forma de explicar a solução com clareza.
 
 ## Síntese
-A venda profissional começa pela compreensão do cliente e exige escuta, clareza, coerência e respeito à decisão. A técnica deve ajudar a conduzir a conversa, não substituir o entendimento.
+Conexão → entendimento → confiança → venda. A confiança é construída por escuta, clareza, coerência e respeito, não por pressão.
 
 ## Orientação de produção
-Usar a Apostila 2 — Fundamentos de Vendas como fonte principal. Os exemplos são ilustrações didáticas. Os slides devem apoiar a fala, sem substituir o conteúdo-base. Não associar vídeo existente sem conferência semântica.
+Usar a Apostila 2 — Fundamentos de Vendas como fonte principal. Os exemplos são ilustrações didáticas. Os slides apoiam a fala e não substituem o conteúdo-base. Não associar vídeo existente sem conferência semântica.
 
 ## Fonte e limite de escopo
 Roteiro baseado no capítulo correspondente da Apostila 2. Não define carga horária oficial nem critérios institucionais de aprovação ou certificação.
