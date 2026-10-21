@@ -273,3 +273,8 @@ Foram ajustadas as atividades dos slides 09, 10, 12 e 13 para ficarem mais próx
 ## Ajustes adicionais de slides — aulas 11, 14, 15, 18 e 19 (21/10/2026)
 
 Foram atualizadas as atividades visuais da aula 11 para identificar comportamento, efeito provável e pergunta de esclarecimento; da aula 14 para produzir duas versões de abordagem; da aula 15 para organizar perguntas sobre situação atual, dificuldades e melhorias; da aula 18 para praticar ouvir, validar e responder a uma objeção; e da aula 19 para trabalhar confirmação da proposta, próximo passo e respeito à recusa. A revisão integral contra as Apostilas 2 e 3 segue pendente.
+
+
+## Correção de controle documental da avaliação (21/10/2026)
+
+Foram corrigidos os documentos de avaliação para refletir o estado real das fontes: a Apostila 1 foi localizada e conferida tematicamente nas aulas 01–06; as Apostilas 2 e 3 originais ainda não foram localizadas. Assim, não se deve declarar as questões 07–20 validadas diretamente contra as apostilas originais. O banco de 20 questões e o gabarito permanecem estruturados, mas a revisão direta das fontes, a leitura-piloto, a configuração na plataforma e a aprovação institucional dos critérios continuam pendentes.
