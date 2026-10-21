@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **Como o cliente pensa**
 
-Etapa: Fundamentos
+Etapa: Fundamentos de Vendas — Bloco 2
 
 ## Slide 2 — Objetivo
 Ao final desta aula, o aluno deverá compreender e aplicar o seguinte princípio: O vendedor pensa no produto; o cliente pensa no problema.
