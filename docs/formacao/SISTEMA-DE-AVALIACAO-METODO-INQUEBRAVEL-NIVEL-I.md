@@ -2,7 +2,7 @@
 
 ## 1. Finalidade
 
-Este documento organiza uma proposta de avaliação para o Método Inquebrável — Nível I a partir do conteúdo efetivamente presente nas três apostilas-fonte.
+Este documento organiza uma proposta de avaliação para o Método Inquebrável — Nível I. A Apostila 1 foi localizada e conferida tematicamente para as aulas 01–06. As Apostilas 2 e 3 originais não foram localizadas; por isso, as questões 07–20 ainda precisam de conferência direta com as respectivas fontes antes da aprovação editorial final.
 
 A avaliação deve verificar se o aluno compreendeu os princípios apresentados e consegue transformá-los em ação prática.
 
@@ -364,4 +364,4 @@ Não registrar como regra oficial até aprovação da FRX:
 
 **Banco inicial de avaliação estruturado: 20 questões objetivas + estudo de caso integrador + projeto integrador proposto.**
 
-Todo o conteúdo das questões foi construído a partir dos conceitos identificados nas três apostilas-fonte. A configuração institucional da avaliação permanece pendente.
+O banco contém 20 questões, estudo de caso e projeto integrador proposto. A correspondência direta das questões 07–20 com as Apostilas 2 e 3 permanece pendente, assim como a leitura-piloto, a configuração na plataforma e a aprovação institucional dos critérios de avaliação.
