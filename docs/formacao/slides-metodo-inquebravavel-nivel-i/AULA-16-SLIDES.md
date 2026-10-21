@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **Diagnóstico: compreender antes de apresentar**
 
-Etapa: Técnicas
+Etapa: Primeiras Técnicas de Vendas — Bloco 3
 
 ## Slide 2 — Objetivo
 Investigar situação atual, problema real e impacto antes de recomendar uma solução.
