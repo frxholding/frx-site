@@ -26,7 +26,7 @@ Inicie de forma simples e natural. A abertura deve iniciar a conversa, não ante
 Crie entendimento, investigue a situação e o problema; só depois apresente a solução relacionada ao diagnóstico e verifique o próximo passo.
 
 ## Slide 6 — Aplicação
-Um vendedor começa pelo preço sem investigar a necessidade. Identifique as etapas que ficaram comprometidas e explique como retomaria a conversa.
+Monte uma conversa com cinco etapas: abordagem, conexão, diagnóstico, apresentação e decisão. Escreva uma frase ou pergunta para cada etapa e indique quando seria necessário voltar para esclarecer algo.
 
 ## Slide 7 — Síntese
 **Abordagem → conexão → diagnóstico → apresentação → decisão**
