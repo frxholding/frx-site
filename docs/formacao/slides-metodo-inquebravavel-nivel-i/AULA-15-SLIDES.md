@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **Início da conversa**
 
-Etapa: Técnicas
+Etapa: Primeiras Técnicas de Vendas — Bloco 3
 
 ## Slide 2 — Objetivo
 Começar pela realidade do cliente antes de falar de produto, preço ou proposta.
