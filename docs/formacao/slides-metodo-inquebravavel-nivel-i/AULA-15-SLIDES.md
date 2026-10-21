@@ -30,7 +30,7 @@ Antes de apresentar uma solução, pergunte como o processo funciona hoje, o que
 **Situação atual → dificuldade → melhoria desejada. Primeiro entenda; depois apresente.**
 
 ## Slide 8 — Atividade
-Formule cinco perguntas iniciais que ajudem a entender a situação sem transformar a conversa em interrogatório.
+Monte uma sequência de perguntas sobre como o cliente trabalha hoje, quais dificuldades enfrenta e o que gostaria de melhorar. Organize-as para que a conversa avance naturalmente, sem virar um interrogatório.
 
 Usar a Ficha de Aplicação da Aula 15 como apoio principal da atividade.
 
