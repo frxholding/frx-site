@@ -302,3 +302,14 @@ Ajustei o Slide 9 de cada roteiro visual para converter o encerramento genérico
 - Aula 20: definir ação, fato observável e ajuste, separando fatos de interpretações.
 
 Esta rodada melhora a aplicação prática dos slides, mas não substitui a conferência direta com as Apostilas 2 e 3 nem a validação audiovisual. O status geral de prontidão permanece condicionado aos gates já registrados.
+
+
+## Fichas de aplicação 16 e 18–20 revisadas (21/10/2026)
+
+As fichas de aplicação foram aprofundadas para alinhar atividades e evidências práticas aos roteiros e slides:
+- Aula 16: separa situação atual, problema e impacto; inclui perguntas de aprofundamento, resumo de confirmação e distinção entre relato e hipótese.
+- Aula 18: explicita ouvir, validar, esclarecer e responder; inclui verificação de informações pendentes e proíbe inventar dados ou promessas.
+- Aula 19: contempla três caminhos possíveis — avançar, esclarecer/avaliar ou recusar — e pede próximos passos apropriados sem pressão.
+- Aula 20: transforma o ciclo em plano observável com ação, fatos, distinção entre fato e interpretação, ajuste e registro do aprendizado.
+
+Estas melhorias são revisão editorial e pedagógica interna dos materiais existentes. Não representam validação integral contra as Apostilas 2 e 3, leitura-piloto com participantes nem conferência do audiovisual. Esses itens permanecem pendentes.
