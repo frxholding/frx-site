@@ -473,3 +473,10 @@ A inspeção do CSS confirma regras responsivas nas páginas novas, mas isso nã
 4. Só então concluir a integração e repetir os testes no domínio público.
 
 Não mesclar o PR nº 1 de escopo amplo. Não tratar a formação nem os cursos como concluídos apenas porque as páginas do site estão prontas.
+
+
+### Ajuste de transparência na oferta de Licitações
+
+Na branch `release/frx-formacao-site`, a página `curso-licitacoes.html` foi ajustada para informar expressamente que a oferta atualmente disponível na Hotmart corresponde ao Nível 1. Os níveis 2 a 5 são descritos como estrutura progressiva prevista, sem serem anunciados como disponíveis até que seus materiais sejam validados e liberados. Os dois CTAs da página agora identificam o Nível 1.
+
+O PR nº 2 foi atualizado e segue aberto como rascunho, com cinco arquivos alterados. A validação estática após esse ajuste confirmou título, meta description, regras responsivas e nenhuma referência local ausente na página de Licitações e na página de Formação. A validação visual real e a identificação da origem da publicação permanecem pendentes.
