@@ -196,3 +196,29 @@ A aula 09 — Escuta ativa — também foi expandida para narração de gravaç�
 **Cobertura de expansão desta rodada:** aulas 09–20. As aulas 01–08 ainda precisam passar pela mesma padronização/expansão e, depois, todas as 20 devem ser comparadas integralmente com as três apostilas. A expansão melhora a condição de produção, mas não constitui aprovação editorial final nem validação audiovisual.
 
 A próxima prioridade é revisar as aulas 01–08 no mesmo padrão e, em seguida, executar a revisão cruzada dos 20 roteiros com apostilas, slides e fichas de aplicação. As pendências de audiovisual, avaliação-piloto, carga horária, critérios institucionais, configuração da plataforma e teste completo permanecem abertas.
+
+
+## Continuidade de produção — aulas 01–08 expandidas (21/10/2026)
+
+Foram ampliados os roteiros de fala para gravação das aulas 01–08, completando a rodada de expansão das 20 narrações:
+- Aula 01 — O nascimento do vendedor;
+- Aula 02 — Responsabilidade total;
+- Aula 03 — Rejeição: o teste real;
+- Aula 04 — Disciplina: o que sustenta resultado;
+- Aula 05 — Identidade do vendedor;
+- Aula 06 — Controle emocional;
+- Aula 07 — O que é vender de verdade;
+- Aula 08 — Como o cliente pensa.
+
+Os arquivos foram atualizados diretamente na branch `feature/frx-formacao-profissional`. Os roteiros 01–20 agora têm versões expandidas de narração para gravação, com objetivos, aplicações práticas, sínteses e orientações de produção. Isso encerra a rodada de expansão de primeira versão, não a revisão editorial final.
+
+### Próxima fase obrigatória: validação cruzada
+1. Comparar cada narração, linha a linha, com a apostila original correspondente, confirmando fidelidade, sequência dos conceitos, ausência de acréscimos indevidos, lacunas e repetições.
+2. Sincronizar as 20 narrações com os 20 roteiros de slides e as 20 fichas de aplicação.
+3. Registrar correções identificadas e conferir novamente os arquivos alterados.
+4. Conferir o conteúdo real dos audiovisuais antes de associá-los às aulas.
+5. Fazer leitura-piloto da avaliação e validar os critérios pedagógicos.
+6. Definir a carga horária real e formalizar critérios de conclusão/certificação.
+7. Configurar a plataforma, anexar os materiais e testar a jornada integral do aluno.
+
+**Estado atualizado:** primeira versão expandida dos roteiros de fala 01–20 presente no repositório. A revisão comparativa integral com as apostilas ainda não foi concluída; o curso permanece em produção e não deve ser declarado concluído.
