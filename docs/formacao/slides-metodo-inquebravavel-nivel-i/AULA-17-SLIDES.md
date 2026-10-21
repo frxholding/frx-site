@@ -5,7 +5,7 @@
 ## Slide 1 — Abertura
 **Apresentação: ligar solução e necessidade**
 
-Etapa: Técnicas
+Etapa: Primeiras Técnicas de Vendas — Bloco 3
 
 ## Slide 2 — Objetivo
 Explicar a solução relacionando-a ao problema identificado e ao resultado esperado.
