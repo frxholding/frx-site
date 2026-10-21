@@ -26,7 +26,7 @@ Concentre-se no relato do cliente. Não presuma o que ele quer dizer nem prepare
 Depois de ouvir, confirme se entendeu corretamente. Se algo estiver pouco claro, pergunte para aprofundar.
 
 ## Slide 6 — Aplicação
-Exemplo: o cliente relata uma dificuldade com prazos. Pergunte “Me explica melhor isso”, “Por que isso é importante para você?” e “O que acontece se isso não for resolvido?”.
+Em uma simulação, deixe o cliente concluir, registre fatos sem misturar interpretações, faça perguntas abertas sobre situação, importância e impacto e resuma o entendimento para que o cliente confirme ou corrija.
 
 ## Slide 7 — Síntese
 **Atenção → não interromper → interpretar → aprofundar**
