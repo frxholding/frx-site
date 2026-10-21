@@ -334,3 +334,10 @@ As demais aulas verificadas apresentaram alinhamento interno entre tema, ativida
 Foi concluída a comparação interna entre slides, roteiros-mestres e fichas de aplicação das aulas 1 a 6. A matriz registra correspondência consistente entre tema, objetivo, atividade e entrega nos três artefatos. O relatório detalhado está em [Auditoria cruzada — Aulas 1 a 6](AUDITORIA-CRUZADA-AULAS-01-A-06-METODO-INQUEBRAVEL.md).
 
 Com este registro, as auditorias internas de consistência estão documentadas para os três blocos (aulas 1–6, 7–13 e 14–20). Isso não substitui a validação integral de fidelidade às apostilas, a conferência semântica do audiovisual, a leitura-piloto ou os testes e definições institucionais necessários antes da publicação.
+
+
+## Verificação estrutural consolidada dos materiais (21/10/2026)
+
+Consulta direta aos três diretórios confirmou os 60 artefatos esperados: 20 arquivos de slides, 20 roteiros-mestres e 20 fichas de aplicação, numerados de 01 a 20, sem arquivos faltantes segundo os padrões de nomenclatura. O relatório de conferência está em [Verificação estrutural consolidada](VERIFICACAO-ESTRUTURAL-CONSOLIDADA-METODO-INQUEBRAVEL-NIVEL-I.md).
+
+A existência e a numeração completa dos arquivos não comprovam fidelidade integral às apostilas, validação audiovisual, duração oficial, funcionamento da plataforma ou aprovação dos critérios de avaliação e certificação. Essas pendências permanecem abertas.
