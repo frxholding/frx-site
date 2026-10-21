@@ -35,7 +35,7 @@ Monte uma sequência de perguntas sobre como o cliente trabalha hoje, quais difi
 Usar a Ficha de Aplicação da Aula 15 como apoio principal da atividade.
 
 ## Slide 9 — Fechamento
-Retomar o princípio central e pedir ao aluno que identifique uma ação concreta para aplicar na próxima conversa comercial.
+Antes da próxima conversa, escolha uma pergunta aberta e use-a para compreender a situação do cliente. Depois, registre o que aprendeu e se evitou transformar a conversa em interrogatório.
 
 ## Nota de produção
 Este roteiro visual foi alinhado à narração-base da aula e deve permanecer fiel à Apostila 3 — Primeiras Técnicas de Vendas. Os exemplos são ilustrações didáticas. Não atribuir ao audiovisual existente conteúdo que ainda não tenha sido conferido.
