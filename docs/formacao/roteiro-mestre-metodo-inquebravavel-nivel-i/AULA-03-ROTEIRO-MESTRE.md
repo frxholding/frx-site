@@ -30,11 +30,11 @@ Na atividade desta aula, pense em uma recusa recente ou imagine uma situação p
 Para concluir, lembre-se: a recusa faz parte do processo, mas não define sozinha sua capacidade profissional. Responda com maturidade, respeite a decisão do cliente e transforme a experiência em aprendizado quando houver informação útil para isso.
 
 ## Aplicação prática
-1. Descreva uma recusa real ou simulada.
-2. Registre sua reação emocional sem tratá-la como prova de incapacidade.
+1. Liste três rejeições recentes ou, se não houver, use três situações simuladas.
+2. Registre o que sentiu em cada situação.
 3. Separe os fatos das interpretações.
-4. Escreva uma pergunta respeitosa para compreender a decisão, se for apropriado.
-5. Identifique um aprendizado e um ajuste possível para a próxima tentativa.
+4. Para uma das situações, escreva a pergunta respeitosa: “Posso entender o que pesou na sua decisão?”, usando-a somente se for apropriado.
+5. Registre o que pode aprender com cada experiência.
 
 ## Síntese para encerramento
 A recusa pode oferecer informação, mas não define o valor profissional de quem vende. Evite reagir impulsivamente, respeite a decisão do cliente e use a experiência para aprender.
