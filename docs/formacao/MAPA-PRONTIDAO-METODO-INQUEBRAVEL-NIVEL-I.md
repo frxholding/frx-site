@@ -480,3 +480,20 @@ Não mesclar o PR nº 1 de escopo amplo. Não tratar a formação nem os cursos 
 Na branch `release/frx-formacao-site`, a página `curso-licitacoes.html` foi ajustada para informar expressamente que a oferta atualmente disponível na Hotmart corresponde ao Nível 1. Os níveis 2 a 5 são descritos como estrutura progressiva prevista, sem serem anunciados como disponíveis até que seus materiais sejam validados e liberados. Os dois CTAs da página agora identificam o Nível 1.
 
 O PR nº 2 foi atualizado e segue aberto como rascunho, com cinco arquivos alterados. A validação estática após esse ajuste confirmou título, meta description, regras responsivas e nenhuma referência local ausente na página de Licitações e na página de Formação. A validação visual real e a identificação da origem da publicação permanecem pendentes.
+
+
+### Auditoria estática final dos arquivos propostos no PR nº 2
+
+Na branch `release/frx-formacao-site`, foram verificadas as páginas que compõem a proposta:
+- `cursos.html`: redirecionamento com referências locais válidas.
+- `formacao.html`: título e meta description presentes; imagens referenciadas disponíveis na raiz; nenhuma âncora interna ausente; nenhum ID duplicado.
+- `curso-licitacoes.html`, `curso-gestao-comercial.html` e `curso-metodo-inquebravavel.html`: títulos e meta descriptions presentes; nenhuma referência local ausente; nenhum ID duplicado; regras responsivas no CSS.
+- Os três CTAs Hotmart foram seguidos a partir do catálogo público e abrem as páginas corretas, todas com preço de R$ 97,00.
+
+A página inicial `index.html` foi deliberadamente mantida idêntica à versão de `main` e não faz parte do diff do PR nº 2. A auditoria de referência completa identificou nela dois metadados de descrição e links para `#livros` e `#servicos` sem alvos correspondentes no arquivo da branch. Como o site público tem uma página inicial diferente da versão em `main`, esses achados foram registrados como dívida técnica preexistente, sem alterar a home nesta proposta de escopo limitado.
+
+### Estado de publicação
+
+Não há evidência de execução de workflow de CI associado ao head atual do PR nº 2 (lista de execuções retornada vazia e status checks sem entradas). A configuração do GitHub Pages não pôde ser consultada por meio do endpoint disponível nesta integração. Portanto, a fonte exata de publicação e a divergência entre produção e `main` permanecem sem confirmação. A validação visual real ainda está pendente.
+
+**Próxima decisão técnica:** antes de mesclar, identificar no GitHub (Settings → Pages) a fonte de publicação e confirmar se este repositório efetivamente publica o domínio. Se a publicação vier de outro provedor ou repositório, preparar o deploy por esse caminho em vez de presumir que o merge em `main` atualiza o site.
