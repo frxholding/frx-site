@@ -30,7 +30,7 @@ Após apresentar a solução, pergunte se faz sentido avançar. Se houver dúvid
 **Clareza → pergunta simples → próximo passo. Não pressione por um “sim”.**
 
 ## Slide 8 — Atividade
-Escreva três perguntas de fechamento que permitam avançar, esclarecer dúvidas ou encerrar respeitosamente.
+Escreva um diálogo breve com uma pergunta para confirmar se a proposta faz sentido, uma pergunta sobre o próximo passo e uma resposta respeitosa para o caso de o cliente não querer avançar.
 
 Usar a Ficha de Aplicação da Aula 19 como apoio principal da atividade.
 
